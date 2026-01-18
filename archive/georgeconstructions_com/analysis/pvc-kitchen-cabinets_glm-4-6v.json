@@ -1,0 +1,1592 @@
+{
+  "url": "https://georgeconstructions.com/pvc-kitchen-cabinets/",
+  "title": "PVC Kitchen Cabinets Design - George",
+  "total_height": 9141,
+  "method": "pixel",
+  "vision_model": "glm-4.6v",
+  "screenshots": [
+    "/Users/x/AutoClone/output/screenshots/pvc-kitchen-cabinets_pixel_1.jpg",
+    "/Users/x/AutoClone/output/screenshots/pvc-kitchen-cabinets_pixel_2.jpg",
+    "/Users/x/AutoClone/output/screenshots/pvc-kitchen-cabinets_pixel_3.jpg",
+    "/Users/x/AutoClone/output/screenshots/pvc-kitchen-cabinets_pixel_4.jpg",
+    "/Users/x/AutoClone/output/screenshots/pvc-kitchen-cabinets_pixel_5.jpg",
+    "/Users/x/AutoClone/output/screenshots/pvc-kitchen-cabinets_pixel_6.jpg",
+    "/Users/x/AutoClone/output/screenshots/pvc-kitchen-cabinets_pixel_7.jpg",
+    "/Users/x/AutoClone/output/screenshots/pvc-kitchen-cabinets_pixel_8.jpg",
+    "/Users/x/AutoClone/output/screenshots/pvc-kitchen-cabinets_pixel_9.jpg",
+    "/Users/x/AutoClone/output/screenshots/pvc-kitchen-cabinets_pixel_10.jpg",
+    "/Users/x/AutoClone/output/screenshots/pvc-kitchen-cabinets_pixel_11.jpg",
+    "/Users/x/AutoClone/output/screenshots/pvc-kitchen-cabinets_pixel_12.jpg",
+    "/Users/x/AutoClone/output/screenshots/pvc-kitchen-cabinets_pixel_13.jpg"
+  ],
+  "chunks": [
+    {
+      "module_type": "hero",
+      "module_name_suggestion": "kitchen-cabinets-hero",
+      "is_common_module": true,
+      "layout": {
+        "container": "full-width",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "图片（厨房场景）",
+        "primary": "#FF8C00",
+        "secondary": "#333333",
+        "heading": "#FFFFFF",
+        "text": "#FFFFFF",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "48px",
+        "heading_weight": "700",
+        "body_size": "20px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "navbar",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "顶部导航栏，包含logo和7个导航链接（Products/Projects/Blog/Service/Video/About/Contact）及1个橙色按钮（Quick Quote）"
+        },
+        {
+          "type": "heading",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "主标题'PVC KITCHEN CABINETS'，白色（#FFFFFF），加粗700"
+        },
+        {
+          "type": "paragraph",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "副标题'One-Stop Building Material Solution Supplier'，白色（#FFFFFF）"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色背景（#FF8C00），白色文字，'Quick Quote'"
+        }
+      ],
+      "images": [
+        {
+          "type": "hero-banner",
+          "count": 1,
+          "width": "100%",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "居中",
+          "object_fit": "cover",
+          "has_overlay": true,
+          "overlay_color": "#00000080",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "PVC KITCHEN CABINETS",
+        "subtitle": "One-Stop Building Material Solution Supplier",
+        "paragraphs": [],
+        "button_texts": [
+          "Quick Quote"
+        ],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，hero区域改为单列布局，图片占满宽度，文字居中；移动端（≤480px）导航栏折叠为汉堡菜单",
+      "content_summary": "页面顶部hero区域，展示PVC厨房橱柜的主视觉信息，包含导航栏、主标题、副标题及行动号召按钮",
+      "special_effects": "按钮hover时背景色加深至#E67300，hero图片有半透明黑色叠加层突出文字",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/pvc-kitchen-cabinets_pixel_1.jpg",
+      "chunk_index": 0
+    },
+    {
+      "module_type": "product-grid",
+      "module_name_suggestion": "pvc-kitchen-cabinets-grid",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 3,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "40px",
+        "alignment": "left",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#f0f0f0",
+        "heading": "#222222",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "600",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "40px",
+        "padding_bottom": "40px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 3,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": true,
+          "has_border": false,
+          "details": "白色背景卡片，带轻微阴影，每个卡片包含产品图片、标题和描述文本"
+        }
+      ],
+      "images": [
+        {
+          "type": "product/thumbnail",
+          "count": 3,
+          "width": "100%",
+          "height": "200px",
+          "aspect_ratio": "16:9",
+          "position": "网格排列",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Custom Your PVC Kitchen Cabinets from China",
+        "subtitle": "",
+        "paragraphs": [
+          "Enhance the look of your kitchen with our professional guidance on various PVC kitchen cabinets incorporating different finishes, layouts, and materials. There is a PVC cabinet perfect for you whether you prefer a classic style or a sleek modern look!"
+        ],
+        "button_texts": [
+          "Check Demos →"
+        ],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "White PVC Shaker Kitchen Cabinets",
+            "description": "Product Design The kitchen in the picture exemplifies elegant white shaker kitchen cabinets, showcasing...",
+            "link_text": ""
+          },
+          {
+            "title": "White PVC Kitchen Cabinets",
+            "description": "As one of the most important parts of any home, kitchen cabinets are chosen by homeowners depending on...",
+            "link_text": ""
+          },
+          {
+            "title": "PVC Material For Modular Kitchen",
+            "description": "Types And Uses Of PVC In Modular Kitchen In contemporary kitchen design, PVC (polyvinyl chloride) is...",
+            "link_text": ""
+          }
+        ]
+      },
+      "responsive_hints": "平板设备（≤768px）下，网格布局改为2列；移动端（≤480px）改为单列，卡片宽度占满容器",
+      "content_summary": "页面中部产品网格展示区域，核心展示不同类型的PVC厨房橱柜产品，包含产品图片、标题及简要描述，提供产品分类浏览",
+      "special_effects": "卡片hover时阴影加深，图片hover时轻微缩放",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/pvc-kitchen-cabinets_pixel_2.jpg",
+      "chunk_index": 1
+    },
+    {
+      "module_type": "content-block",
+      "module_name_suggestion": "pvc-boards-details",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 1,
+        "rows": 2,
+        "gap_horizontal": "30px",
+        "gap_vertical": "50px",
+        "alignment": "left",
+        "direction": "column"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#222222",
+        "secondary": "#666666",
+        "heading": "#222222",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "50px",
+        "padding_bottom": "50px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "heading",
+          "count": 2,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "两个标题，分别为'PVC hollow boards'和'PVC foam boards'，深灰色（#222222），加粗700"
+        },
+        {
+          "type": "paragraph",
+          "count": 2,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "两个段落，分别描述PVC空心板和泡沫板的特点"
+        },
+        {
+          "type": "image",
+          "count": 2,
+          "width": "300px",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "两个产品图片，展示PVC空心板和泡沫板的实物样例"
+        }
+      ],
+      "images": [
+        {
+          "type": "product",
+          "count": 2,
+          "width": "300px",
+          "height": "auto",
+          "aspect_ratio": "4:3",
+          "position": "左右交替（空心板在左，泡沫板在右）",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "",
+        "subtitle": "",
+        "paragraphs": [
+          "PVC hollow boards have an empty interior and are known for their greater flexibility. They are not only lighter but also more cost-effective than the other option. Regrettably, this kind comes with some drawbacks. Their thermal resistance is low and they are not resistant to termites, moisture, or fire. PVC foam boards are more durable compared to them.",
+          "PVC foam boards may be pricier, yet they possess numerous favorable characteristics. Hollow boards are not as thick, wide, or long-lasting as solid boards. They are also protected from heat and may occasionally need precise finishing touches. Foam board PVC kitchen cabinets are more durable and sturdy, making them a superior choice for your kitchen cabinet layout."
+        ],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，每个部分改为单列布局，图片与文字垂直堆叠；移动端（≤480px）图片宽度调整为100%，文字居中显示",
+      "content_summary": "该区域详细对比PVC空心板与泡沫板的特点，通过图文结合的方式展示两种材料在厨房橱柜中的应用差异",
+      "special_effects": "图片hover时可能触发轻微阴影效果，增强视觉层次感",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/pvc-kitchen-cabinets_pixel_3.jpg",
+      "chunk_index": 2
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "kitchen-cabinets-advantages",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 3,
+        "rows": 2,
+        "gap_horizontal": "30px",
+        "gap_vertical": "30px",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#666666",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 6,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色卡片，带线条图标（齿轮/计时器/手势/铅笔/文档/星星），显示优势标题（如Durable）和描述文字"
+        }
+      ],
+      "images": [
+        {
+          "type": "icon",
+          "count": 6,
+          "width": "40px",
+          "height": "40px",
+          "aspect_ratio": "1:1",
+          "position": "卡片左上角",
+          "object_fit": "contain",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "line-icon"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Advantages - Raw Materials",
+        "subtitle": "",
+        "paragraphs": [
+          "George PVC offers a wide variety of color options, with a PVC film thickness of approximately 0.035mm and a lifespan of up to 15 years. George utilizes adhesive from Germany, an essential material for PVC items. The strong adhesion of the PVC film ensures it sticks firmly to the panel without easily coming off. The door can either be flat or unsteady in shape, closely resembling solid wood.",
+          "PVC kitchen cabinets are well-known for their superior strength, guaranteeing they can endure the demands of daily use. Made from top-notch materials, these cabinets are designed to endure, making them a dependable option for homeowners looking for durable cabinetry solutions.",
+          "Choosing cabinets that can withstand spills and moisture is essential for kitchens to maintain their structural integrity. PVC cabinets shine in this aspect, showcasing outstanding moisture resistance features. This helps maintain the structural integrity of the cabinets and makes cleaning and maintenance easier, leading to a stress-free kitchen environment.",
+          "PVC kitchen cabinet installation is an easy process that ensures homeowners have a smooth transition. Because they are lightweight, PVC cabinets are easy to handle and install, which saves time and effort while renovating. PVC cabinets improve usability and storage capacity while blending seamlessly with any kitchen design when built properly.",
+          "Compared to cabinet materials like wood",
+          "Choosing PVC cabinets for your kitchen",
+          "Termite resistance is an excellent feature"
+        ],
+        "button_texts": [
+          "Contact Us"
+        ],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Durable",
+            "description": "PVC kitchen cabinets are well-known for their superior strength, guaranteeing they can endure the demands of daily use. Made from top-notch materials, these cabinets are designed to endure, making them a dependable option for homeowners looking for durable cabinetry solutions."
+          },
+          {
+            "title": "Moisture Resistance",
+            "description": "Choosing cabinets that can withstand spills and moisture is essential for kitchens to maintain their structural integrity. PVC cabinets shine in this aspect, showcasing outstanding moisture resistance features. This helps maintain the structural integrity of the cabinets and makes cleaning and maintenance easier, leading to a stress-free kitchen environment."
+          },
+          {
+            "title": "Installing It Easy",
+            "description": "PVC kitchen cabinet installation is an easy process that ensures homeowners have a smooth transition. Because they are lightweight, PVC cabinets are easy to handle and install, which saves time and effort while renovating. PVC cabinets improve usability and storage capacity while blending seamlessly with any kitchen design when built properly."
+          },
+          {
+            "title": "Affordable and Stylish",
+            "description": "Compared to cabinet materials like wood"
+          },
+          {
+            "title": "Eco-conscious",
+            "description": "Choosing PVC cabinets for your kitchen"
+          },
+          {
+            "title": "Termite-resistant",
+            "description": "Termite resistance is an excellent feature"
+          }
+        ]
+      },
+      "responsive_hints": "平板设备（≤768px）下，网格布局改为2列；移动端（≤480px）改为单列，卡片垂直排列",
+      "content_summary": "页面中部展示PVC厨房橱柜的六大核心优势（耐用性、防潮、安装便捷、价格实惠、环保、白蚁抵抗），每个优势以卡片形式呈现，包含图标、标题和详细描述",
+      "special_effects": "按钮hover时背景色加深至#E67300，卡片hover时轻微阴影效果",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/pvc-kitchen-cabinets_pixel_4.jpg",
+      "chunk_index": 3
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "kitchen-cabinets-features",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 3,
+        "rows": 2,
+        "gap_horizontal": "30px",
+        "gap_vertical": "30px",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#333333",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "18px",
+        "heading_weight": "700",
+        "body_size": "14px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 6,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色卡片，每个包含左侧线条图标、标题和描述文本，无阴影和边框"
+        }
+      ],
+      "images": [],
+      "extracted_content": {
+        "main_title": "",
+        "subtitle": "",
+        "paragraphs": [
+          "PVC kitchen cabinets are well-known for their superior strength, guaranteeing they can endure the demands of daily use. Made from top-notch materials, these cabinets are designed to endure, making them a dependable option for homeowners looking for durable cabinetry solutions.",
+          "Choosing cabinets that can withstand spills and moisture is essential for kitchens to maintain their structural integrity. PVC cabinets shine in this aspect, showcasing outstanding moisture resistance features. This helps maintain the structural integrity of the cabinets and makes cleaning and maintenance easier, leading to a stress-free kitchen environment.",
+          "PVC kitchen cabinet installation is an easy process that ensures homeowners have a smooth transition. Because they are lightweight, PVC cabinets are easy to handle and install, which saves time and effort while renovating. PVC cabinets improve usability and storage capacity while blending seamlessly with any kitchen design when built properly.",
+          "Compared to cabinet materials like wood or metal, PVC kitchen cabinets are more budget-friendly. They are therefore an excellent option for those with tight budgets. In addition to being customizable to accommodate a variety of design choices, from modern and simple to classic and ornate, they are available in a wide range of colors, styles, and finishes to complement any kitchen decor.",
+          "Choosing PVC cabinets for your kitchen not only improves the style and functionality but also supports environmental sustainability. PVC can be recycled, which helps minimize the environmental effects of kitchen remodels. By opting for PVC cabinets, homeowners can make an environmentally friendly choice without sacrificing quality or aesthetics.",
+          "Termite resistance is an excellent feature of PVC cabinets, meaning that your kitchen will be free of bothersome ants! Saving money on pest control services while renovating your kitchen on a tight budget is an additional benefit."
+        ],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Durable",
+            "description": "PVC kitchen cabinets are well-known for their superior strength, guaranteeing they can endure the demands of daily use. Made from top-notch materials, these cabinets are designed to endure, making them a dependable option for homeowners looking for durable cabinetry solutions."
+          },
+          {
+            "title": "Moisture Resistance",
+            "description": "Choosing cabinets that can withstand spills and moisture is essential for kitchens to maintain their structural integrity. PVC cabinets shine in this aspect, showcasing outstanding moisture resistance features. This helps maintain the structural integrity of the cabinets and makes cleaning and maintenance easier, leading to a stress-free kitchen environment."
+          },
+          {
+            "title": "Installing It Easy",
+            "description": "PVC kitchen cabinet installation is an easy process that ensures homeowners have a smooth transition. Because they are lightweight, PVC cabinets are easy to handle and install, which saves time and effort while renovating. PVC cabinets improve usability and storage capacity while blending seamlessly with any kitchen design when built properly."
+          },
+          {
+            "title": "Affordable and Stylish",
+            "description": "Compared to cabinet materials like wood or metal, PVC kitchen cabinets are more budget-friendly. They are therefore an excellent option for those with tight budgets. In addition to being customizable to accommodate a variety of design choices, from modern and simple to classic and ornate, they are available in a wide range of colors, styles, and finishes to complement any kitchen decor."
+          },
+          {
+            "title": "Eco-conscious",
+            "description": "Choosing PVC cabinets for your kitchen not only improves the style and functionality but also supports environmental sustainability. PVC can be recycled, which helps minimize the environmental effects of kitchen remodels. By opting for PVC cabinets, homeowners can make an environmentally friendly choice without sacrificing quality or aesthetics."
+          },
+          {
+            "title": "Termite-resistant",
+            "description": "Termite resistance is an excellent feature of PVC cabinets, meaning that your kitchen will be free of bothersome ants! Saving money on pest control services while renovating your kitchen on a tight budget is an additional benefit."
+          }
+        ]
+      },
+      "responsive_hints": "平板设备（≤768px）下，布局改为2列；移动端（≤480px）下，布局改为1列，卡片垂直排列",
+      "content_summary": "该区域主要展示PVC厨房橱柜的六大核心优势：耐用性、防潮性、安装便捷性、经济时尚性、环保性及防白蚁特性，通过卡片式布局清晰呈现每项优势的详细说明",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/pvc-kitchen-cabinets_pixel_5.jpg",
+      "chunk_index": 4
+    },
+    {
+      "module_type": "image-text",
+      "module_name_suggestion": "pvc-cabinet-characteristics",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#333333",
+        "heading": "#222222",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "image",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "左侧展示PVC厨房橱柜设计特性的图片，占布局50%宽度"
+        },
+        {
+          "type": "heading",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "主标题'Characteristics of a PVC kitchen cabinet design'，深灰色（#222222），加粗700"
+        },
+        {
+          "type": "paragraph",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "描述泡沫板在PVC厨房橱柜设计中的优势，包括耐热、防火、无毒等特性"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色背景（#FF8C00），白色文字，'Get a Free Quote'"
+        }
+      ],
+      "images": [
+        {
+          "type": "image",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Characteristics of a PVC kitchen cabinet design",
+        "subtitle": "",
+        "paragraphs": [
+          "Consider opting for foam boards when selecting PVC kitchen cupboard designs. This is because hollow boards typically do not withstand heat or fire, therefore they can result in sturdy cabinets. Foam boards, on the other hand, are usually made to withstand heat and fire rather well. In addition, it is thought of as a non-toxic, chemical- and corrosion-resistant substance. This guarantees hygienic handling of your food."
+        ],
+        "button_texts": [
+          "Get a Free Quote"
+        ],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，图文布局改为单列，图片占满宽度；移动端（≤480px）按钮文字简化为'Quote'",
+      "content_summary": "页面中部展示PVC厨房橱柜设计的特性，通过图文混排形式介绍泡沫板的优势，包含行动号召按钮",
+      "special_effects": "按钮hover时背景色加深至#E67300",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/pvc-kitchen-cabinets_pixel_6.jpg",
+      "chunk_index": 5
+    },
+    {
+      "module_type": "content-block",
+      "module_name_suggestion": "pvc-installation-process",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 2,
+        "rows": 2,
+        "gap_horizontal": "20px",
+        "gap_vertical": "20px",
+        "alignment": "left",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#333333",
+        "heading": "#333333",
+        "text": "#000000",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "40px",
+        "padding_bottom": "40px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "15px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 4,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "四个步骤卡片，每个包含步骤标题和描述文字，左右两列排列"
+        }
+      ],
+      "images": [
+        {
+          "type": "image",
+          "count": 1,
+          "width": "300px",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "左下角",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "PVC installation process",
+        "subtitle": "",
+        "paragraphs": [
+          "An important benefit of PVC is how easy it is to install. It comes in pre-made boards that typically don't need additional finishing touches. PVC comes in various colors and does not require laminates or additional enhancements to appear attractive. Because of its lightweight nature, it is also simple to manipulate. Nonetheless, proper expertise is needed for installing PVC foam boards, as incorrect finishing could lead to permanent damage to the cabinet."
+        ],
+        "button_texts": [],
+        "list_items": [
+          {
+            "title": "1. Measure the space:",
+            "description": "Before installing PVC cabinets, make sure to properly measure and prepare the kitchen space for the cabinets. Take out any current cabinets, appliances, and fixtures that could disrupt the setup process."
+          },
+          {
+            "title": "2. Choose the cabinet design:",
+            "description": "After measuring the space, you can select the PVC kitchen cabinet design that fits your requirements the most. PVC cabinets are available in a range of colors, designs, and textures to complement the decor of any kitchen."
+          },
+          {
+            "title": "3. Assembly:",
+            "description": "Assemble the separate cabinet units of modular PVC cabinets according to the manufacturer's instructions during installation. This could include connecting the sides, shelves, doors, and hardware using screws or other types of fasteners."
+          },
+          {
+            "title": "4. Mounting:",
+            "description": "Start by placing the lower cabinets initially, beginning at one side of the kitchen and moving towards the other side. Before attaching the cabinets to the wall and floor, make sure they are straight and level using a level tool."
+          }
+        ],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，步骤改为单列布局，图片占满宽度；移动端（≤480px）下，图片隐藏，步骤单列显示",
+      "content_summary": "展示PVC厨房橱柜的安装过程步骤，包括测量空间、选择设计、组装和安装四个关键环节，配合厨房图片辅助说明",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/pvc-kitchen-cabinets_pixel_7.jpg",
+      "chunk_index": 6
+    },
+    {
+      "module_type": "timeline",
+      "module_name_suggestion": "pvc-installation-process",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 2,
+        "rows": 3,
+        "gap_horizontal": "20px",
+        "gap_vertical": "20px",
+        "alignment": "left",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#333333",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 6,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "6个步骤卡片，每个卡片包含步骤标题和描述，背景为白色，无阴影和边框"
+        }
+      ],
+      "images": [
+        {
+          "type": "none",
+          "count": 0,
+          "width": "auto",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "none",
+          "object_fit": "none",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "none"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "PVC installation process",
+        "subtitle": "",
+        "paragraphs": [
+          "An important benefit of PVC is how easy it is to install. It comes in pre-made boards that typically don't need additional finishing touches. PVC comes in various colors and does not require laminates or additional enhancements to appear attractive. Because of its lightweight nature, it is also simple to manipulate. Nonetheless, proper expertise is needed for installing PVC foam boards, as incorrect finishing could lead to permanent damage to the cabinet."
+        ],
+        "button_texts": [],
+        "list_items": [
+          {
+            "title": "1. Measure the space:",
+            "description": "Before installing PVC cabinets, make sure to properly measure and prepare the kitchen space for the cabinets. Take out any current cabinets, appliances, and fixtures that could disrupt the setup process."
+          },
+          {
+            "title": "2. Choose the cabinet design:",
+            "description": "After measuring the space, you can select the PVC kitchen cabinet design that fits your requirements the most. PVC cabinets are available in a range of colors, designs, and textures to complement the decor of any kitchen."
+          },
+          {
+            "title": "3. Assembly:",
+            "description": "Assemble the separate cabinet units of modular PVC cabinets according to the manufacturer's instructions during installation. This could include connecting the sides, shelves, doors, and hardware using screws or other types of fasteners."
+          },
+          {
+            "title": "4. Mounting:",
+            "description": "Start by placing the lower cabinets initially, beginning at one side of the kitchen and moving towards the other side. Before attaching the cabinets to the wall and floor, make sure they are straight and level using a level tool."
+          },
+          {
+            "title": "5. Hanging wall cabinets:",
+            "description": "After positioning the base cabinets, proceed to mount the wall cabinets on top of them. Utilize a stud finder to find the wall studs and fasten the cabinets to the wall with screws. Ensure that the cabinets are horizontally straight and correctly positioned with the lower cabinets."
+          },
+          {
+            "title": "6. Finish the installation:",
+            "description": "Once the cabinets have been set up, you can enhance them by including finishing touches such as hardware, trim, and lighting. This will provide a refined and professional appearance to your contemporary PVC kitchen cabinets."
+          }
+        ],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，步骤卡片改为单列布局，每行1个；移动端（≤480px）步骤标题字体缩小至18px",
+      "content_summary": "页面中部展示PVC厨房橱柜的安装流程，包含6个有序步骤，每个步骤有详细说明，帮助用户了解安装过程",
+      "special_effects": "步骤卡片hover时背景色轻微变灰（#f8f8f8），提升交互反馈",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/pvc-kitchen-cabinets_pixel_8.jpg",
+      "chunk_index": 7
+    },
+    {
+      "module_type": "faq",
+      "module_name_suggestion": "pvc-kitchen-cabinets-faq",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 1,
+        "rows": 7,
+        "gap_horizontal": "0",
+        "gap_vertical": "20px",
+        "alignment": "left",
+        "direction": "column"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#007bff",
+        "secondary": "#666666",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "36px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "50px",
+        "padding_bottom": "50px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "15px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 7,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色背景的FAQ卡片，包含加号图标和问题文字"
+        }
+      ],
+      "images": [],
+      "extracted_content": {
+        "main_title": "PVC Kitchen Cabinets: Buying Guide",
+        "subtitle": "",
+        "paragraphs": [],
+        "button_texts": [],
+        "list_items": [
+          {
+            "title": "Can You Paint PVC Kitchen Cabinets?",
+            "description": ""
+          },
+          {
+            "title": "Which Is Better: Plywood or PVC?",
+            "description": ""
+          },
+          {
+            "title": "Are Cabinets Made Of PVC Waterproof?",
+            "description": ""
+          },
+          {
+            "title": "Are PVC Cabinets Less Expensive Than Wood Ones?",
+            "description": ""
+          },
+          {
+            "title": "Which Is Better PVC Or WPC Kitchen Cabinets?",
+            "description": ""
+          },
+          {
+            "title": "PVC Kitchen Cabinets: What Are They?",
+            "description": ""
+          },
+          {
+            "title": "What Drawbacks Are There To PVC Cabinets?",
+            "description": ""
+          }
+        ],
+        "card_contents": []
+      },
+      "responsive_hints": "平板和移动端均保持单列布局，每个FAQ项垂直排列",
+      "content_summary": "展示PVC厨房橱柜的常见问题列表，用户可点击展开查看答案",
+      "special_effects": "hover时加号图标变为蓝色，问题文字变为深灰色",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/pvc-kitchen-cabinets_pixel_9.jpg",
+      "chunk_index": 8
+    },
+    {
+      "module_type": "faq",
+      "module_name_suggestion": "pvc-kitchen-cabinets-faq",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 1,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "30px",
+        "alignment": "left",
+        "direction": "column"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#333333",
+        "heading": "#222222",
+        "text": "#666666",
+        "border": "#e0e0e0"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "15px"
+      },
+      "components": [
+        {
+          "type": "accordion",
+          "count": 10,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "每个FAQ项是一个手风琴组件，白色背景带浅灰色边框，显示问题标题，可点击展开显示答案"
+        }
+      ],
+      "images": [
+        {
+          "type": "avatar",
+          "count": 1,
+          "width": "200px",
+          "height": "200px",
+          "aspect_ratio": "1:1",
+          "position": "左侧（联系表单区域）",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "PVC Kitchen Cabinets: Buying Guide",
+        "subtitle": "",
+        "paragraphs": [],
+        "button_texts": [
+          "Consult"
+        ],
+        "list_items": [
+          {
+            "title": "Is PVC A Suitable Material For Cabinets In Kitchens?",
+            "description": ""
+          },
+          {
+            "title": "Are PVC Cabinets Expensive?",
+            "description": ""
+          },
+          {
+            "title": "Are PVC Kitchen Cabinets Good?",
+            "description": ""
+          },
+          {
+            "title": "Can You Paint PVC Kitchen Cabinets?",
+            "description": ""
+          },
+          {
+            "title": "Which Is Better: Plywood or PVC?",
+            "description": ""
+          },
+          {
+            "title": "Are Cabinets Made Of PVC Waterproof?",
+            "description": ""
+          },
+          {
+            "title": "Are PVC Cabinets Less Expensive Than Wood Ones?",
+            "description": ""
+          },
+          {
+            "title": "Which Is Better PVC Or WPC Kitchen Cabinets?",
+            "description": ""
+          },
+          {
+            "title": "PVC Kitchen Cabinets: What Are They?",
+            "description": ""
+          },
+          {
+            "title": "What Drawbacks Are There To PVC Cabinets?",
+            "description": ""
+          }
+        ]
+      },
+      "responsive_hints": "移动端设备下，FAQ列表单列显示，每个问题占满宽度；平板设备下保持单列布局",
+      "content_summary": "页面中部展示PVC厨房橱柜的常见问题列表，包含10个可展开的手风琴项，用户可点击查看详细答案",
+      "special_effects": "FAQ项hover时标题颜色变为#FF8C00，点击展开显示答案内容",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/pvc-kitchen-cabinets_pixel_10.jpg",
+      "chunk_index": 9
+    },
+    {
+      "module_type": "contact-form",
+      "module_name_suggestion": "free-quote-form",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#666666",
+        "heading": "#222222",
+        "text": "#333333",
+        "border": "#e0e0e0"
+      },
+      "typography": {
+        "heading_size": "36px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "15px"
+      },
+      "components": [
+        {
+          "type": "heading",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "主标题'Get A Free Quote'，深灰色（#222222），加粗700"
+        },
+        {
+          "type": "paragraph",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "副标题'* Kindly send us your project details and floor plan. We will quote for you within 8 hours!'，深灰色（#333333），常规400"
+        },
+        {
+          "type": "image",
+          "count": 1,
+          "width": "200px",
+          "height": "200px",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "产品经理头像图片，左侧显示，无阴影"
+        },
+        {
+          "type": "heading",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "副标题'Want to Get Best Price Kitchen Cabinets?'，深灰色（#333333），常规400"
+        },
+        {
+          "type": "paragraph",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "段落'Share floor plan or house photos for 8-hour quote'，深灰色（#333333），常规400"
+        },
+        {
+          "type": "form",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "表单包含Name、Email、Tel/Whatsapp、City、Country-Select、Product Needed*（复选框）、Message、Choose File字段，无阴影"
+        },
+        {
+          "type": "button",
+          "count": 2,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "两个按钮，'Consult'为橙色（#FF8C00），'Send'为灰色（#666666），均无阴影"
+        }
+      ],
+      "images": [
+        {
+          "type": "avatar",
+          "count": 1,
+          "width": "200px",
+          "height": "200px",
+          "aspect_ratio": "1:1",
+          "position": "左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Get A Free Quote",
+        "subtitle": "* Kindly send us your project details and floor plan. We will quote for you within 8 hours!",
+        "paragraphs": [
+          "Want to Get Best Price Kitchen Cabinets?",
+          "Share floor plan or house photos for 8-hour quote"
+        ],
+        "button_texts": [
+          "Consult",
+          "Send"
+        ],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，左右列改为单列布局，图片在上，表单在下；移动端（≤480px）输入框堆叠，按钮占满宽度",
+      "content_summary": "页面中部获取免费报价的表单区域，包含产品经理头像、表单字段及行动号召按钮，用于收集用户项目信息",
+      "special_effects": "按钮hover时'Consult'背景色加深至#E67300，'Send'背景色加深至#555555；表单输入框focus时边框高亮为#FF8C00",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/pvc-kitchen-cabinets_pixel_11.jpg",
+      "chunk_index": 10
+    },
+    {
+      "module_type": "contact-form",
+      "module_name_suggestion": "free-quote-form",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#6c757d",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "#e0e0e0"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "15px"
+      },
+      "components": [
+        {
+          "type": "heading",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "主标题'Get A Free Quote'，深灰色（#333333），加粗700"
+        },
+        {
+          "type": "paragraph",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "副标题'* Kindly send us your project details and floor plan. We will quote for you within 8 hours!'，灰色（#666666），常规400"
+        },
+        {
+          "type": "image",
+          "count": 1,
+          "width": "200px",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "产品经理头像图片，左侧显示"
+        },
+        {
+          "type": "text",
+          "count": 2,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": "false\"",
+          "details": "左侧文字'Want to Get Best Price Kitchen Cabinets?'和'Share floor plan or house photos for 8-hour quote'，灰色（#666666），常规400"
+        },
+        {
+          "type": "input",
+          "count": 5,
+          "width": "100%",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "输入框（姓名、邮箱、电话/Whatsapp、城市、国家-Select），白色背景，浅灰色边框（#e0e0e0）"
+        },
+        {
+          "type": "checkbox",
+          "count": 10,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": "false\"",
+          "details": "产品选项复选框（Kitchen cabinet、Bedroom、Bathroom、Windows & Doors、Furniture、Lighting、Soft Furnishing、Tiles and Wood Flooring、Whole House Solution、Other Building Material）"
+        },
+        {
+          "type": "textarea",
+          "count": 1,
+          "width": "100%",
+          "height": "120px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": "true\"",
+          "details": "消息文本域，白色背景，浅灰色边框（#e0e0e0）"
+        },
+        {
+          "type": "file-upload",
+          "count": 1,
+          "width": "100%",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": "false\"",
+          "details": "文件上传按钮'Choose File'，默认显示'No file chosen'"
+        },
+        {
+          "type": "button",
+          "count": 2,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": "false\"",
+          "details": "按钮'Consult'（橙色背景#FF8C00，白色文字）和'Send'（灰色背景#6c757d，白色文字）"
+        }
+      ],
+      "images": [
+        {
+          "type": "avatar",
+          "count": 1,
+          "width": "200px",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Get A Free Quote",
+        "subtitle": "* Kindly send us your project details and floor plan. We will quote for you within 8 hours!",
+        "paragraphs": [
+          "Want to Get Best Price Kitchen Cabinets?",
+          "Share floor plan or house photos for 8-hour quote"
+        ],
+        "button_texts": [
+          "Consult",
+          "Send"
+        ],
+        "list_items": [
+          {
+            "title": "Kitchen cabinet",
+            "description": ""
+          },
+          {
+            "title": "Bedroom",
+            "description": ""
+          },
+          {
+            "title": "Bathroom",
+            "description": ""
+          },
+          {
+            "title": "Windows & Doors",
+            "description": ""
+          },
+          {
+            "title": "Furniture",
+            "description": ""
+          },
+          {
+            "title": "Lighting",
+            "description": ""
+          },
+          {
+            "title": "Soft Furnishing",
+            "description": ""
+          },
+          {
+            "title": "Tiles and Wood Flooring",
+            "description": ""
+          },
+          {
+            "title": "Whole House Solution",
+            "description": ""
+          },
+          {
+            "title": "Other Building Material",
+            "description": ""
+          }
+        ],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，表单与图片区域改为单列布局，图片占满宽度；移动端（≤480px）输入框占满容器宽度，复选框改为垂直排列",
+      "content_summary": "页面中部联系表单区域，用于用户提交项目细节和产品需求以获取免费报价，包含个人信息输入、产品选项选择、消息描述及文件上传功能",
+      "special_effects": "Consult按钮hover时背景色加深至#E67300，Send按钮hover时背景色变浅至#5a6268",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/pvc-kitchen-cabinets_pixel_12.jpg",
+      "chunk_index": 11
+    },
+    {
+      "module_type": "footer",
+      "module_name_suggestion": "footer-common",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 4,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#000000",
+        "primary": "#6c757d",
+        "secondary": "#ffffff",
+        "heading": "#ffffff",
+        "text": "#ffffff",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "heading",
+          "count": 4,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "四个列标题：Products、One-Stop Solutions、Customer Services、Contact Us，白色文字，加粗"
+        },
+        {
+          "type": "text",
+          "count": 21,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "各列下的链接文字，如Kitchen Cabinet、Wardrobe等，白色文字"
+        },
+        {
+          "type": "form",
+          "count": 2,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "whatsapp和Email输入框，白色背景，灰色边框"
+        },
+        {
+          "type": "button",
+          "count": 2,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "灰色背景（#6c757d），白色文字，'Send'按钮"
+        }
+      ],
+      "images": [],
+      "extracted_content": {
+        "main_title": "Products, One-Stop Solutions, Customer Services, Contact Us",
+        "subtitle": "",
+        "paragraphs": [
+          "Don't miss our future updates! Get Subscribed Today!"
+        ],
+        "button_texts": [
+          "Send",
+          "Send"
+        ],
+        "list_items": [
+          {
+            "title": "Kitchen Cabinet",
+            "description": ""
+          },
+          {
+            "title": "Wardrobe",
+            "description": ""
+          },
+          {
+            "title": "Windows and Doors",
+            "description": ""
+          },
+          {
+            "title": "Bathroom",
+            "description": ""
+          },
+          {
+            "title": "Wood Flooring",
+            "description": ""
+          },
+          {
+            "title": "More Furniture",
+            "description": ""
+          },
+          {
+            "title": "Whole-house Design",
+            "description": ""
+          },
+          {
+            "title": "Hotel Solutions",
+            "description": ""
+          },
+          {
+            "title": "Resort Solutions",
+            "description": ""
+          },
+          {
+            "title": "Villa Solutions",
+            "description": ""
+          },
+          {
+            "title": "Apartment Solutions",
+            "description": ""
+          },
+          {
+            "title": "Office Solutions",
+            "description": ""
+          },
+          {
+            "title": "Measurement Guidance",
+            "description": ""
+          },
+          {
+            "title": "Packaging Info",
+            "description": ""
+          },
+          {
+            "title": "Delivery & Shipment",
+            "description": ""
+          },
+          {
+            "title": "After Sales",
+            "description": ""
+          },
+          {
+            "title": "Production Time",
+            "description": ""
+          },
+          {
+            "title": "FAQ",
+            "description": ""
+          },
+          {
+            "title": "info@georgeconstructions.com",
+            "description": ""
+          },
+          {
+            "title": "+8613302843203",
+            "description": ""
+          },
+          {
+            "title": "+8613302843203",
+            "description": ""
+          }
+        ],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，四列改为两列布局；移动端（≤480px）改为单列布局，各元素垂直排列",
+      "content_summary": "页面底部footer区域，包含四个功能模块：产品分类、一站式解决方案、客户服务、联系我们，提供链接导航、联系信息和订阅表单",
+      "special_effects": "按钮hover时背景色加深，输入框focus时边框高亮",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/pvc-kitchen-cabinets_pixel_13.jpg",
+      "chunk_index": 12
+    }
+  ]
+}

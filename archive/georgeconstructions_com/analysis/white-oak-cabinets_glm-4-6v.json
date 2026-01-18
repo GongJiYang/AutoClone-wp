@@ -1,0 +1,1495 @@
+{
+  "url": "https://georgeconstructions.com/white-oak-cabinets/",
+  "title": "Why White Oak Cabinets Make a Perfect Choice",
+  "total_height": 9784,
+  "method": "pixel",
+  "vision_model": "glm-4.6v",
+  "screenshots": [
+    "/Users/x/AutoClone/output/screenshots/white-oak-cabinets_pixel_1.jpg",
+    "/Users/x/AutoClone/output/screenshots/white-oak-cabinets_pixel_2.jpg",
+    "/Users/x/AutoClone/output/screenshots/white-oak-cabinets_pixel_3.jpg",
+    "/Users/x/AutoClone/output/screenshots/white-oak-cabinets_pixel_4.jpg",
+    "/Users/x/AutoClone/output/screenshots/white-oak-cabinets_pixel_5.jpg",
+    "/Users/x/AutoClone/output/screenshots/white-oak-cabinets_pixel_6.jpg",
+    "/Users/x/AutoClone/output/screenshots/white-oak-cabinets_pixel_7.jpg",
+    "/Users/x/AutoClone/output/screenshots/white-oak-cabinets_pixel_8.jpg",
+    "/Users/x/AutoClone/output/screenshots/white-oak-cabinets_pixel_9.jpg",
+    "/Users/x/AutoClone/output/screenshots/white-oak-cabinets_pixel_10.jpg",
+    "/Users/x/AutoClone/output/screenshots/white-oak-cabinets_pixel_11.jpg",
+    "/Users/x/AutoClone/output/screenshots/white-oak-cabinets_pixel_12.jpg",
+    "/Users/x/AutoClone/output/screenshots/white-oak-cabinets_pixel_13.jpg",
+    "/Users/x/AutoClone/output/screenshots/white-oak-cabinets_pixel_14.jpg"
+  ],
+  "chunks": [
+    {
+      "module_type": "hero",
+      "module_name_suggestion": "kitchen-cabinets-hero",
+      "is_common_module": true,
+      "layout": {
+        "container": "full-width",
+        "type": "flex",
+        "columns": 1,
+        "rows": 1,
+        "gap_horizontal": "0px",
+        "gap_vertical": "0px",
+        "alignment": "center",
+        "direction": "column"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#f5f5f5",
+        "heading": "#ffffff",
+        "text": "#333333",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "48px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "navbar",
+          "count": 1,
+          "width": "100%",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "顶部导航栏，包含logo、导航链接和Quick Quote按钮"
+        },
+        {
+          "type": "button",
+          "count": 2,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "Quick Quote按钮（橙色）和Download Catalogues按钮（白色带边框）"
+        }
+      ],
+      "images": [
+        {
+          "type": "hero-banner",
+          "count": 1,
+          "width": "100%",
+          "height": "auto",
+          "aspect_ratio": "16:9",
+          "position": "背景全屏",
+          "object_fit": "cover",
+          "has_overlay": true,
+          "overlay_color": "rgba(0,0,0,0.3)",
+          "placeholder_suggestion": "kitchen-interior-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "White Oak Cabinets",
+        "subtitle": "Custom White Oak Kitchen Cabinets for Your Project",
+        "paragraphs": [
+          "White Oak continues to be quite prominent in the design business, particularly with the growing popularity of organic modern style trends. Darker grey marks are gradually being superseded with milder neutral tints and natural wood hues. In general, a greater amount of wood is being incorporated into designs. If you're thinking about oak kitchen cabinets, look into custom cabinetry made of white oak or one of our stunning (and more cheap) options."
+        ],
+        "button_texts": [
+          "Quick Quote",
+          "Download Catalogues"
+        ],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "移动端导航菜单折叠为汉堡图标，hero标题字体缩小，按钮宽度自适应",
+      "content_summary": "展示White Oak橱柜的主视觉区域，包含导航栏、背景厨房图片、标题、描述文字及行动按钮",
+      "special_effects": "背景图片带半透明遮罩，按钮hover时有颜色加深效果",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/white-oak-cabinets_pixel_1.jpg",
+      "chunk_index": 0
+    },
+    {
+      "module_type": "product-grid",
+      "module_name_suggestion": "white-oak-cabinets-grid",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 3,
+        "rows": 2,
+        "gap_horizontal": "20px",
+        "gap_vertical": "30px",
+        "alignment": "center",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#f8f8f8",
+        "heading": "#222222",
+        "text": "#333333",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "18px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "0",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 6,
+          "width": "350px",
+          "height": "120px",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "浅灰色背景卡片，居中排列，显示白橡木橱柜类型标题"
+        }
+      ],
+      "images": [],
+      "extracted_content": {
+        "card_contents": [
+          {
+            "title": "White Oak Kitchen Cabinets"
+          },
+          {
+            "title": "Modern White Oak Kitchen Cabinets"
+          },
+          {
+            "title": "Rift Sawn White Oak Cabinets"
+          },
+          {
+            "title": "Black Countertops Natural White Oak Cabinets"
+          },
+          {
+            "title": "White Oak Shaker Cabinets"
+          },
+          {
+            "title": "Oak Cabinets With White Countertops"
+          }
+        ]
+      },
+      "responsive_hints": "平板设备显示2列，移动端显示1列",
+      "content_summary": "展示白橡木橱柜的不同变体类型，包括现代、 Rift Sawn、 Shaker等款式",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/white-oak-cabinets_pixel_2.jpg",
+      "chunk_index": 1
+    },
+    {
+      "module_type": "image-text",
+      "module_name_suggestion": "white-oak-kitchen-cabinets-image-text",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 2,
+        "gap_horizontal": "30px",
+        "gap_vertical": "40px",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#f0f0f0",
+        "heading": "#222222",
+        "text": "#333333",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "image",
+          "count": 2,
+          "width": "50%",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "厨房橱柜产品图片，展示白橡木橱柜的实际应用场景"
+        },
+        {
+          "type": "button",
+          "count": 2,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": true,
+          "has_border": false,
+          "details": "橙色主按钮，显示\"Get a Free Quote\"文字，用于引导用户获取报价"
+        },
+        {
+          "type": "text",
+          "count": 4,
+          "width": "50%",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "深灰色正文文字，展示白橡木橱柜的介绍内容"
+        }
+      ],
+      "images": [
+        {
+          "type": "product",
+          "count": 2,
+          "width": "50%",
+          "height": "auto",
+          "aspect_ratio": "16:9",
+          "position": "左侧（第一行）/右侧（第二行）",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Understanding White Oak for Kitchen Cabinets",
+        "subtitle": "",
+        "paragraphs": [
+          "White oak is not to be confused with rift oak, a technique of cutting wood; it is a different kind than the well-known warm-hued honey-oak (red oak). (You can cut rift both from red and white oak.) See this page to help you decide which of oak and rift-sawn white oak cabinets best suits you.",
+          "The wood's appearance and composition differ in several important ways. White wood has a somewhat straight grain pattern; red oak has a curved one.",
+          "The Wood Database offers a detailed comparison of red and white oak: \"Upon casual observation, raw oak timber usually appears light brown, exhibiting a mild reddish hue (often red oak) or a delicate olive tint (white oak).\"",
+          "For many reasons, white oak cabinets have delighted homeowners and designers."
+        ],
+        "button_texts": [
+          "Get a Free Quote",
+          "Get a Free Quote"
+        ],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（768px-1024px）改为1列布局，移动端（<768px）堆叠为1列，每个图文块垂直排列",
+      "content_summary": "该区域通过图文混排形式，详细介绍了白橡木厨房橱柜的特点（如与红橡木的区别、外观特征），以及其受欢迎的原因，配合实际厨房场景图片增强内容的直观性和说服力",
+      "special_effects": "按钮 hover 时颜色加深（#E67E00），图片 hover 时轻微放大（scale 1.02）",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/white-oak-cabinets_pixel_3.jpg",
+      "chunk_index": 2
+    },
+    {
+      "module_type": "why-choose",
+      "module_name_suggestion": "kitchen-cabinets-why-choose",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 2,
+        "rows": 2,
+        "gap_horizontal": "30px",
+        "gap_vertical": "40px",
+        "alignment": "left",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#ff8c00",
+        "secondary": "#ffffff",
+        "heading": "#222222",
+        "text": "#333333",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "button",
+          "count": 1,
+          "width": "120px",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色按钮，文字为\"Get a Free Quote\"，位于\"Why Are White Oak Cabinets Our Obsession?\"标题下方"
+        }
+      ],
+      "images": [
+        {
+          "type": "product",
+          "count": 2,
+          "width": "50%",
+          "height": "auto",
+          "aspect_ratio": "16:9",
+          "position": "右列，上下排列",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Why Are White Oak Cabinets Our Obsession?",
+        "paragraphs": [
+          "For many reasons, white oak cabinets have delighted homeowners and designers.",
+          "Numerous choices exist to obtain the appearance of white oak kitchen cabinetry."
+        ],
+        "button_texts": [
+          "Get a Free Quote"
+        ],
+        "list_items": [
+          {
+            "title": "Considered as more flexible and \"in vogue,\" white oak is."
+          },
+          {
+            "title": "From classic to modern, the light tones complement many interior schemes."
+          },
+          {
+            "title": "It also evokes an organic sense without being clearly conventional."
+          }
+        ],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备显示2列，移动端设备显示1列",
+      "content_summary": "该区域主要展示选择白橡木橱柜的理由（灵活性、风格适配、有机感），以及白橡木橱柜的不同选项（天然白橡木和染色红橡木）",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/white-oak-cabinets_pixel_4.jpg",
+      "chunk_index": 3
+    },
+    {
+      "raw_response": "\n{\n    \"module_type\": \"content-block\",\n    \"module_name_suggestion\": \"white-oak-cabinetry-options\",\n    \"is_common_module\": true,\n    \"layout\": {\n        \"container\": \"container-1200\",\n        \"type\": \"flex\",\n        \"columns\": 2,\n        \"rows\": 1,\n        \"gap_horizontal\": \"30px\",\n        \"gap_vertical\": \"40px\",\n        \"alignment\": \"left\",\n        \"direction\": \"row\"\n    },\n    \"colors\": {\n        \"background\": \"#ffffff\",\n        \"primary\": \"#FF8C00\",\n        \"secondary\": \"#f0f0f0\",\n        \"heading\": \"#222222\",\n        \"text\": \"#333333\",\n        \"border\": \"none\"\n    },\n    \"typography\": {\n        \"heading_size\": \"24px\",\n        \"heading_weight\": \"600\",\n        \"body_size\": \"16px\",\n        \"body_weight\": \"400\",\n        \"line_height\": \"1.6\"\n    },\n    \"spacing\": {\n        \"padding_top\": \"60px\",\n        \"padding_bottom\": \"60px\",\n        \"padding_left\": \"0\",\n        \"padding_right\": \"0\",\n        \"element_margin\": \"20px\",\n        \"card_padding\": \"0\"\n    },\n    \"components\": [\n        {\n            \"type\": \"button\",\n            \"count\": 1,\n            \"width\": \"auto\",\n            \"height\": \"40px\",\n            \"border_radius\": \"4px\",\n            \"has_shadow\": false,\n            \"has_border\": false,\n            \"details\": \"橙色背景按钮，白色文字，显示‘Get a Free Quote’\"\n        }\n    ],\n    \"images\": [\n        {\n            \"type\": \"product\",\n            \"count\": 1,\n            \"width\": \"50%\",\n            \"height\": \"auto\",\n            \"aspect_ratio\": \"16:9\",\n            \"position\": \"右侧\",\n            \"object_fit\": \"cover\",\n            \"has_overlay\": false,\n            \"overlay_color\": \"none\",\n            \"placeholder_suggestion\": \"gray-bg\"\n        }\n    ],\n    \"extracted_content\": {\n        \"main_title\": \"White Oak Cabinetry: The Real Deal And For Less Here Are Options\",\n        \"subtitle\": \"\",\n        \"paragraphs\": [\n            \"Loft & Terrace stain tints by George Group can simulate the appearance of white wood. These stains enhance the warm hues of red oak and offer a stylish, neutral appearance. As noted earlier, red oak serves as a more affordable option compared to white oak cabinets.\",\n            \"Our contemporary cabinet line offers numerous options that maintain the same white oak’s look and won’t fade like natural wood. Like all wood, cabinets built of red and white oak will change with time. Natural aging of many wooden cabinets results from environmental elements: moisture, light, air, and more. Some people value them for this among other reasons.\",\n            \"Should this not seem appealing, TFL is a long-lasting, low-maintenance material that will look just as it did upon first installation. Oh, and it less expensive than actual wood.\"\n        ],\n        \"button_texts\": [\n            \"Get a Free Quote\"\n        ],\n        \"list_items\": []\n    },\n    \"responsive_hints\": \"平板设备显示2列布局，移动端设备切换为1列布局，图片自适应宽度\",\n    \"content_summary\": \"该区域主要展示白色橡木橱柜的替代选项，包括染料处理的红橡木橱柜（Stains (\"Oak\") Red Oak Cabinets）和TFL人造木橱柜（TFL Manufactured Wood Cabinets），说明其外观、成本及维护优势\",\n    \"special_effects\": \"无\"\n}",
+      "parse_error": true,
+      "screenshot": "/Users/x/AutoClone/output/screenshots/white-oak-cabinets_pixel_5.jpg",
+      "chunk_index": 4
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "kitchen-cabinets-benefits",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "20px",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#f5f5f5",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "0"
+      },
+      "components": [
+        {
+          "type": "image",
+          "count": 1,
+          "width": "400px",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "左侧展示厨房橱柜的实景图片，用于配合文字说明优势"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "120px",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色背景按钮，文字为‘Get a Free Quote’，用于引导用户获取报价"
+        }
+      ],
+      "images": [
+        {
+          "type": "product",
+          "count": 1,
+          "width": "400px",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Benefits of White Oak Kitchen Cabinets",
+        "paragraphs": [
+          "When you picture oak cabinets, you probably picture the rich colors popular in the 1980s. Particularly honey wood became rather famous during this era; so much so that many of the best kitchens of the day were overflowing with it. There is great potential in oak that was just disregarded, even if it could be excessive and nothing is more off-putting than a kitchen that looks exactly like all others. Many early 2000s homeowners totally switched to a different type of wood instead of changing oak kitchen designs.",
+          "Red oak has become less popular, but oak in general shouldn’t be discounted in the field of interior design. Making a few small changes will help it to recover its prior kitchen excellence—but in a more flexible, aesthetically beautiful manner that will help it to remain fashionable as trends change once more. The fresh, contemporary look of white wood can start this transformation.",
+          "There are many benefits to this increasingly chosen alternative. We have found several main advantages from using white oak here:",
+          "White oak, with a 1360 hardness value, is sturdier than many other hardwood species. This makes it a perfect choice for often used kitchens since many types of cabinets could soon show dents or scratches. White wood cabinets remain quite beautiful even if they are quite robust.",
+          "Usually flat-sawed, the grain patterns associated with ancient oaks were Typical massive cathedral grain patterns connected with oak are produced by a more reasonably priced, high-yielding cut, flat cut.",
+          "These days, cabinet artists and quality furniture makers are looking for fresh ideas. Board look from cathedral patterns to straight grains is changed by quarter sawn and rift cut milling. Also adding interesting bits of cross ring development to the look is quarter sawn."
+        ],
+        "button_texts": [
+          "Get a Free Quote"
+        ],
+        "list_items": []
+      },
+      "responsive_hints": "平板设备下调整为2列布局，移动端设备下调整为1列布局，图片宽度自适应",
+      "content_summary": "该区域主要展示白橡木厨房橱柜的优势，包括耐用性、纹理特点等，通过图文结合的方式阐述白橡木作为厨房橱柜材料的优势",
+      "special_effects": "无特殊交互效果，以静态图文展示为主",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/white-oak-cabinets_pixel_6.jpg",
+      "chunk_index": 5
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "kitchen-cabinets-benefits",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "20px",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#f0f0f0",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "image",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "展示现代厨房场景的图片，包含橱柜、灯具和家具"
+        },
+        {
+          "type": "text",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "包含主标题、段落和子标题的文字内容区域"
+        }
+      ],
+      "images": [
+        {
+          "type": "gallery",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "aspect_ratio": "16:9",
+          "position": "右侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Benefits of White Oak Kitchen Cabinets",
+        "paragraphs": [
+          "Red oak has become less popular, but oak in general shouldn’t be discounted in the field of interior design. Making a few small changes will help it to recover its prior kitchen excellence—but in a more flexible, aesthetically beautiful manner that will help it to remain fashionable as trends change once more. The fresh, contemporary look of white wood can start this transformation.",
+          "There are many benefits to this increasingly chosen alternative. We have found several main advantages from using white oak here:",
+          "White oak, with a 1360 hardness value, is sturdier than many other hardwood species. This makes it a perfect choice for often used kitchens since many types of cabinets could soon show dents or scratches. White wood cabinets remain quite beautiful even if they are quite robust.",
+          "Usually flat-sawn, the grain patterns associated with ancient oaks were Typical massive cathedral grain patterns connected with oak are produced by a more reasonably priced, high-yielding cut, flat cut.",
+          "These days, cabinet artists and quality furniture makers are looking for fresh ideas. Board look from cathedral patterns to straight grains is changed by quarter sawn and rift cut milling. Also adding interesting bits of cross ring development to the look is quarter sawn."
+        ],
+        "button_texts": [],
+        "list_items": []
+      },
+      "responsive_hints": "平板设备下调整为1列布局，移动端文字与图片堆叠显示",
+      "content_summary": "该区域主要展示白橡木厨房橱柜的优势，包括耐用性、纹理美观性等，通过图文结合的方式呈现",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/white-oak-cabinets_pixel_7.jpg",
+      "chunk_index": 6
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "kitchen-cabinets-features",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 2,
+        "gap_horizontal": "30px",
+        "gap_vertical": "40px",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#333333",
+        "secondary": "#666666",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "0"
+      },
+      "components": [
+        {
+          "type": "text",
+          "count": 2,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "左侧文本区域，包含两个标题及对应段落，无边框和阴影"
+        },
+        {
+          "type": "image",
+          "count": 1,
+          "width": "600px",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "右侧厨房场景图片，展示白橡木橱柜应用，无边框和阴影"
+        }
+      ],
+      "images": [
+        {
+          "type": "product",
+          "count": 1,
+          "width": "600px",
+          "height": "auto",
+          "aspect_ratio": "16:9",
+          "position": "右侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "kitchen-scene"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "",
+        "subtitle": "",
+        "paragraphs": [
+          "Honey’s and red oak’s warm crimson tones simply aren’t hip these days. We’re not sure if they’ll ever come back, but for the moment this look is best for historical settings. On the other hand, the green-brown tones of white oak with wheat tones present a somewhat contrasting backdrop that fits more with the modern emphasis on neutrals. When building using flooring, counters, and tiles, the softer white oak tones are more suited for generating contrast. White wood provides a subdued foundation for surprising highlights if you’re ready to give your kitchen a little color.",
+          "White oak finds application in many different spheres. In modern kitchens, where it can replace white-painted cabinets, adding a little of warmth and character, its modern look is very appealing. To organically beautiful a kitchen, pair white oak cabinets with a dramatic backsplash or a unique island. Moreover, different stains can help to give white oak kitchen cabinets a customized look. We value how stains show the complexity and natural beauty of wood grain."
+        ],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备调整为1列布局，移动端文本与图片堆叠显示",
+      "content_summary": "展示白橡木厨房橱柜的两大优势：趋势驱动的颜色方案与多样性应用，通过图文混排突出其现代适配性与设计灵活性",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/white-oak-cabinets_pixel_8.jpg",
+      "chunk_index": 7
+    },
+    {
+      "module_type": "image-text",
+      "module_name_suggestion": "kitchen-white-oak-contrasting-elements",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "20px",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#f5f5f5",
+        "heading": "#222222",
+        "text": "#333333",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "40px",
+        "padding_bottom": "60px",
+        "padding_left": "0",
+        "padding_right": "0",
+        "element_margin": "20px",
+        "card_padding": "0"
+      },
+      "components": [
+        {
+          "type": "image",
+          "count": 1,
+          "width": "100%",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "厨房场景图片，展示白橡木橱柜与对比元素的搭配"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色背景按钮，显示‘Get a Free Quote’文字"
+        }
+      ],
+      "images": [
+        {
+          "type": "gallery",
+          "count": 1,
+          "width": "100%",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "右侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "kitchen-interior"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Incorporate Contrasting Elements",
+        "subtitle": "",
+        "paragraphs": [
+          "As said before, usage of red oak in former kitchens is the main reason behind most of today’s uncertainty about oak. White oak’s subdued look can help avoid this problem, but as important is adding contrast to accentuate the depth of your kitchen.",
+          "One can reach this with a range of details. Because of its wide spectrum of colors and patterns as well as different textures that would accentuate the wood and draw attention to particular design elements you wish to highlight, backsplash is a perfect choice. One great place to play about with contrast is a countertop. Choose white marble or quartz counters for a polished, sophisticated look; if you want a darker tone, think about dark gray or black counters. White oak’s wood pattern fits the stone’s variance, therefore harmonizing the kitchen.",
+          "Additional items that could greatly affect the whole impact are flooring, fixtures, and hardware. To provide more depth and interest, think of combining brushed or matte brass knobs with white oak or choosing a highly polished finish. kitchens including two-tone designs can also feature white oak. Don’t hesitate to boldly highlight the best features of white oak."
+        ],
+        "button_texts": [
+          "Get a Free Quote"
+        ],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备下改为单列布局，图片宽度调整为100%",
+      "content_summary": "该区域主要介绍如何在厨房中通过对比元素（如台面、五金、地板等）搭配白橡木，以增强空间层次感和设计细节",
+      "special_effects": "按钮hover时背景色加深，图片加载时淡入效果",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/white-oak-cabinets_pixel_9.jpg",
+      "chunk_index": 8
+    },
+    {
+      "module_type": "faq",
+      "module_name_suggestion": "white-oak-kitchen-cabinets-faq",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 1,
+        "rows": 5,
+        "gap_horizontal": "0px",
+        "gap_vertical": "30px",
+        "alignment": "left",
+        "direction": "column"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#f0f0f0",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "#e0e0e0"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "40px",
+        "padding_bottom": "40px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "0px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 5,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "FAQ折叠项，包含加号图标和问题标题，边框颜色#e0e0e0"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "120px",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": true,
+          "has_border": false,
+          "details": "橙色背景按钮，白色文字，位于FAQ上方"
+        }
+      ],
+      "images": [
+        {
+          "type": "icon",
+          "count": 5,
+          "width": "20px",
+          "height": "20px",
+          "aspect_ratio": "1:1",
+          "position": "左侧",
+          "object_fit": "contain",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "plus-icon"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "White Oak Kitchen Cabinets From George",
+        "subtitle": "",
+        "paragraphs": [
+          "Search George’s large range of products while looking for innovative and motivating ideas to improve the design of your kitchen. Celebrated for our exceptional customer service and painstaking attention to detail, our specialty is custom-built cabinetry. We can help you to maximize the possibilities of your white oak cabinets and offer further design direction all through your kitchen life. Having more than 50 years of expertise, we delight in helping our clients choose a wood that accentuates their style and makes their kitchen comfortable.",
+          "Should you be ready to start, do not hesitate to drop in one of our showrooms or visit our Design Center in Foshan, China. You can reach us online as well. Get in touch now for further information."
+        ],
+        "button_texts": [
+          "Get a Free Quote"
+        ],
+        "list_items": [
+          {
+            "title": "What is white oak?",
+            "description": ""
+          },
+          {
+            "title": "Which floor colors go best with white oak kitchen cabinets?",
+            "description": ""
+          },
+          {
+            "title": "Why do white wood cabinets appeal so much?",
+            "description": ""
+          },
+          {
+            "title": "Are white oak kitchen cabinets in style right now?",
+            "description": ""
+          },
+          {
+            "title": "Which countertop color accentuates white oak cabinets?",
+            "description": ""
+          }
+        ],
+        "card_contents": []
+      },
+      "responsive_hints": "移动端保持单列布局，FAQ项垂直堆叠，按钮宽度自适应",
+      "content_summary": "展示George白橡木厨房橱柜的FAQ部分，包含公司介绍和常见问题解答",
+      "special_effects": "FAQ项 hover 时加号图标旋转，按钮 hover 时背景色加深",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/white-oak-cabinets_pixel_10.jpg",
+      "chunk_index": 9
+    },
+    {
+      "module_type": "contact-form",
+      "module_name_suggestion": "white-oak-contact-form",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0px",
+        "alignment": "center",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#f0f0f0",
+        "heading": "#000000",
+        "text": "#333333",
+        "border": "#e0e0e0"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "0px",
+        "padding_right": "0px",
+        "element_margin": "20px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "image",
+          "count": 1,
+          "width": "200px",
+          "height": "200px",
+          "border_radius": "0px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "产品经理头像图片，位于左侧列，显示为正方形，无阴影和边框"
+        },
+        {
+          "type": "text",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "主标题\"Get A Free Quote\"，位于左侧列，字体加粗，黑色"
+        },
+        {
+          "type": "text",
+          "count": 2,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "副标题和说明文字，位于左侧列，字体常规，深灰色"
+        },
+        {
+          "type": "input",
+          "count": 5,
+          "width": "100%",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "5个文本输入框（Name、Email、Tel/Whatsapp、City、Country-Select），白色背景，浅灰色边框，圆角4px"
+        },
+        {
+          "type": "checkbox",
+          "count": 10,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "10个复选框（Kitchen cabinet、Bedroom、Bathroom等），位于\"Product Needed*\"下方，默认未选中"
+        },
+        {
+          "type": "textarea",
+          "count": 1,
+          "width": "100%",
+          "height": "120px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "消息文本框，白色背景，浅灰色边框，圆角4px"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "100%",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "文件选择按钮\"Choose File\"，白色背景，浅灰色边框，圆角4px"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "100%",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "提交按钮\"Send\"，橙色背景，白色文字，圆角4px"
+        }
+      ],
+      "images": [
+        {
+          "type": "avatar",
+          "count": 1,
+          "width": "200px",
+          "height": "200px",
+          "aspect_ratio": "1:1",
+          "position": "左侧列顶部",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "product-manager-avatar"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Get A Free Quote",
+        "subtitle": "* Kindly send us your project details and floor plan. We will quote for you within 8 hours!",
+        "paragraphs": [
+          "Want to Get Best Price White Oak Cabinets?",
+          "Share floor plan or house photos for 8-hour quote"
+        ],
+        "button_texts": [
+          "Send"
+        ],
+        "list_items": []
+      },
+      "responsive_hints": "平板设备下左右列堆叠（1列），移动端输入框和复选框单列排列",
+      "content_summary": "该区域为联系表单模块，用于收集用户项目信息和需求，提供免费报价服务",
+      "special_effects": "无 hover 效果，表单元素为静态展示",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/white-oak-cabinets_pixel_11.jpg",
+      "chunk_index": 10
+    },
+    {
+      "module_type": "contact-form",
+      "module_name_suggestion": "white-oak-contact-form",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "20px",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#666666",
+        "secondary": "#f8f8f8",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "#e0e0e0"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "40px",
+        "padding_bottom": "40px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "image",
+          "count": 1,
+          "width": "200px",
+          "height": "200px",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "左侧展示的Product Manager头像图片，背景为浅灰色，尺寸固定"
+        },
+        {
+          "type": "input",
+          "count": 5,
+          "width": "100%",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "表单中的文本输入框，包括Name、Email、Tel/Whatsapp、City、Country-Select，边框为浅灰色"
+        },
+        {
+          "type": "checkbox",
+          "count": 10,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "Product Needed*下的复选框选项，包括Kitchen cabinet、Bedroom、Bathroom等10个选项"
+        },
+        {
+          "type": "textarea",
+          "count": 1,
+          "width": "100%",
+          "height": "120px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "Message文本域，用于输入项目详情，边框为浅灰色"
+        },
+        {
+          "type": "button",
+          "count": 2,
+          "width": "100%",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "表单中的按钮，包括Choose File（白色背景，灰色文字）和Send（灰色背景，白色文字）"
+        }
+      ],
+      "images": [
+        {
+          "type": "avatar",
+          "count": 1,
+          "width": "200px",
+          "height": "200px",
+          "aspect_ratio": "1:1",
+          "position": "左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Get A Free Quote",
+        "subtitle": "* Kindly send us your project details and floor plan. We will quote for you within 8 hours!",
+        "paragraphs": [
+          "Want to Get Best Price White Oak Cabinets?",
+          "Share floor plan or house photos for 8-hour quote"
+        ],
+        "button_texts": [
+          "Choose File",
+          "Send"
+        ],
+        "list_items": [
+          {
+            "title": "Kitchen cabinet",
+            "description": ""
+          },
+          {
+            "title": "Bedroom",
+            "description": ""
+          },
+          {
+            "title": "Bathroom",
+            "description": ""
+          },
+          {
+            "title": "Windows & Doors",
+            "description": ""
+          },
+          {
+            "title": "Furniture",
+            "description": ""
+          },
+          {
+            "title": "Lighting",
+            "description": ""
+          },
+          {
+            "title": "Soft Furnishing",
+            "description": ""
+          },
+          {
+            "title": "Tiles and Wood Flooring",
+            "description": ""
+          },
+          {
+            "title": "Whole House Solution",
+            "description": ""
+          },
+          {
+            "title": "Other Building Material",
+            "description": ""
+          }
+        ]
+      },
+      "responsive_hints": "平板设备下改为1列布局，移动端保持1列，表单元素堆叠显示",
+      "content_summary": "该区域为获取免费报价的联系表单，包含用户信息输入、产品需求选择、项目详情描述及文件上传功能，用于收集客户项目信息以提供8小时内报价",
+      "special_effects": "无显著特殊效果，表单元素 hover 时可能有边框颜色变化",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/white-oak-cabinets_pixel_12.jpg",
+      "chunk_index": 11
+    },
+    {
+      "module_type": "contact-form",
+      "module_name_suggestion": "get-a-quote-form",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "40px",
+        "gap_vertical": "0px",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#6c757d",
+        "secondary": "#f8f8f8",
+        "heading": "#2d3748",
+        "text": "#333333",
+        "border": "#e2e8f0"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "10px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "image",
+          "count": 1,
+          "width": "200px",
+          "height": "200px",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "左侧展示的产品经理头像图片，方形，无阴影"
+        },
+        {
+          "type": "input",
+          "count": 4,
+          "width": "100%",
+          "height": "45px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "表单输入框，包括Name、Email、City、Country-Select，边框为浅灰色"
+        },
+        {
+          "type": "input",
+          "count": 2,
+          "width": "48%",
+          "height": "45px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "表单输入框，包括Email、Tel/Whatsapp，左右并列，各占48%宽度"
+        },
+        {
+          "type": "checkbox",
+          "count": 10,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "产品需求复选框，包括Kitchen cabinet、Bedroom等10个选项，两行排列"
+        },
+        {
+          "type": "textarea",
+          "count": 1,
+          "width": "100%",
+          "height": "120px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "消息输入框，多行文本域"
+        },
+        {
+          "type": "file-upload",
+          "count": 1,
+          "width": "100%",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "文件上传按钮，显示'Choose File'和'No file chosen'"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "100%",
+          "height": "45px",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "发送按钮，灰色背景，白色文字"
+        }
+      ],
+      "images": [
+        {
+          "type": "avatar",
+          "count": 1,
+          "width": "200px",
+          "height": "200px",
+          "aspect_ratio": "1:1",
+          "position": "左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Get A Free Quote",
+        "subtitle": "* Kindly send us your project details and floor plan. We will quote for you within 8 hours!",
+        "paragraphs": [
+          "Want to Get Best Price White Oak Cabinets?",
+          "Share floor plan or house photos for 8-hour quote"
+        ],
+        "button_texts": [
+          "Send"
+        ],
+        "list_items": [
+          {
+            "title": "Product Needed*",
+            "description": "Kitchen cabinet, Bedroom, Bathroom, Windows & Doors, Furniture, Lighting, Soft Furnishing, Tiles and Wood Flooring, Whole House Solution, Other Building Material"
+          }
+        ]
+      },
+      "responsive_hints": "平板端：左右列堆叠，表单输入框全宽；移动端：同平板端，复选框单列排列",
+      "content_summary": "该区域展示获取免费报价的表单，包含个人信息输入、产品需求选择、消息输入及文件上传功能，用于收集用户项目信息以提供报价",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/white-oak-cabinets_pixel_13.jpg",
+      "chunk_index": 12
+    },
+    {
+      "module_type": "footer",
+      "module_name_suggestion": "footer",
+      "is_common_module": true,
+      "layout": {
+        "container": "full-width",
+        "type": "grid",
+        "columns": 4,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "20px",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#000000",
+        "primary": "#666666",
+        "secondary": "#cccccc",
+        "heading": "#ffffff",
+        "text": "#cccccc",
+        "border": "#cccccc"
+      },
+      "typography": {
+        "heading_size": "18px",
+        "heading_weight": "700",
+        "body_size": "14px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "text",
+          "count": 19,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色背景下的浅灰色文字链接，包含产品分类、解决方案、客户服务类目"
+        },
+        {
+          "type": "button",
+          "count": 2,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "灰色背景、白色文字的“Send”按钮，位于联系表单区域"
+        },
+        {
+          "type": "form",
+          "count": 2,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "白色背景、浅灰色边框的输入框，分别用于输入whatsapp和Email"
+        },
+        {
+          "type": "icon",
+          "count": 2,
+          "width": "16px",
+          "height": "16px",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "邮件和电话图标，位于联系信息区域"
+        }
+      ],
+      "images": [
+        {
+          "type": "icon",
+          "count": 0,
+          "width": "0",
+          "height": "0",
+          "aspect_ratio": "auto",
+          "position": "none",
+          "object_fit": "none",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "none"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "",
+        "subtitle": "",
+        "paragraphs": [
+          "Don’t miss our future updates! Get Subscribed Today!"
+        ],
+        "button_texts": [
+          "Send",
+          "Send"
+        ],
+        "list_items": [
+          {
+            "title": "Products",
+            "description": "",
+            "link_text": [
+              "Kitchen Cabinet",
+              "Wardrobe",
+              "Windows and Doors",
+              "Bathroom",
+              "Wood Flooring",
+              "More Furniture",
+              "Whole-house Design"
+            ]
+          },
+          {
+            "title": "One-Stop Solutions",
+            "description": "",
+            "link_text": [
+              "Hotel Solutions",
+              "Resort Solutions",
+              "Villa Solutions",
+              "Apartment Solutions",
+              "Office Solutions"
+            ]
+          },
+          {
+            "title": "Customer Services",
+            "description": "",
+            "link_text": [
+              "Measurement Guidance",
+              "Packaging Info",
+              "Delivery & Shipment",
+              "After Sales",
+              "Production Time",
+              "FAQ"
+            ]
+          },
+          {
+            "title": "Contact Us",
+            "description": "",
+            "link_text": [
+              "info@georgeconstructions.com",
+              "+8613302843203",
+              "+8613302843203"
+            ]
+          }
+        ]
+      },
+      "responsive_hints": "平板设备下调整为2列布局，移动端设备下调整为1列布局",
+      "content_summary": "页面底部footer区域，展示产品分类、一站式解决方案、客户服务类目、联系信息及订阅表单",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/white-oak-cabinets_pixel_14.jpg",
+      "chunk_index": 13
+    }
+  ]
+}

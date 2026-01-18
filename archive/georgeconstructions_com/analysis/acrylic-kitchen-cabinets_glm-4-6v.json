@@ -1,0 +1,1573 @@
+{
+  "url": "https://georgeconstructions.com/acrylic-kitchen-cabinets/",
+  "title": "Acrylic Kitchen Cabinets｜Buying Guide | Supplier",
+  "total_height": 9694,
+  "method": "pixel",
+  "vision_model": "glm-4.6v",
+  "screenshots": [
+    "/Users/x/AutoClone/output/screenshots/acrylic-kitchen-cabinets_pixel_1.jpg",
+    "/Users/x/AutoClone/output/screenshots/acrylic-kitchen-cabinets_pixel_2.jpg",
+    "/Users/x/AutoClone/output/screenshots/acrylic-kitchen-cabinets_pixel_3.jpg",
+    "/Users/x/AutoClone/output/screenshots/acrylic-kitchen-cabinets_pixel_4.jpg",
+    "/Users/x/AutoClone/output/screenshots/acrylic-kitchen-cabinets_pixel_5.jpg",
+    "/Users/x/AutoClone/output/screenshots/acrylic-kitchen-cabinets_pixel_6.jpg",
+    "/Users/x/AutoClone/output/screenshots/acrylic-kitchen-cabinets_pixel_7.jpg",
+    "/Users/x/AutoClone/output/screenshots/acrylic-kitchen-cabinets_pixel_8.jpg",
+    "/Users/x/AutoClone/output/screenshots/acrylic-kitchen-cabinets_pixel_9.jpg",
+    "/Users/x/AutoClone/output/screenshots/acrylic-kitchen-cabinets_pixel_10.jpg",
+    "/Users/x/AutoClone/output/screenshots/acrylic-kitchen-cabinets_pixel_11.jpg",
+    "/Users/x/AutoClone/output/screenshots/acrylic-kitchen-cabinets_pixel_12.jpg",
+    "/Users/x/AutoClone/output/screenshots/acrylic-kitchen-cabinets_pixel_13.jpg"
+  ],
+  "chunks": [
+    {
+      "module_type": "hero",
+      "module_name_suggestion": "kitchen-cabinets-hero",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#f0f0f0",
+        "heading": "#222222",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "36px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "navbar",
+          "count": 1,
+          "width": "100%",
+          "height": "60px",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "顶部导航栏，包含logo、7个菜单项（Products/Projects/Blog/Service/Video/About/Contact）和1个Quick Quote按钮"
+        },
+        {
+          "type": "text",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "主标题‘Acrylic Kitchen Cabinets’，深灰色（#222222），加粗700"
+        },
+        {
+          "type": "paragraph",
+          "count": 2,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "两个段落，描述丙烯酸厨房橱柜的项目需求及George的服务内容"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色背景（#FF8C00），白色文字，‘Get a Free Quote →’"
+        },
+        {
+          "type": "image",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": true,
+          "has_border": false,
+          "details": "右侧空白区域，带轻微阴影，为产品图片预留位置"
+        }
+      ],
+      "images": [
+        {
+          "type": "hero-banner",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "右侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Acrylic Kitchen Cabinets",
+        "subtitle": "",
+        "paragraphs": [
+          "For your project, do you require acrylic kitchen cabinets? You've undoubtedly heard of \"acrylic kitchen cabinets\" if you're embarking on a kitchen remodeling project or considering new cabinets for your cooking area.",
+          "At George, we will explore acrylic cabinets, outlining their advantages and disadvantages to assist you in making a well-informed choice. Therefore, let's delve into and examine the intriguing characteristics of acrylic kitchen cabinets!"
+        ],
+        "button_texts": [
+          "Get a Free Quote →"
+        ],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，主内容区域改为单列布局，图片占满宽度；移动端（≤480px）导航菜单折叠为汉堡菜单，按钮文字简化为‘Quote’",
+      "content_summary": "页面顶部hero区域，核心展示丙烯酸厨房橱柜的主题信息，包含主标题、项目需求描述、服务说明及行动号召按钮，右侧预留产品视觉展示位置",
+      "special_effects": "Quick Quote按钮 hover 时背景色加深至#E67300，图片占位区域阴影增强；导航栏滚动时固定定位",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/acrylic-kitchen-cabinets_pixel_1.jpg",
+      "chunk_index": 0
+    },
+    {
+      "module_type": "product-grid",
+      "module_name_suggestion": "acrylic-kitchen-cabinets-grid",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 3,
+        "rows": 2,
+        "gap_horizontal": "20px",
+        "gap_vertical": "30px",
+        "alignment": "left",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#f0f0f0",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "#e0e0e0"
+      },
+      "typography": {
+        "heading_size": "18px",
+        "heading_weight": "700",
+        "body_size": "14px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 6,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": true,
+          "has_border": false,
+          "details": "白色卡片，带轻微阴影，包含产品图片、标题和简短描述"
+        }
+      ],
+      "images": [
+        {
+          "type": "product",
+          "count": 6,
+          "width": "100%",
+          "height": "200px",
+          "aspect_ratio": "16:9",
+          "position": "卡片顶部",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "",
+        "subtitle": "",
+        "paragraphs": [],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "White Acrylic Kitchen Cabinet",
+            "description": "Acrylic Kitchen Cabinet Supplier & Manufacturer An acrylic material is known for its smooth texture...",
+            "link_text": "White Acrylic Kitchen Cabinet"
+          },
+          {
+            "title": "Solid Acrylic Kitchen Cabinet Doors",
+            "description": "Solid Acrylic Kitchen Cabinet Doors Acrylic cabinet doors come in a wide range of colors and finishes,...",
+            "link_text": "Solid Acrylic Kitchen Cabinet Doors"
+          },
+          {
+            "title": "Modern Acrylic Kitchen Cabinets",
+            "description": "Extended sunshine exposure will have a significant impact on the cabinets. Usually, kitchen cabinet door...",
+            "link_text": "Modern Acrylic Kitchen Cabinets"
+          },
+          {
+            "title": "High Gloss Acrylic Kitchen Cabinets",
+            "description": "Modern and Sleek High-Gloss Acrylic Kitchen Cabinets for Your House High-gloss acrylic kitchen cabinets...",
+            "link_text": "High Gloss Acrylic Kitchen Cabinets"
+          },
+          {
+            "title": "Acrylic Laminate Kitchen Cabinets",
+            "description": "Acrylic Laminate For Kitchen The kitchen serves as the central hub of your home. It’s the place...",
+            "link_text": "Acrylic Laminate Kitchen Cabinets"
+          },
+          {
+            "title": "Acrylic Gloss Kitchen Cabinets",
+            "description": "Acrylic kitchen cabinets are synthetic plastic cabinets often utilized to provide a sleek finish to modern...",
+            "link_text": "Acrylic Gloss Kitchen Cabinets"
+          }
+        ]
+      },
+      "responsive_hints": "平板设备显示2列，移动端设备显示1列",
+      "content_summary": "该区域主要展示6种不同类型的亚克力厨房橱柜产品，每个产品包含高清图片、标题及简短功能描述",
+      "special_effects": "卡片带有轻微阴影效果， hover时可能触发阴影加深或缩放动画（截图中未显示）",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/acrylic-kitchen-cabinets_pixel_2.jpg",
+      "chunk_index": 1
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "acrylic-kitchen-cabinets-advantages",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 2,
+        "gap_horizontal": "30px",
+        "gap_vertical": "40px",
+        "alignment": "left",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#f5f5f5",
+        "heading": "#222222",
+        "text": "#333333",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "0",
+        "padding_right": "0",
+        "element_margin": "20px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "image",
+          "count": 2,
+          "width": "50%",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "左侧和右下角的厨房橱柜图片，展示产品外观"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色背景的CTA按钮，位于‘Resistant to Moisture and Durability’段落下方"
+        }
+      ],
+      "images": [
+        {
+          "type": "product",
+          "count": 2,
+          "width": "50%",
+          "height": "auto",
+          "aspect_ratio": "16:9",
+          "position": "左右排列（左上角和右下角）",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Advantages of Acrylic Kitchen Cabinets",
+        "subtitle": "",
+        "paragraphs": [
+          "The obvious advantage of acrylic cabinets is their fashionable and modern appearance. Every kitchen design is made more sophisticated and feels more modern by the slick surfaces and glossy finish.",
+          "The kitchen environment is a perfect fit for acrylic cabinets because of their exceptional resistance to moisture and long lifespan. Daily abrasion, including exposure to moisture, steam, and humidity, is not a problem for them.",
+          "Behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies"
+        ],
+        "button_texts": [
+          "GET A PROJECT QUOTE"
+        ],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备显示2列，移动端设备显示1列（堆叠排列）",
+      "content_summary": "该区域主要展示丙烯酸厨房橱柜的核心优势，包括美学吸引力、防潮耐用性、易维护性和颜色多样性，通过图文混排形式突出产品特点",
+      "special_effects": "按钮 hover 时可能有颜色加深或阴影效果（推测）",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/acrylic-kitchen-cabinets_pixel_3.jpg",
+      "chunk_index": 2
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "acrylic-cabinets-features-drawbacks",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "30px",
+        "alignment": "left",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#f5f5f5",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "30px",
+        "padding_bottom": "30px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "button",
+          "count": 2,
+          "width": "180px",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色背景按钮，白色文字，显示‘GET A PROJECT QUOTE’"
+        },
+        {
+          "type": "text",
+          "count": 6,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "深灰色标题文字和浅灰色正文文字，用于展示优势与缺点内容"
+        }
+      ],
+      "images": [
+        {
+          "type": "product",
+          "count": 2,
+          "width": "50%",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "左右两侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Variety of Colors",
+        "subtitle": "Drawbacks of Acrylic Kitchen Cabinets",
+        "paragraphs": [
+          "Acrylic cabinets provide a variety of color choices to match your taste and enhance your kitchen's design. You can choose from a wide range of colors, from bright and bold shades to timeless neutrals, to find the perfect match for your vision.",
+          "Despite their strength, acrylic cabinets are readily scratched if improper maintenance is not given. Steer clear of abrasive materials and sharp items when doing daily tasks or cleaning.",
+          "In the event of acrylic cabinets being damaged, repairs can be difficult. Extensive scratches or fractures may need the help of a professional, and in certain instances, full replacement could be needed."
+        ],
+        "button_texts": [
+          "GET A PROJECT QUOTE",
+          "GET A PROJECT QUOTE"
+        ],
+        "list_items": []
+      },
+      "responsive_hints": "平板设备下调整为1列布局，移动端图片宽度100%",
+      "content_summary": "该区域主要展示亚克力橱柜的颜色多样性与缺点（易刮伤、修复选项有限），采用图文混排形式",
+      "special_effects": "按钮 hover 时可能有颜色加深效果，图片 hover 时无变化",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/acrylic-kitchen-cabinets_pixel_4.jpg",
+      "chunk_index": 3
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "acrylic-cabinet-comparison",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 2,
+        "rows": 2,
+        "gap_horizontal": "30px",
+        "gap_vertical": "40px",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#666666",
+        "heading": "#222222",
+        "text": "#333333",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "600",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 4,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "每个卡片包含左侧产品图片和右侧对比文字，展示亚克力橱柜与其他材料的差异"
+        }
+      ],
+      "images": [
+        {
+          "type": "product",
+          "count": 4,
+          "width": "300px",
+          "height": "200px",
+          "aspect_ratio": "4:3",
+          "position": "左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Acrylic Kitchen Cabinet vs. Other Materials: Which Is Ideal for Your Needs?",
+        "paragraphs": [
+          "Acrylic cabinets provide a modern and sleek look, as opposed to traditional wood cabinets. Although wooden cabinets have their appeal and can be renovated, acrylic cabinets offer a modern and easy-to-maintain option.",
+          "Acrylic and lacquer cabinets both have a shiny appearance. Yet, acrylic cabinets are favored by homeowners for their increased durability and ability to resist scratches and stains.",
+          "Acrylic and laminate cabinets have different looks and longevity. Although acrylic cabinets provide a luxurious and upscale appearance, laminate cabinets offer a cost-effective alternative with good durability.",
+          "PVC and acrylic cabinets have their own advantages. While PVC cabinets are perfect for damp regions because of their extreme durability against moisture and humidity, acrylic cabinets have a glossy surface and an appealing appearance."
+        ],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Acrylic vs. Wood",
+            "description": "Acrylic cabinets provide a modern and sleek look, as opposed to traditional wood cabinets. Although wooden cabinets have their appeal and can be renovated, acrylic cabinets offer a modern and easy-to-maintain option."
+          },
+          {
+            "title": "Acrylic vs. Lacquer",
+            "description": "Acrylic and lacquer cabinets both have a shiny appearance. Yet, acrylic cabinets are favored by homeowners for their increased durability and ability to resist scratches and stains."
+          },
+          {
+            "title": "Acrylic vs. Laminate",
+            "description": "Acrylic and laminate cabinets have different looks and longevity. Although acrylic cabinets provide a luxurious and upscale appearance, laminate cabinets offer a cost-effective alternative with good durability."
+          },
+          {
+            "title": "Acrylic vs. PVC",
+            "description": "PVC and acrylic cabinets have their own advantages. While PVC cabinets are perfect for damp regions because of their extreme durability against moisture and humidity, acrylic cabinets have a glossy surface and an appealing appearance."
+          }
+        ]
+      },
+      "responsive_hints": "平板设备显示2列，移动端设备显示1列",
+      "content_summary": "该区域主要展示亚克力厨房橱柜与其他常见材料（木材、漆器、 laminate、PVC）的对比分析，突出各材料的优劣势，帮助用户选择适合的橱柜类型",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/acrylic-kitchen-cabinets_pixel_5.jpg",
+      "chunk_index": 4
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "kitchen-cabinets-comparison-features",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 2,
+        "rows": 2,
+        "gap_horizontal": "30px",
+        "gap_vertical": "30px",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#666666",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "36px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 4,
+          "width": "560px",
+          "height": "300px",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "包含图片和文字的对比卡片，展示亚克力橱柜与其他材料的差异"
+        }
+      ],
+      "images": [
+        {
+          "type": "thumbnail",
+          "count": 4,
+          "width": "560px",
+          "height": "300px",
+          "aspect_ratio": "16:9",
+          "position": "网格排列",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Acrylic Kitchen Cabinet vs. Other Materials: Which Is Ideal for Your Needs?",
+        "subtitle": "",
+        "paragraphs": [
+          "Acrylic cabinets provide a modern and sleek look, as opposed to traditional wood cabinets. Although wooden cabinets have their appeal and can be renovated, acrylic cabinets offer a modern and easy-to-maintain option.",
+          "Acrylic and lacquer cabinets both have a shiny appearance. Yet, acrylic cabinets are favored by homeowners for their increased durability and ability to resist scratches and stains.",
+          "Acrylic and laminate cabinets have different looks and longevity. Although acrylic cabinets provide a luxurious and upscale appearance, laminate cabinets offer a cost-effective alternative with good durability.",
+          "PVC and acrylic cabinets have their own advantages. While PVC cabinets are perfect for damp regions because of their extreme durability against moisture and humidity, acrylic cabinets have a glossy surface and an appealing appearance."
+        ],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Acrylic vs. Wood",
+            "description": "Acrylic cabinets provide a modern and sleek look, as opposed to traditional wood cabinets. Although wooden cabinets have their appeal and can be renovated, acrylic cabinets offer a modern and easy-to-maintain option."
+          },
+          {
+            "title": "Acrylic vs. Lacquer",
+            "description": "Acrylic and lacquer cabinets both have a shiny appearance. Yet, acrylic cabinets are favored by homeowners for their increased durability and ability to resist scratches and stains."
+          },
+          {
+            "title": "Acrylic vs. Laminate",
+            "description": "Acrylic and laminate cabinets have different looks and longevity. Although acrylic cabinets provide a luxurious and upscale appearance, laminate cabinets offer a cost-effective alternative with good durability."
+          },
+          {
+            "title": "Acrylic vs. PVC",
+            "description": "PVC and acrylic cabinets have their own advantages. While PVC cabinets are perfect for damp regions because of their extreme durability against moisture and humidity, acrylic cabinets have a glossy surface and an appealing appearance."
+          }
+        ]
+      },
+      "responsive_hints": "平板设备显示2列，移动端设备显示1列",
+      "content_summary": "该区域主要展示亚克力厨房橱柜与其他材料（木材、漆器、 laminate、PVC）的对比，通过图片和文字说明各材料的优缺点，帮助用户根据需求选择合适的橱柜材料",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/acrylic-kitchen-cabinets_pixel_6.jpg",
+      "chunk_index": 5
+    },
+    {
+      "module_type": "content-block",
+      "module_name_suggestion": "acrylic-cabinets-details",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 2,
+        "gap_horizontal": "30px",
+        "gap_vertical": "20px",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#f0f0f0",
+        "heading": "#222222",
+        "text": "#333333",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "image",
+          "count": 2,
+          "width": "50%",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "展示定制亚克力橱柜细节的图片，左侧为厨房场景图，右侧为橱柜局部图"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "120px",
+          "height": "40px",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色背景按钮，文字为白色，用于获取项目报价"
+        }
+      ],
+      "images": [
+        {
+          "type": "product",
+          "count": 2,
+          "width": "50%",
+          "height": "auto",
+          "aspect_ratio": "16:9",
+          "position": "左右并列排列",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Custom Acrylic Kitchen Cabinets",
+        "paragraphs": [
+          "The material of the carcass is crucial in deciding how long the kitchen cabinet lasts, specifically its resistance to termites. In the majority of cabinets, the main structure is made of manufactured wood such as fireboards and particle boards, which rely mainly on their density for strength. Hence, it is advisable to ask about the kind of wood used in constructing the carcass of an acrylic kitchen cabinet as it significantly affects the longevity of the furniture.",
+          "Frequently, the acrylic kitchen cabinet door will have the same acrylic finish as the rest of the cabinet. Nevertheless, to prevent premature damage to this part, it is advised to invest in one constructed from a durable material such as melamine board, particleboard, plywood, etc.",
+          "Acrylic kitchen cabinets are available in numerous colors including black, gray, red, white, yellow, and various others. Nevertheless, it should be emphasized that some colors can be quite challenging to locate, particularly if you are in need of fixing a damaged part of your cabinet. We suggest selecting a color that is plentiful, such as white.",
+          "Rather than using acrylic, the majority of base cabinets feature a solid horizontal work surface composed of materials like granite, marble, quartz stone, or fake stone. These incredibly robust materials are designed to withstand any major knock that may happen while doing duties in the kitchen."
+        ],
+        "button_texts": [
+          "GET A PROJECT QUOTE"
+        ]
+      },
+      "responsive_hints": "平板设备下调整为1列布局，移动端单列显示，图片宽度100%",
+      "content_summary": "该区域详细展示定制亚克力厨房橱柜的关键组成部分（柜体材料、门、颜色、台面）的特性和选择建议",
+      "special_effects": "按钮 hover 时可能触发颜色变化或阴影效果，图片 hover 无明显交互",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/acrylic-kitchen-cabinets_pixel_7.jpg",
+      "chunk_index": 6
+    },
+    {
+      "module_type": "content-block",
+      "module_name_suggestion": "kitchen-cabinets-content-block",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "60px",
+        "alignment": "space-between",
+        "direction": "column"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#D47A7A",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "0px",
+        "padding_right": "0px",
+        "element_margin": "20px",
+        "card_padding": "15px"
+      },
+      "components": [
+        {
+          "type": "text",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "左侧文本块，背景色#D47A7A，白色文字，包含Hardware标题和段落内容"
+        },
+        {
+          "type": "image",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "右侧厨房橱柜图片，展示Hardware部分对应场景"
+        },
+        {
+          "type": "card",
+          "count": 2,
+          "width": "48%",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "5 Types of Acrylic Sheeting子项卡片，包含标题和缩略图"
+        }
+      ],
+      "images": [
+        {
+          "type": "background",
+          "count": 1,
+          "width": "100%",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "右侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "kitchen-cabinet-hardware"
+        },
+        {
+          "type": "thumbnail",
+          "count": 2,
+          "width": "300px",
+          "height": "200px",
+          "aspect_ratio": "3:2",
+          "position": "卡片内左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "acrylic-sheeting"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Hardware",
+        "subtitle": "",
+        "paragraphs": [
+          "In addition to minimizing wear and tear and preventing fingerprints, cabinet hardware also serves as a fashionable enhancement that enhances the beauty of the item.",
+          "Although any hardware will do, scroll pulls, bar pulls, bronze cup pull-outs, and steel knobs are the best options."
+        ],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Clear Acrylic Sheeting",
+            "description": "One of the most popular options for kitchen cabinets is clear acrylic sheets",
+            "link_text": ""
+          },
+          {
+            "title": "White Acrylic Sheeting",
+            "description": "White acrylic sheets exude minimalism and cleanliness, making them ideal for kitchen",
+            "link_text": ""
+          }
+        ]
+      },
+      "responsive_hints": "平板设备下Hardware部分改为单列布局，5 Types子项改为1列；移动端所有内容单列显示",
+      "content_summary": "该区域展示定制亚克力厨房橱柜的Hardware部分（图文混排）及5种亚克力板材类型（产品网格）",
+      "special_effects": "Hardware文本块背景色#D47A7A与右侧图片形成对比，5 Types子项卡片 hover 时可能显示更多细节",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/acrylic-kitchen-cabinets_pixel_8.jpg",
+      "chunk_index": 7
+    },
+    {
+      "module_type": "product-grid",
+      "module_name_suggestion": "kitchen-acrylic-sheeting-grid",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 2,
+        "rows": 3,
+        "gap_horizontal": "20px",
+        "gap_vertical": "30px",
+        "alignment": "left",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#e63946",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 5,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "包含产品图片、标题和描述的白色卡片，无阴影，无边框，图片与文字左右排列"
+        }
+      ],
+      "images": [
+        {
+          "type": "product",
+          "count": 5,
+          "width": "300px",
+          "height": "200px",
+          "aspect_ratio": "16:9",
+          "position": "网格排列（每行2个，共3行）",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "5 Types of Acrylic Sheeting for Kitchen Cabinet",
+        "subtitle": "",
+        "paragraphs": [
+          "One of the most popular options for kitchen cabinets is clear acrylic sheets. These sheets offer cabinets a contemporary, fashionable look. Any kitchen looks much better with the smooth and glossy surface. Apart from their appealing appearance, they are strong, impervious to scuffs, and ideal for busy kitchens.",
+          "White acrylic sheets exude minimalism and cleanliness, making them ideal for kitchen cabinets. They can provide an air of openness and lightness in a kitchen. Similar to the clear acrylic sheets, the white sheets are highly sought-after in kitchen design since they are strong, simple to clean, and minimal maintenance.",
+          "A terrific alternative for anyone wishing to add color to their kitchen are colorful acrylic sheets. They are available in a multitude of colors, offering practically infinite customizability to accommodate individual tastes or blend in with the kitchen's existing design. They maintain the same glossy quality and robustness as regular acrylic sheets even in their colored variants.",
+          "Mirrored acrylic sheets can provide a distinctive and lavish touch with their mirror-like surface, creating an illusion of spaciousness and adding depth to a kitchen, making it appear bigger than it really is. Furthermore, they are light and less likely to break than traditional glass mirrors, adding an element of safety to their advantages.",
+          "The light is distributed uniformly by the acrylic sheets, reducing hotspots and glare. For cabinets that are situated in sections of the kitchen that receive a lot of natural light or under illumination, these are the ideal"
+        ],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Clear Acrylic Sheeting",
+            "description": "One of the most popular options for kitchen cabinets is clear acrylic sheets. These sheets offer cabinets a contemporary, fashionable look. Any kitchen looks much better with the smooth and glossy surface. Apart from their appealing appearance, they are strong, impervious to scuffs, and ideal for busy kitchens.",
+            "link_text": ""
+          },
+          {
+            "title": "White Acrylic Sheeting",
+            "description": "White acrylic sheets exude minimalism and cleanliness, making them ideal for kitchen cabinets. They can provide an air of openness and lightness in a kitchen. Similar to the clear acrylic sheets, the white sheets are highly sought-after in kitchen design since they are strong, simple to clean, and minimal maintenance.",
+            "link_text": ""
+          },
+          {
+            "title": "Colored Acrylic Sheeting",
+            "description": "A terrific alternative for anyone wishing to add color to their kitchen are colorful acrylic sheets. They are available in a multitude of colors, offering practically infinite customizability to accommodate individual tastes or blend in with the kitchen's existing design. They maintain the same glossy quality and robustness as regular acrylic sheets even in their colored variants.",
+            "link_text": ""
+          },
+          {
+            "title": "Mirrored Acrylic Sheeting",
+            "description": "Mirrored acrylic sheets can provide a distinctive and lavish touch with their mirror-like surface, creating an illusion of spaciousness and adding depth to a kitchen, making it appear bigger than it really is. Furthermore, they are light and less likely to break than traditional glass mirrors, adding an element of safety to their advantages.",
+            "link_text": ""
+          },
+          {
+            "title": "Light Diffusing Acrylic",
+            "description": "The light is distributed uniformly by the acrylic sheets, reducing hotspots and glare. For cabinets that are situated in sections of the kitchen that receive a lot of natural light or under illumination, these are the ideal",
+            "link_text": ""
+          }
+        ]
+      },
+      "responsive_hints": "平板设备显示2列，移动端设备显示1列",
+      "content_summary": "该区域主要展示五种厨房橱柜用亚克力板材的类型（透明、白色、彩色、镜面、漫光）及其特点",
+      "special_effects": "图片hover时可能显示轻微阴影或缩放效果（截图中未明确显示，但常见于产品网格）",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/acrylic-kitchen-cabinets_pixel_9.jpg",
+      "chunk_index": 8
+    },
+    {
+      "module_type": "product-grid",
+      "module_name_suggestion": "acrylic-sheeting-product-grid",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 2,
+        "rows": 3,
+        "gap_horizontal": "20px",
+        "gap_vertical": "30px",
+        "alignment": "left",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#000000",
+        "secondary": "#f0f0f0",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 5,
+          "width": "50%",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色卡片，显示产品图片和描述文字，无阴影和边框"
+        }
+      ],
+      "images": [
+        {
+          "type": "product",
+          "count": 5,
+          "width": "100%",
+          "height": "auto",
+          "aspect_ratio": "16:9",
+          "position": "网格排列（每列1张，共2列）",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "5 Types of Acrylic Sheeting for Kitchen Cabinet",
+        "subtitle": "",
+        "paragraphs": [
+          "One of the most popular options for kitchen cabinets is clear acrylic sheets. These sheets offer cabinets a contemporary, fashionable look. Any kitchen looks much better with the smooth and glossy surface. Apart from their appealing appearance, they are strong, impervious to scuffs, and ideal for busy kitchens.",
+          "White acrylic sheets exude minimalism and cleanliness, making them ideal for kitchen cabinets. They can provide an air of openness and lightness in a kitchen. Similar to the clear acrylic sheets, the white sheets are highly sought-after in kitchen design since they are strong, simple to clean, and minimal maintenance.",
+          "A terrific alternative for anyone wishing to add color to their kitchen are colorful acrylic sheets. They are available in a multitude of colors, offering practically infinite customizability to accommodate individual tastes or blend in with the kitchen’s existing design. They maintain the same glossy quality and robustness as regular acrylic sheets even in their colored variants.",
+          "Mirrored acrylic sheets can provide a distinctive and lavish touch with their mirror-like surface, creating an illusion of spaciousness and adding depth to a kitchen, making it appear bigger than it really is. Furthermore, they are light and less likely to break than traditional glass mirrors, adding an element of safety to their advantages.",
+          "The light is distributed uniformly by the acrylic sheets, reducing hotspots and glare. For cabinets that are situated in sections of the kitchen that receive a lot of natural light or under illumination, these are the ideal choice. They not only have practical advantages, but they also make the kitchen feel cozier and more welcoming."
+        ],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Clear Acrylic Sheeting",
+            "description": "One of the most popular options for kitchen cabinets is clear acrylic sheets. These sheets offer cabinets a contemporary, fashionable look. Any kitchen looks much better with the smooth and glossy surface. Apart from their appealing appearance, they are strong, impervious to scuffs, and ideal for busy kitchens.",
+            "link_text": ""
+          },
+          {
+            "title": "White Acrylic Sheeting",
+            "description": "White acrylic sheets exude minimalism and cleanliness, making them ideal for kitchen cabinets. They can provide an air of openness and lightness in a kitchen. Similar to the clear acrylic sheets, the white sheets are highly sought-after in kitchen design since they are strong, simple to clean, and minimal maintenance.",
+            "link_text": ""
+          },
+          {
+            "title": "Colored Acrylic Sheeting",
+            "description": "A terrific alternative for anyone wishing to add color to their kitchen are colorful acrylic sheets. They are available in a multitude of colors, offering practically infinite customizability to accommodate individual tastes or blend in with the kitchen’s existing design. They maintain the same glossy quality and robustness as regular acrylic sheets even in their colored variants.",
+            "link_text": ""
+          },
+          {
+            "title": "Mirrored Acrylic Sheeting",
+            "description": "Mirrored acrylic sheets can provide a distinctive and lavish touch with their mirror-like surface, creating an illusion of spaciousness and adding depth to a kitchen, making it appear bigger than it really is. Furthermore, they are light and less likely to break than traditional glass mirrors, adding an element of safety to their advantages.",
+            "link_text": ""
+          },
+          {
+            "title": "Light Diffusing Acrylic",
+            "description": "The light is distributed uniformly by the acrylic sheets, reducing hotspots and glare. For cabinets that are situated in sections of the kitchen that receive a lot of natural light or under illumination, these are the ideal choice. They not only have practical advantages, but they also make the kitchen feel cozier and more welcoming.",
+            "link_text": ""
+          }
+        ]
+      },
+      "responsive_hints": "平板设备显示2列，移动端设备显示1列",
+      "content_summary": "该区域主要展示5种适用于厨房橱柜的丙烯酸板材类型，每个类型包含图片和详细描述，用于帮助用户了解不同板材的特点和适用场景",
+      "special_effects": "无显著特殊效果，图片采用cover方式填充，保持比例",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/acrylic-kitchen-cabinets_pixel_10.jpg",
+      "chunk_index": 9
+    },
+    {
+      "module_type": "contact-form",
+      "module_name_suggestion": "contact-form-quote",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#4a5568",
+        "secondary": "#f8f8f8",
+        "heading": "#222222",
+        "text": "#333333",
+        "border": "#e2e8f0"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "30px"
+      },
+      "components": [
+        {
+          "type": "avatar",
+          "count": 1,
+          "width": "200px",
+          "height": "200px",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "产品经理头像，位于左侧，右上角显示‘Product Manager’蓝色标签"
+        },
+        {
+          "type": "input",
+          "count": 5,
+          "width": "460px",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "表单输入框，包括Name、Email、Tel/Whatsapp、City、Country-Select五个字段，边框为浅灰色"
+        },
+        {
+          "type": "checkbox",
+          "count": 10,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "Product Needed*下的复选框，包含Kitchen cabinet、Bedroom、Bathroom、Windows & Doors、Furniture、Lighting、Soft Furnishing、Tiles and Wood Flooring、Whole House Solution、Other Building Material十个选项"
+        },
+        {
+          "type": "textarea",
+          "count": 1,
+          "width": "100%",
+          "height": "120px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "Message文本框，用于输入项目详情，边框为浅灰色"
+        },
+        {
+          "type": "button",
+          "count": 2,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "Choose File按钮（文件上传）和Send按钮（提交表单），Send按钮为深灰色主按钮"
+        }
+      ],
+      "images": [
+        {
+          "type": "avatar",
+          "count": 1,
+          "width": "200px",
+          "height": "200px",
+          "aspect_ratio": "1:1",
+          "position": "左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "product-manager-avatar"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Get A Free Quote",
+        "subtitle": "* Kindly send us your project details and floor plan. We will quote for you within 8 hours!",
+        "paragraphs": [
+          "Want to Get Best Price Kitchen Cabinets?",
+          "Share floor plan or house photos for 8-hour quote"
+        ],
+        "button_texts": [
+          "Choose File",
+          "Send"
+        ],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（768px-1024px）将两列布局改为单列，移动端（<768px）输入框、复选框、文本框均占100%宽度，按钮居中显示",
+      "content_summary": "该区域为联系表单模块，核心功能是收集用户项目信息以提供免费报价，包含个人信息输入、产品需求选择、留言上传及提交按钮，左侧搭配产品经理头像增强信任感",
+      "special_effects": "Send按钮 hover 时颜色加深（如#3a4a58），输入框 focus 时边框变为品牌色（如#4a5568）",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/acrylic-kitchen-cabinets_pixel_11.jpg",
+      "chunk_index": 10
+    },
+    {
+      "module_type": "contact-form",
+      "module_name_suggestion": "free-quote-form",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#666666",
+        "secondary": "#f5f5f5",
+        "heading": "#222222",
+        "text": "#333333",
+        "border": "#e0e0e0"
+      },
+      "typography": {
+        "heading_size": "36px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "image",
+          "count": 1,
+          "width": "200px",
+          "height": "200px",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "左侧Product Manager头像图片，方形，无阴影"
+        },
+        {
+          "type": "text",
+          "count": 2,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "左侧标题和副标题文字块，无装饰"
+        },
+        {
+          "type": "input",
+          "count": 5,
+          "width": "100%",
+          "height": "45px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "表单输入框（Name、Email、Tel/Whatsapp、City、Country-Select），带浅灰色边框"
+        },
+        {
+          "type": "checkbox",
+          "count": 9,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "Product Needed*下的复选框选项，无装饰"
+        },
+        {
+          "type": "textarea",
+          "count": 1,
+          "width": "100%",
+          "height": "120px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "Message文本框，带浅灰色边框"
+        },
+        {
+          "type": "button",
+          "count": 2,
+          "width": "auto",
+          "height": "45px",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "Choose File按钮（灰色边框）和Send按钮（深灰色背景）"
+        }
+      ],
+      "images": [
+        {
+          "type": "avatar",
+          "count": 1,
+          "width": "200px",
+          "height": "200px",
+          "aspect_ratio": "1:1",
+          "position": "左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Get A Free Quote",
+        "subtitle": "* Kindly send us your project details and floor plan. We will quote for you within 8 hours!",
+        "paragraphs": [
+          "Want to Get Best Price Kitchen Cabinets?",
+          "Share floor plan or house photos for 8-hour quote"
+        ],
+        "button_texts": [
+          "Choose File",
+          "Send"
+        ],
+        "list_items": [
+          {
+            "title": "Kitchen cabinet"
+          },
+          {
+            "title": "Bedroom"
+          },
+          {
+            "title": "Bathroom"
+          },
+          {
+            "title": "Windows & Doors"
+          },
+          {
+            "title": "Furniture"
+          },
+          {
+            "title": "Lighting"
+          },
+          {
+            "title": "Soft Furnishing"
+          },
+          {
+            "title": "Tiles and Wood Flooring"
+          },
+          {
+            "title": "Whole House Solution"
+          },
+          {
+            "title": "Other Building Material"
+          }
+        ]
+      },
+      "responsive_hints": "平板设备显示2列布局，移动端设备切换为1列布局（表单字段垂直堆叠）",
+      "content_summary": "页面中部联系表单模块，用于收集用户项目详情和文件，提供8小时内免费报价服务",
+      "special_effects": "无明确特殊效果，按钮 hover 时可能触发颜色变化（截图未显示）",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/acrylic-kitchen-cabinets_pixel_12.jpg",
+      "chunk_index": 11
+    },
+    {
+      "module_type": "footer",
+      "module_name_suggestion": "footer-sections",
+      "is_common_module": true,
+      "layout": {
+        "container": "full-width",
+        "type": "grid",
+        "columns": 4,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0px",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#000000",
+        "primary": "#666666",
+        "secondary": "#ffffff",
+        "heading": "#ffffff",
+        "text": "#ffffff",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "18px",
+        "heading_weight": "700",
+        "body_size": "14px",
+        "body_weight": "400",
+        "line_height": "1.5"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "0px",
+        "padding_right": "0px",
+        "element_margin": "15px",
+        "card_padding": "0px"
+      },
+      "components": [
+        {
+          "type": "text",
+          "count": 4,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色标题文字，加粗，显示各模块名称（Products、One-Stop Solutions、Customer Services、Contact Us）"
+        },
+        {
+          "type": "list",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色列表项，显示产品、解决方案、客户服务链接"
+        },
+        {
+          "type": "button",
+          "count": 2,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "灰色背景按钮，白色文字，显示“Send”"
+        },
+        {
+          "type": "input",
+          "count": 2,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色背景输入框，显示“whatsapp”和“Email*”占位符"
+        }
+      ],
+      "images": [
+        {
+          "type": "none",
+          "count": 0,
+          "width": "0px",
+          "height": "0px",
+          "aspect_ratio": "none",
+          "position": "none",
+          "object_fit": "none",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "none"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "",
+        "subtitle": "",
+        "paragraphs": [
+          "Don't miss our future updates! Get Subscribed Today!"
+        ],
+        "button_texts": [
+          "Send",
+          "Send"
+        ],
+        "list_items": [
+          {
+            "title": "Kitchen Cabinet",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Wardrobe",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Windows and Doors",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Bathroom",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Wood Flooring",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "More Furniture",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Whole-house Design",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Hotel Solutions",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Resort Solutions",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Villa Solutions",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Apartment Solutions",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Office Solutions",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Measurement Guidance",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Packaging Info",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Delivery & Shipment",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "After Sales",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Production Time",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "FAQ",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "info@georgeconstructions.com",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "+8613302843203",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "+8613302843203",
+            "description": "",
+            "link_text": ""
+          }
+        ],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备下footer列调整为2列，移动端设备下footer列堆叠为1列",
+      "content_summary": "页面底部footer区域，展示产品分类、一站式解决方案、客户服务链接、联系方式及订阅表单",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/acrylic-kitchen-cabinets_pixel_13.jpg",
+      "chunk_index": 12
+    }
+  ]
+}

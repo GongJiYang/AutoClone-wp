@@ -1,0 +1,1911 @@
+{
+  "url": "https://georgeconstructions.com/solid-wood-kitchen-cabinets/",
+  "title": "Best Solid Wood Kitchen Cabinets | Wood Kitchen Cabinets",
+  "total_height": 14107,
+  "method": "pixel",
+  "vision_model": "glm-4.6v",
+  "screenshots": [
+    "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_1.jpg",
+    "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_2.jpg",
+    "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_3.jpg",
+    "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_4.jpg",
+    "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_5.jpg",
+    "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_6.jpg",
+    "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_7.jpg",
+    "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_8.jpg",
+    "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_9.jpg",
+    "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_10.jpg",
+    "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_11.jpg",
+    "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_12.jpg",
+    "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_13.jpg",
+    "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_14.jpg",
+    "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_15.jpg",
+    "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_16.jpg",
+    "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_17.jpg",
+    "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_18.jpg",
+    "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_19.jpg"
+  ],
+  "chunks": [
+    {
+      "module_type": "hero",
+      "module_name_suggestion": "kitchen-cabinets-hero",
+      "is_common_module": true,
+      "layout": {
+        "container": "full-width",
+        "type": "flex",
+        "columns": 1,
+        "rows": 1,
+        "gap_horizontal": "0",
+        "gap_vertical": "0",
+        "alignment": "center",
+        "direction": "column"
+      },
+      "colors": {
+        "background": "#FFFFFF",
+        "primary": "#FF8C00",
+        "secondary": "#333333",
+        "heading": "#FFFFFF",
+        "text": "#333333",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "48px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "0",
+        "card_padding": "0"
+      },
+      "components": [
+        {
+          "type": "navbar",
+          "count": 1,
+          "width": "auto",
+          "height": "48px",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色导航栏，左侧包含George logo，中间7个导航链接（Products、Projects、Blog、Service、Video、About、Contact），右侧1个橙色Quick Quote按钮"
+        },
+        {
+          "type": "hero-banner",
+          "count": 1,
+          "width": "100%",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "全宽背景图片，展示深色厨房场景，中间居中显示主标题和按钮"
+        },
+        {
+          "type": "button",
+          "count": 2,
+          "width": "120px（Quick Quote）/150px（Download Catalog）",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "Quick Quote按钮为橙色（#FF8C00），白色文字；Download Catalog按钮为白色背景，黑色文字"
+        }
+      ],
+      "images": [
+        {
+          "type": "hero-banner",
+          "count": 1,
+          "width": "100%",
+          "height": "auto",
+          "aspect_ratio": "16:9",
+          "position": "居中",
+          "object_fit": "cover",
+          "has_overlay": true,
+          "overlay_color": "rgba(0,0,0,0.5)",
+          "placeholder_suggestion": "厨房场景图片"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "SOLID WOOD KITCHEN CABINETS",
+        "subtitle": "",
+        "paragraphs": [],
+        "button_texts": [
+          "Quick Quote",
+          "Download Catalog"
+        ],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板端导航链接可能换行显示，移动端Quick Quote按钮可能调整为全宽，Download Catalog按钮缩小宽度",
+      "content_summary": "页面顶部主视觉区域，通过深色厨房背景图和白色标题突出产品主题，结合导航栏和行动按钮引导用户操作",
+      "special_effects": "背景图片添加暗色（rgba(0,0,0,0.5)）叠加层，提升白色标题和按钮的可读性",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_1.jpg",
+      "chunk_index": 0
+    },
+    {
+      "module_type": "product-grid",
+      "module_name_suggestion": "kitchen-cabinets-product-grid",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 3,
+        "rows": 2,
+        "gap_horizontal": "24px",
+        "gap_vertical": "30px",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#f5f5f5",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 6,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "浅灰色背景卡片，包含产品图片、标题和描述文字，无阴影和边框"
+        }
+      ],
+      "images": [
+        {
+          "type": "product",
+          "count": 6,
+          "width": "300px",
+          "height": "auto",
+          "aspect_ratio": "4:3",
+          "position": "网格排列（卡片顶部）",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Custom Solid Wood Cabinets",
+        "subtitle": "",
+        "paragraphs": [],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Traditional Solid Wood kitchen Cabinet for Sale",
+            "description": "In Europe and South East Asia, traditional kitchen cabinets are a popular option. Solid wood kitchen...",
+            "link_text": ""
+          },
+          {
+            "title": "Solid Wood Shaker Kitchen Cabinets",
+            "description": "Shaker style cabinet doors are among our most popular modular cabinetry styles. Shaker style cabinets...",
+            "link_text": ""
+          },
+          {
+            "title": "Solid Wood Rustic Kitchen Cabinet",
+            "description": "Rustic kitchen cabinets frequently display the wood grain to achieve a natural appearance. Enhance this...",
+            "link_text": ""
+          },
+          {
+            "title": "Solid Wood Oak Kitchen Cabinets",
+            "description": "Oak Kitchen Cabinets: Everything You Should Know Oak kitchen cabinets have been a popular choice in kitchen...",
+            "link_text": ""
+          },
+          {
+            "title": "Solid Wood Frameless Kitchen Cabinets",
+            "description": "Elegant Solid Wood Frameless Kitchen Cabinets Adopt contemporary minimalism with our Stylish Solid Wood...",
+            "link_text": ""
+          },
+          {
+            "title": "Modern Solid Wood kitchen Cabinet",
+            "description": "Top Pick: Contemporary Wood Kitchen Cabinets Modern wooden cabinets are a harmonious mix of natural and...",
+            "link_text": ""
+          }
+        ]
+      },
+      "responsive_hints": "平板设备显示2列，移动端设备显示1列",
+      "content_summary": "展示6种不同风格的实木厨房橱柜产品，每个产品卡片包含图片、标题和简要描述",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_2.jpg",
+      "chunk_index": 1
+    },
+    {
+      "module_type": "image-text",
+      "module_name_suggestion": "solid-wood-kitchen-image-text",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0px",
+        "alignment": "left",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#f0f0f0",
+        "heading": "#222222",
+        "text": "#333333",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "0px"
+      },
+      "components": [
+        {
+          "type": "image",
+          "count": 5,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "包含1张大尺寸厨房实景图（左侧）和4张小尺寸产品目录封面图（右侧），均无阴影和边框"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "120px",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色背景按钮，显示文字'Consult'"
+        },
+        {
+          "type": "text",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "包含主标题和段落文字，文字左对齐"
+        }
+      ],
+      "images": [
+        {
+          "type": "product",
+          "count": 1,
+          "width": "400px",
+          "height": "250px",
+          "aspect_ratio": "16:9",
+          "position": "左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "kitchen-interior"
+        },
+        {
+          "type": "thumbnail",
+          "count": 4,
+          "width": "120px",
+          "height": "160px",
+          "aspect_ratio": "3:4",
+          "position": "右侧堆叠排列",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "catalog-cover"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "In search of a Kitchen Made of Solid Wood?",
+        "subtitle": "",
+        "paragraphs": [
+          "Our cabinet makers utilize traditional construction techniques, such as mortise and tenon, and dovetail joints, for the oak kitchen units. We utilize high-grade solid brass butt hinges available in 3 finishes (chrome, brass, antique brass) that are embedded into the door and will not sag with time. All of our units have in-frame construction, indicating that the doors are installed inside the cabinet, rather than on the exterior (unlike less expensive units). Every drawer we offer comes equipped with sturdy concealed soft close sliders and a quick-release feature for effortless maintenance.In search of a Kitchen Made of Solid Wood?"
+        ],
+        "button_texts": [
+          "Consult"
+        ],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备下，图片与文字调整为上下排列（图片在上，文字在下）；移动端下，图片和文字堆叠，按钮宽度100%",
+      "content_summary": "该区域通过左侧厨房实景图与右侧文字说明，展示橱柜的传统制作工艺及核心特点，并引导用户下载产品目录",
+      "special_effects": "无明显的特殊效果，布局简洁直观",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_3.jpg",
+      "chunk_index": 2
+    },
+    {
+      "module_type": "content-block",
+      "module_name_suggestion": "cabinet-pricing-section",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "40px",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#f8f8f8",
+        "primary": "#FF8C00",
+        "secondary": "#ffffff",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "button",
+          "count": 1,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色按钮，显示'GET A PROJECT QUOTE'文字"
+        },
+        {
+          "type": "text",
+          "count": 2,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "包含定价标题、段落和木材类型标题、段落的文本块"
+        }
+      ],
+      "images": [
+        {
+          "type": "product",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "aspect_ratio": "16:9",
+          "position": "右侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Transparent Cabinet Pricing",
+        "subtitle": "",
+        "paragraphs": [
+          "While it can be challenging to get solid wood kitchen cabinets at an inexpensive price, there's no reason to skimp on quality when purchasing real wood cabinetry. Our clear pricing makes it simple to establish a detailed budget plan, and contacting us online will enable you to receive a project price right away.",
+          "Wood cabinets are available in a wide range of hues, tones, and wood species, providing a unique assortment of wood-grain patterns and characteristics. Grain refers to the wood's texture, markings, and pattern.",
+          "It should be mentioned that premium timbers are both beautiful and long-lasting. The kitchen cabinets composed of the hardest timbers have higher densities, which ensures their longevity.",
+          "Listed below are the various types of wood commonly used in cabinetry, along"
+        ],
+        "button_texts": [
+          "GET A PROJECT QUOTE"
+        ],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备显示2列布局，移动设备显示1列布局，按钮和文本自适应宽度",
+      "content_summary": "该区域主要展示透明橱柜定价信息以及9种木材橱柜的类型介绍，包含图文结合的内容块",
+      "special_effects": "按钮hover时可能有颜色加深效果，图片hover时可能有轻微放大或阴影效果",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_4.jpg",
+      "chunk_index": 3
+    },
+    {
+      "module_type": "content-block",
+      "module_name_suggestion": "cabinet-pricing-wood-types-section",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "block",
+        "columns": 1,
+        "rows": 2,
+        "gap_horizontal": "0px",
+        "gap_vertical": "60px",
+        "alignment": "left",
+        "direction": "column"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#f8f8f8",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "button",
+          "count": 1,
+          "width": "180px",
+          "height": "40px",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色按钮，文字为“GET A PROJECT QUOTE”"
+        },
+        {
+          "type": "image",
+          "count": 2,
+          "width": "600px",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "厨房橱柜展示图片，分别位于定价模块右侧和木材类型模块左侧"
+        }
+      ],
+      "images": [
+        {
+          "type": "product",
+          "count": 2,
+          "width": "600px",
+          "height": "auto",
+          "aspect_ratio": "16:9",
+          "position": "第一个位于定价模块右侧，第二个位于木材类型模块左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "kitchen-cabinet-image"
+        }
+      ],
+      "extracted_content": {
+        "main_title": [
+          "Transparent Cabinet Pricing",
+          "9 Types of Wood Cabinets"
+        ],
+        "paragraphs": [
+          "While it can be challenging to get solid wood kitchen cabinets at an inexpensive price, there's no reason to skimp on quality when purchasing real wood cabinetry. Our clear pricing makes it simple to establish a detailed budget plan, and contacting us online will enable you to receive a project price right away.",
+          "Wood cabinets are available in a wide range of hues, tones, and wood species, providing a unique assortment of wood-grain patterns and characteristics. Grain refers to the wood's texture, markings, and pattern.",
+          "It should be mentioned that premium timbers are both beautiful and long-lasting. The kitchen cabinets composed of the hardest timbers have higher densities, which ensures their longevity.",
+          "Listed below are the various types of wood commonly used in cabinetry, along with their distinctive features, and the kitchen designs and cabinet styles they are suitable for. Solid hardwood cabinets are not necessary to achieve the appearance of Maple, Cherry, Walnut, and other wood cabinet options."
+        ],
+        "button_texts": [
+          "GET A PROJECT QUOTE"
+        ],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备下，两个模块变为单列，图片宽度100%；移动端下，图片和文字堆叠，按钮宽度100%",
+      "content_summary": "该区域展示橱柜定价信息和木材类型介绍，包含图文混排的定价模块和木材类型模块",
+      "special_effects": "按钮hover时背景色加深，图片hover时轻微放大",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_5.jpg",
+      "chunk_index": 4
+    },
+    {
+      "module_type": "product-grid",
+      "module_name_suggestion": "wood-cabinets-types-grid",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 1,
+        "rows": 4,
+        "gap_horizontal": "20px",
+        "gap_vertical": "30px",
+        "alignment": "left",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#f0f0f0",
+        "heading": "#222222",
+        "text": "#333333",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 4,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "每个卡片包含木柜类型的图片和文字描述，图片位于左侧，文字位于右侧，整体左对齐"
+        }
+      ],
+      "images": [
+        {
+          "type": "product",
+          "count": 4,
+          "width": "300px",
+          "height": "200px",
+          "aspect_ratio": "3:2",
+          "position": "左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "wood-cabinets-thumbnail"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "9 Types of Wood Cabinets",
+        "subtitle": "",
+        "paragraphs": [
+          "Walnuts range in hue from light reddish gray to deep chocolate brown, with a smooth, consistent texture that resembles swirls. Additionally, carving it is an easy operation. One of the best materials for kitchen cabinets is walnut since it tends to get lighter and more mellow with age. Well-liked for traditional, classic, and transitional designs.",
+          "Strong and sturdy, hickory has an oak-like grain and is available in a wide variety of colors and tones. It comes in a variety of hues, from pale cream to reddish-brown or black. Hickory appears best when left unfinished and stained naturally or with a clear coat. Well-liked for farmhouse or rustic decor.",
+          "Red oak showcases unique curved and straight grain designs. Extremely robust, sturdy, long-lasting, and reasonably priced, making it a popular choice for kitchen cabinets. Red oak complements a range of different styles and finishes. Even if it’s coated with paint, the surface may still show its natural wood texture. Well-liked in conventional designs.",
+          "White oak cabinets have a more understated grain and a golden hue compared to red oak. Slightly more..."
+        ],
+        "button_texts": [],
+        "list_items": [
+          {
+            "title": "3.Walnut Cabinets",
+            "description": "Walnuts range in hue from light reddish gray to deep chocolate brown, with a smooth, consistent texture that resembles swirls. Additionally, carving it is an easy operation. One of the best materials for kitchen cabinets is walnut since it tends to get lighter and more mellow with age. Well-liked for traditional, classic, and transitional designs."
+          },
+          {
+            "title": "4.Hickory Cabinets",
+            "description": "Strong and sturdy, hickory has an oak-like grain and is available in a wide variety of colors and tones. It comes in a variety of hues, from pale cream to reddish-brown or black. Hickory appears best when left unfinished and stained naturally or with a clear coat. Well-liked for farmhouse or rustic decor."
+          },
+          {
+            "title": "5.Red Oak Cabinets",
+            "description": "Red oak showcases unique curved and straight grain designs. Extremely robust, sturdy, long-lasting, and reasonably priced, making it a popular choice for kitchen cabinets. Red oak complements a range of different styles and finishes. Even if it’s coated with paint, the surface may still show its natural wood texture. Well-liked in conventional designs."
+          },
+          {
+            "title": "6.White Oak Cabinets",
+            "description": "White oak cabinets have a more understated grain and a golden hue compared to red oak. Slightly more..."
+          }
+        ],
+        "card_contents": []
+      },
+      "responsive_hints": "平板端调整为2列布局，移动端保持1列，图片尺寸自适应缩小",
+      "content_summary": "该区域主要展示9种木柜类型中的第3至第6种（Walnut、Hickory、Red Oak、White Oak）的详细介绍，每个类型通过图片和文字结合的方式呈现，突出木柜的材质特点、外观特征及适用风格",
+      "special_effects": "无动态效果，采用静态图文混排展示",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_6.jpg",
+      "chunk_index": 5
+    },
+    {
+      "module_type": "features-service",
+      "module_name_suggestion": "kitchen-cabinet-wood-types",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 1,
+        "rows": 4,
+        "gap_horizontal": "20px",
+        "gap_vertical": "30px",
+        "alignment": "left",
+        "direction": "column"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#8B4513",
+        "secondary": "#F5F5F5",
+        "heading": "#222222",
+        "text": "#333333",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "30px",
+        "padding_bottom": "30px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "10px",
+        "card_padding": "15px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 4,
+          "width": "100%",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色卡片，包含木材类型图片和文字说明，图片与文字并排布局"
+        }
+      ],
+      "images": [
+        {
+          "type": "product",
+          "count": 4,
+          "width": "300px",
+          "height": "200px",
+          "aspect_ratio": "3:2",
+          "position": "左侧/右侧交替排列",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "wood-texture-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "",
+        "subtitle": "",
+        "paragraphs": [
+          "White oak cabinets have a more understated grain and a golden hue compared to red oak. Slightly more robust than red oak and equally long-lasting, leading to a somewhat higher cost. White oak is more commonly utilized in bespoke cabinetry. Staining white oak is not advised as it may create excessive contrast in the grain. Commonly found in farmhouse, rustic, and period decor.",
+          "Alder wood has a similar straight, fine-textured grain as cherry and maple. It is a type of lightweight hardwood known as semi-hardwood, which is mostly consistent in color, appearing as light brown with hints of red. It is regarded as environmentally friendly and simple to handle. You have the option to utilize its natural grain and color or alternatively, you can choose to stain it. Well-liked for its rustic modern and contemporary designs.",
+          "Birch is a fine-textured, sturdy, and versatile wood that is often used for affordable cabinetry. Compared to maple, the grain color of this wood is a little bit darker. Despite its uneven tone, birch wood may be dyed to resemble more expensive woods like cherry or maple and yet absorb finishes well. Usually, engineered wood is less expensive than birch. Due to its versatility, birch can be used in a range of different styles.",
+          "One of the few softwoods utilized in cabinetry is poplar, one of the hardest varieties of wood. Its low cost has made it increasingly popular, and it maintains a continuous pale wood appearance."
+        ],
+        "button_texts": [],
+        "list_items": [
+          {
+            "title": "6.White Oak Cabinets",
+            "description": "White oak cabinets have a more understated grain and a golden hue compared to red oak. Slightly more robust than red oak and equally long-lasting, leading to a somewhat higher cost. White oak is more commonly utilized in bespoke cabinetry. Staining white oak is not advised as it may create excessive contrast in the grain. Commonly found in farmhouse, rustic, and period decor."
+          },
+          {
+            "title": "7.Alder Cabinets",
+            "description": "Alder wood has a similar straight, fine-textured grain as cherry and maple. It is a type of lightweight hardwood known as semi-hardwood, which is mostly consistent in color, appearing as light brown with hints of red. It is regarded as environmentally friendly and simple to handle. You have the option to utilize its natural grain and color or alternatively, you can choose to stain it. Well-liked for its rustic modern and contemporary designs."
+          },
+          {
+            "title": "8.Birch Cabinets",
+            "description": "Birch is a fine-textured, sturdy, and versatile wood that is often used for affordable cabinetry. Compared to maple, the grain color of this wood is a little bit darker. Despite its uneven tone, birch wood may be dyed to resemble more expensive woods like cherry or maple and yet absorb finishes well. Usually, engineered wood is less expensive than birch. Due to its versatility, birch can be used in a range of different styles."
+          },
+          {
+            "title": "9.Poplar Cabinets",
+            "description": "One of the few softwoods utilized in cabinetry is poplar, one of the hardest varieties of wood. Its low cost has made it increasingly popular, and it maintains a continuous pale wood appearance."
+          }
+        ],
+        "card_contents": []
+      },
+      "responsive_hints": "移动端单列显示，平板端双列交替排列",
+      "content_summary": "该区域主要展示厨房橱柜常用木材类型（白橡木、赤杨木、桦木、杨木）的特点、外观及适用风格",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_7.jpg",
+      "chunk_index": 6
+    },
+    {
+      "module_type": "content-block",
+      "module_name_suggestion": "kitchen-cabinets-poplar-advantages",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 1,
+        "rows": 2,
+        "gap_horizontal": "20px",
+        "gap_vertical": "40px",
+        "alignment": "left",
+        "direction": "column"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#f5f5f5",
+        "heading": "#222222",
+        "text": "#333333",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "0px",
+        "padding_right": "0px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "image",
+          "count": 1,
+          "width": "300px",
+          "height": "auto",
+          "border_radius": "0px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "Poplar Cabinets产品图片，左侧排列，展示浅色木质橱柜"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "120px",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": true,
+          "has_border": false,
+          "details": "橙色背景按钮，显示文字“Consult”，位于Advantages部分下方"
+        }
+      ],
+      "images": [
+        {
+          "type": "product",
+          "count": 1,
+          "width": "300px",
+          "height": "auto",
+          "aspect_ratio": "16:9",
+          "position": "左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Advantages of Solid Wood Cabinets",
+        "subtitle": "",
+        "paragraphs": [
+          "One of the few softwoods utilized in cabinetry is poplar, one of the hardest varieties of wood. Its low cost has made it increasingly popular, and it maintains a continuous pale wood appearance. It is light but sturdy, adaptable, and simple to paint (although it might need more paint than anticipated during repainting). Because of its softness, it is easily dented and scratched. Favored by farmhouse, rustic, contemporary, and modern designs.",
+          "Cabinet makers consider solid wood to be a superior material. Choosing alder, cherry, maple, or oak comes with numerous advantages due to the use of solid wood. Here are 5 advantages of solid wood cabinets to assist you in making the ideal selection for your home."
+        ],
+        "button_texts": [
+          "Consult"
+        ],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "移动端Poplar Cabinets部分改为上下排列（图片在上，文字在下），Advantages部分保持居中",
+      "content_summary": "展示Poplar橱柜的材质特点及 solid wood橱柜的优势，包含行动号召按钮引导用户咨询",
+      "special_effects": "按钮hover时背景色加深，图片hover时轻微缩放",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_8.jpg",
+      "chunk_index": 7
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "solid-wood-cabinets-advantages",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 1,
+        "rows": 2,
+        "gap_horizontal": "30px",
+        "gap_vertical": "40px",
+        "alignment": "left",
+        "direction": "column"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#f5f5f5",
+        "heading": "#000000",
+        "text": "#333333",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "40px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "25px"
+      },
+      "components": [
+        {
+          "type": "image-text",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "左侧图片（poplar cabinets），右侧文字描述（包括标题和段落）"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "120px",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色背景按钮，文字为白色，显示“Consult”"
+        },
+        {
+          "type": "card",
+          "count": 3,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "三个优势卡片，每个卡片包含标题和段落，背景为浅灰色"
+        }
+      ],
+      "images": [
+        {
+          "type": "product",
+          "count": 1,
+          "width": "350px",
+          "height": "200px",
+          "aspect_ratio": "16:9",
+          "position": "左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Advantages of Solid Wood Cabinets",
+        "subtitle": "Cabinet makers consider solid wood to be a superior material. Choosing alder, cherry, maple, or oak comes with numerous advantages due to the use of solid wood. Here are 5 advantages of solid wood cabinets to assist you in making the ideal selection for your home.",
+        "paragraphs": [
+          "One of the few softwoods utilized in cabinetry is poplar, one of the hardest varieties of wood. Its low cost has made it increasingly popular, and it maintains a continuous pale wood appearance.",
+          "It is light but sturdy, adaptable, and simple to paint (although it might need more paint than anticipated during repainting). Because of its softness, it is easily dented and scratched.",
+          "Favored by farmhouse, rustic, contemporary, and modern designs.",
+          "You're getting the best return on your investment because solid wood cabinets last for a long time. Wood cabinets have a higher initial cost, but they last longer and don't need to be replaced for many years. you ensure that your cabinets last a lifetime, make sure you properly maintain them..",
+          "Any room can benefit from the beauty and coziness that solid wood provides, thanks to its appealing and natural grain patterns. Varied varieties of wood have varied visual aspects, just as each species of wood has its own distinct traits. Select cherry, maple, or oak hardwood if you're looking for a wood with a lovely grain.",
+          "Solid wood is utilized globally for constructing bridges and residences due to its exceptional strength. Nothing can compare to the unbeatable strength and durability of solid wood when it comes to your cabinets. Solid wood is the perfect option for long-lasting cabinets that will endure for years to come."
+        ],
+        "button_texts": [
+          "Consult"
+        ],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Customization",
+            "description": "You're getting the best return on your investment because solid wood cabinets last for a long time. Wood cabinets have a higher initial cost, but they last longer and don't need to be replaced for many years. you ensure that your cabinets last a lifetime, make sure you properly maintain them.."
+          },
+          {
+            "title": "Aesthetics",
+            "description": "Any room can benefit from the beauty and coziness that solid wood provides, thanks to its appealing and natural grain patterns. Varied varieties of wood have varied visual aspects, just as each species of wood has its own distinct traits. Select cherry, maple, or oak hardwood if you're looking for a wood with a lovely grain."
+          },
+          {
+            "title": "Durable & Strong",
+            "description": "Solid wood is utilized globally for constructing bridges and residences due to its exceptional strength. Nothing can compare to the unbeatable strength and durability of solid wood when it comes to your cabinets. Solid wood is the perfect option for long-lasting cabinets that will endure for years to come."
+          }
+        ]
+      },
+      "responsive_hints": "平板设备下，优势卡片调整为2列；移动端下，图片与文字堆叠，卡片调整为1列",
+      "content_summary": "该区域主要展示solid wood cabinets的优势，包括poplar橱柜的介绍及五个核心优势（Customization、Aesthetics、Durable & Strong等）",
+      "special_effects": "按钮hover时背景色加深，卡片hover时轻微阴影",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_9.jpg",
+      "chunk_index": 8
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "kitchen-cabinets-advantages",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 1,
+        "rows": 1,
+        "gap_horizontal": "0px",
+        "gap_vertical": "30px",
+        "alignment": "center",
+        "direction": "column"
+      },
+      "colors": {
+        "background": "#f8f8f8",
+        "primary": "#FF8C00",
+        "secondary": "#ffffff",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "36px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "0px"
+      },
+      "components": [
+        {
+          "type": "button",
+          "count": 1,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色填充按钮，白色文字，无阴影，位于段落下方"
+        }
+      ],
+      "images": [
+        {
+          "type": "none",
+          "count": 0,
+          "width": "0px",
+          "height": "0px",
+          "aspect_ratio": "none",
+          "position": "none",
+          "object_fit": "none",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "none"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Advantages of Solid Wood Cabinets",
+        "subtitle": "",
+        "paragraphs": [
+          "Cabinet makers consider solid wood to be a superior material. Choosing alder, cherry, maple, or oak comes with numerous advantages due to the use of solid wood. Here are 5 advantages of solid wood cabinets to assist you in making the ideal selection for your home."
+        ],
+        "button_texts": [
+          "Consult"
+        ],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板及移动端保持1列布局，标题和段落自适应字体大小",
+      "content_summary": "该区域主要展示固体木橱柜的优势，通过标题、说明文字和咨询按钮引导用户了解产品优势",
+      "special_effects": "按钮 hover 时可能触发颜色加深效果（未在截图中显示，但常见于此类模块）",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_10.jpg",
+      "chunk_index": 9
+    },
+    {
+      "module_type": "image-text",
+      "module_name_suggestion": "kitchen-cabinet-accessories",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "40px",
+        "gap_vertical": "0",
+        "alignment": "center",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#000000",
+        "secondary": "#666666",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "0",
+        "card_padding": "0"
+      },
+      "components": [
+        {
+          "type": "image",
+          "count": 1,
+          "width": "450px",
+          "height": "300px",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "厨房橱柜内部配件展示图片，左侧布局，无阴影和边框"
+        },
+        {
+          "type": "text",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "右侧文字内容区域，包含标题和段落"
+        }
+      ],
+      "images": [
+        {
+          "type": "product",
+          "count": 1,
+          "width": "450px",
+          "height": "300px",
+          "aspect_ratio": "3:2",
+          "position": "左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Inside Kitchen Cabinet Accessories",
+        "subtitle": "Every centimeter is utilized efficiently here",
+        "paragraphs": [
+          "Our natural wood kitchens have customised equipment that keeps ingredients and cookware easily accessible, enhancing the cooking experience. Ergonomics holds the same importance as order and clarity. Decide between a shiny chrome interior or a system made of anthracite-colored metal, featuring natural wood for the front and railing."
+        ],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板端（768px-1024px）改为1列布局，图片在上、文字在下；移动端（<768px）保持1列，图片宽度100%，文字宽度100%",
+      "content_summary": "展示厨房橱柜内部配件的定制化设计，强调空间利用效率、人体工学及材料选择",
+      "special_effects": "无特殊动画或交互效果，静态图文展示",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_11.jpg",
+      "chunk_index": 10
+    },
+    {
+      "module_type": "content-block",
+      "module_name_suggestion": "kitchen-cabinet-accessories-bar-elements",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "50px",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#f0f0f0",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "50px",
+        "padding_bottom": "50px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "image",
+          "count": 2,
+          "width": "500px",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "左右排列的图片，分别展示吧台和延伸桌产品"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "8px",
+          "has_shadow": true,
+          "has_border": false,
+          "details": "橙色背景按钮，文字为“GET A PROJECT QUOTE”"
+        }
+      ],
+      "images": [
+        {
+          "type": "product",
+          "count": 2,
+          "width": "500px",
+          "height": "auto",
+          "aspect_ratio": "16:9",
+          "position": "左右排列",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Bar elements, counters, extension tables",
+        "subtitle": "Bars & counters",
+        "paragraphs": [
+          "Different bar elements and counters create a social atmosphere in the kitchen, turning it into a popular spot for shared breakfasts or quick snacks. They design seating options for small kitchen spaces or seamless transitions to other areas in open-plan living setups. Utilizing ports for laptops and tablets expands potential smart applications for small home office tasks. Our bar stools provide top-of-the-line seating comfort in this space.",
+          "You can quickly turn your kitchen into a full dining area and improve the homey atmosphere by employing a large extension table. You expand the size of your workspace and storage areas at the same time. The striking thicknesses of the material nicely compliment the exquisite natural wood. Side panels made of glass or wood provide additional support in addition to a classy look. To match your kitchen, you can choose from a large assortment of complementary chairs."
+        ],
+        "button_texts": [
+          "GET A PROJECT QUOTE"
+        ],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板端2列，移动端1列",
+      "content_summary": "展示厨房柜子配件中的吧台元素、延伸桌等内容，包含图文混排和行动号召按钮",
+      "special_effects": "按钮hover时颜色加深，图片hover时轻微缩放",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_12.jpg",
+      "chunk_index": 11
+    },
+    {
+      "module_type": "content-block",
+      "module_name_suggestion": "kitchen-cabinets-accessories",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "20px",
+        "alignment": "left",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#f8f8f8",
+        "primary": "#FF8C00",
+        "secondary": "#ffffff",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "36px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "image",
+          "count": 2,
+          "width": "400px",
+          "height": "300px",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "展示厨房吧台和延伸桌的产品图片，左右排列"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "150px",
+          "height": "40px",
+          "border_radius": "8px",
+          "has_shadow": true,
+          "has_border": false,
+          "details": "橙色背景按钮，显示'GET A PROJECT QUOTE'文字"
+        }
+      ],
+      "images": [
+        {
+          "type": "product",
+          "count": 2,
+          "width": "400px",
+          "height": "300px",
+          "aspect_ratio": "4:3",
+          "position": "左右排列",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Bar elements, counters, extension tables",
+        "subtitle": "Bars & counters",
+        "paragraphs": [
+          "Different bar elements and counters create a social atmosphere in the kitchen, turning it into a popular spot for shared breakfasts or quick snacks. They design seating options for small kitchen spaces or seamless transitions to other areas in open-plan living setups. Utilizing ports for laptops and tablets expands potential smart applications for small home office tasks. Our bar stools provide top-of-the-line seating comfort in this space.",
+          "You can quickly turn your kitchen into a full dining area and improve the homey atmosphere by employing a large extension table. You expand the size of your workspace and storage areas at the same time. The striking thicknesses of the material nicely compliment the exquisite natural wood. Side panels made of glass or wood provide additional support in addition to a classy look. To match your kitchen, you can choose from a large assortment of complementary chairs."
+        ],
+        "button_texts": [
+          "GET A PROJECT QUOTE"
+        ],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备显示2列布局，移动端设备显示1列布局，图片宽度自适应",
+      "content_summary": "该区域主要展示厨房吧台元素、延伸桌等配件，强调其功能性和设计感，并提供项目报价按钮",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_13.jpg",
+      "chunk_index": 12
+    },
+    {
+      "module_type": "why-choose",
+      "module_name_suggestion": "kitchen-cabinets-why-choose",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 2,
+        "gap_horizontal": "30px",
+        "gap_vertical": "40px",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#f5f5f5",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "0"
+      },
+      "components": [
+        {
+          "type": "image",
+          "count": 2,
+          "width": "auto",
+          "height": "200px",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "左侧木块纹理图片（Why Choose Solid Wood?模块），右侧厨房安装场景图片（Easy to Install Kitchens模块）"
+        },
+        {
+          "type": "text",
+          "count": 4,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "包含2个标题（Why Choose Solid Wood?、Easy to Install Kitchens）和2个段落（实心木优点、厨房安装说明）"
+        },
+        {
+          "type": "faq",
+          "count": 1,
+          "width": "100%",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "FAQs模块标题及第一个问题（Can you paint solid wood kitchen cabinets?）"
+        }
+      ],
+      "images": [
+        {
+          "type": "thumbnail",
+          "count": 2,
+          "width": "45%",
+          "height": "200px",
+          "aspect_ratio": "auto",
+          "position": "左右两侧（Why Choose Solid Wood?左侧，Easy to Install Kitchens右侧）",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "wood-texture-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Why Choose Solid Wood?",
+        "subtitle": "Easy to Install Kitchens",
+        "paragraphs": [
+          "Solid wood is both durable and extremely adaptable. Cabinets are essential in every kitchen and typically involve the highest cost. Regardless of whether you choose to refresh your color scheme and handles periodically to keep up with current trends, cabinets should be your top priority for investment as they are built to last and will not deteriorate over time like chipboard. We use solid wood to make all of our doors, frames, and drawers. We create our frames by slicing wood strips into blocks and joining them between two thinner wood panels. Our special technique prevents the wood grains in the primary frame from moving, despite the natural expansion and contraction of wood. This process may be costly, but it is crucial for the longevity and prevention of warping in our units. This is particularly crucial in old homes, where there is a higher level of humidity, and the structure requires ventilation.",
+          "All our kitchen units made of real wood are delivered fully assembled and complete, resembling a standalone furniture piece. No construction of drawers or hanging of doors needed, simply assemble the units together. Our team is available to provide guidance and individual attention to talk about your kitchen requirements. Do not fret, we will guide you through the entire process."
+        ],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板端调整为1列布局，移动端保持1列，图片宽度自适应",
+      "content_summary": "该区域主要展示实心木厨房橱柜的优势（耐用性、适应性、制作工艺）及安装便利性，同时开始介绍常见问题",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_14.jpg",
+      "chunk_index": 13
+    },
+    {
+      "module_type": "faq",
+      "module_name_suggestion": "kitchen-cabinets-faqs",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "block",
+        "columns": 1,
+        "rows": 7,
+        "gap_horizontal": "0px",
+        "gap_vertical": "30px",
+        "alignment": "left",
+        "direction": "column"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#333333",
+        "secondary": "#666666",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "30px",
+        "padding_bottom": "30px",
+        "padding_left": "0px",
+        "padding_right": "0px",
+        "element_margin": "0px",
+        "card_padding": "0px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 7,
+          "width": "100%",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色卡片，无阴影和边框，每个卡片包含问题标题和回答段落"
+        }
+      ],
+      "images": [
+        {
+          "type": "image-text",
+          "count": 1,
+          "width": "300px",
+          "height": "auto",
+          "aspect_ratio": "1:1",
+          "position": "右侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "FAQs",
+        "subtitle": "",
+        "paragraphs": [
+          "Any surface that can be roughened with sandpaper is excellent for painting, but wooden cabinets are especially good for painting. Laminate cabinets need a specific bonding primer. The laminate must be in good condition to achieve the best results. Your cabinets will look glossy if they have a shining finish, but it may also draw attention to any dents or flaws.",
+          "Yes. When comparing solid wood cabinets with other cabinet materials, solid wood consistently proves to be superior. It is a top-notch material that is long-lasting, sturdy, and can endure for a lifetime.",
+          "When it comes to your cabinets, nothing beats the strength and durability of solid wood. If you want cabinets that will endure for many years, solid wood is the perfect option.",
+          "Solid wood is the top choice for kitchen cabinets globally due to its popularity as a building material. There are options to suit every taste and preference with a diverse range of species and design styles available. Maple, Birch, Cherry, Oak, and Walnut are the top choices for solid wood kitchen cabinets.",
+          "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast",
+          "In the event that the cost of solid wood cabinets exceeds your budget, you have other options. Medium-density fiberboard (MDF) is an engineered wood product made of wax, resin, and thin wood fiber panels. Because MDF boards are denser, tougher, and more durable than plywood, it is widely acknowledged that they are better suited for cabinets. Due to its image as a less expensive alternative, many homeowners view it unfavorably because it is not real wood. In contrast to the more expensive version, it operates considerably differently.",
+          "The decision between MDF and real wood ultimately comes down to your personal preferences for the style and functionality of your kitchen. Although MDF cabinets' contemporary look and low cost may tempt you to choose them over solid wood cabinets, solid wood cabinets will probably last longer."
+        ],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Can you paint solid wood kitchen cabinets?",
+            "description": "Any surface that can be roughened with sandpaper is excellent for painting, but wooden cabinets are especially good for painting. Laminate cabinets need a specific bonding primer. The laminate must be in good condition to achieve the best results. Your cabinets will look glossy if they have a shining finish, but it may also draw attention to any dents or flaws.",
+            "link_text": ""
+          },
+          {
+            "title": "Is it worth investing money in solid wood cabinets?",
+            "description": "Yes. When comparing solid wood cabinets with other cabinet materials, solid wood consistently proves to be superior. It is a top-notch material that is long-lasting, sturdy, and can endure for a lifetime.",
+            "link_text": ""
+          },
+          {
+            "title": "Are solid wood good for kitchen cabinets?",
+            "description": "When it comes to your cabinets, nothing beats the strength and durability of solid wood. If you want cabinets that will endure for many years, solid wood is the perfect option.",
+            "link_text": ""
+          },
+          {
+            "title": "Do solid wood cabinets exist?",
+            "description": "Solid wood is the top choice for kitchen cabinets globally due to its popularity as a building material. There are options to suit every taste and preference with a diverse range of species and design styles available. Maple, Birch, Cherry, Oak, and Walnut are the top choices for solid wood kitchen cabinets.",
+            "link_text": ""
+          },
+          {
+            "title": "How to Change my Photo from Admin Dashboard?",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast",
+            "link_text": ""
+          },
+          {
+            "title": "Are there cheaper options for cabinets?",
+            "description": "In the event that the cost of solid wood cabinets exceeds your budget, you have other options. Medium-density fiberboard (MDF) is an engineered wood product made of wax, resin, and thin wood fiber panels. Because MDF boards are denser, tougher, and more durable than plywood, it is widely acknowledged that they are better suited for cabinets. Due to its image as a less expensive alternative, many homeowners view it unfavorably because it is not real wood. In contrast to the more expensive version, it operates considerably differently.",
+            "link_text": ""
+          },
+          {
+            "title": "Solid wood or MDF: Which is best for kitchen?",
+            "description": "The decision between MDF and real wood ultimately comes down to your personal preferences for the style and functionality of your kitchen. Although MDF cabinets' contemporary look and low cost may tempt you to choose them over solid wood cabinets, solid wood cabinets will probably last longer.",
+            "link_text": ""
+          }
+        ]
+      },
+      "responsive_hints": "平板端1列显示，移动端1列显示，每个问题卡片保持完整宽度",
+      "content_summary": "该区域主要展示关于实木厨房橱柜的常见问题及详细回答，帮助用户了解实木橱柜的相关信息",
+      "special_effects": "无特殊动画或交互效果，仅静态内容展示",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_15.jpg",
+      "chunk_index": 14
+    },
+    {
+      "module_type": "faq",
+      "module_name_suggestion": "kitchen-cabinets-faq",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 1,
+        "rows": 1,
+        "gap_horizontal": "0px",
+        "gap_vertical": "20px",
+        "alignment": "left",
+        "direction": "column"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#f5f5f5",
+        "heading": "#222222",
+        "text": "#333333",
+        "border": "#e0e0e0"
+      },
+      "typography": {
+        "heading_size": "36px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "40px",
+        "padding_bottom": "30px",
+        "padding_left": "0px",
+        "padding_right": "0px",
+        "element_margin": "20px",
+        "card_padding": "15px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 5,
+          "width": "100%",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "浅灰色背景卡片，包含问题标题和回答内容，垂直排列"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "120px",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色背景按钮，显示‘Consult’文字"
+        }
+      ],
+      "images": [
+        {
+          "type": "none",
+          "count": 0,
+          "width": "0px",
+          "height": "0px",
+          "aspect_ratio": "auto",
+          "position": "none",
+          "object_fit": "none",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "none"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "FAQs",
+        "subtitle": "",
+        "paragraphs": [
+          "Any surface that can be roughened with sandpaper is excellent for painting, but wooden cabinets are especially good for painting. Laminate cabinets need a specific bonding primer. The laminate must be in good condition to achieve the best results. Your cabinets will look glossy if they have a shining finish, but it may also draw attention to any dents or flaws.",
+          "Yes. When comparing solid wood cabinets with other cabinet materials, solid wood consistently proves to be superior. It is a top-notch material that is long-lasting, sturdy, and can endure for a lifetime.",
+          "When it comes to your cabinets, nothing beats the strength and durability of solid wood. If you want cabinets that will endure for many years, solid wood is the perfect option.",
+          "Solid wood is the top choice for kitchen cabinets globally due to its popularity as a building material. There are options to suit every taste and preference with a diverse range of species and design styles available. Maple, Birch, Cherry, Oak, and Walnut are the top choices for solid wood kitchen cabinets.",
+          "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast",
+          "In the event that the cost of solid wood cabinets exceeds your budget, you have other options. Medium-density fiberboard (MDF) is an engineered wood product made of wax, resin, and thin wood fiber panels. Because MDF boards are denser, tougher, and more durable than plywood, it is widely acknowledged that they are better suited for cabinets. Due to its image as a less expensive alternative, many homeowners view it unfavorably because it is not real wood. In contrast to the more expensive version, it operates considerably differently.",
+          "The decision between MDF and real wood ultimately comes down to your personal preferences for the style and functionality of your kitchen. Although MDF cabinets' contemporary look and low cost may tempt you to choose them over solid wood cabinets, solid wood cabinets will probably last longer."
+        ],
+        "button_texts": [
+          "Consult"
+        ],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Can you paint solid wood kitchen cabinets?",
+            "description": "Any surface that can be roughened with sandpaper is excellent for painting, but wooden cabinets are especially good for painting. Laminate cabinets need a specific bonding primer. The laminate must be in good condition to achieve the best results. Your cabinets will look glossy if they have a shining finish, but it may also draw attention to any dents or flaws.",
+            "link_text": ""
+          },
+          {
+            "title": "Is it worth investing money in solid wood cabinets?",
+            "description": "Yes. When comparing solid wood cabinets with other cabinet materials, solid wood consistently proves to be superior. It is a top-notch material that is long-lasting, sturdy, and can endure for a lifetime.",
+            "link_text": ""
+          },
+          {
+            "title": "Are solid wood good for kitchen cabinets?",
+            "description": "When it comes to your cabinets, nothing beats the strength and durability of solid wood. If you want cabinets that will endure for many years, solid wood is the perfect option.",
+            "link_text": ""
+          },
+          {
+            "title": "Do solid wood cabinets exist?",
+            "description": "Solid wood is the top choice for kitchen cabinets globally due to its popularity as a building material. There are options to suit every taste and preference with a diverse range of species and design styles available. Maple, Birch, Cherry, Oak, and Walnut are the top choices for solid wood kitchen cabinets.",
+            "link_text": ""
+          },
+          {
+            "title": "How to Change my Photo from Admin Dashboard?",
+            "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast",
+            "link_text": ""
+          },
+          {
+            "title": "Are there cheaper options for cabinets?",
+            "description": "In the event that the cost of solid wood cabinets exceeds your budget, you have other options. Medium-density fiberboard (MDF) is an engineered wood product made of wax, resin, and thin wood fiber panels. Because MDF boards are denser, tougher, and more durable than plywood, it is widely acknowledged that they are better suited for cabinets. Due to its image as a less expensive alternative, many homeowners view it unfavorably because it is not real wood. In contrast to the more expensive version, it operates considerably differently.",
+            "link_text": ""
+          },
+          {
+            "title": "Solid wood or MDF: Which is best for kitchen?",
+            "description": "The decision between MDF and real wood ultimately comes down to your personal preferences for the style and functionality of your kitchen. Although MDF cabinets' contemporary look and low cost may tempt you to choose them over solid wood cabinets, solid wood cabinets will probably last longer.",
+            "link_text": ""
+          }
+        ]
+      },
+      "responsive_hints": "平板和移动端保持1列布局，桌面端1列，卡片间距自适应",
+      "content_summary": "展示关于厨房橱柜的常见问题及详细解答，涵盖喷漆可行性、投资价值、适用性、存在性、操作指南、成本替代选项及材质对比等内容",
+      "special_effects": "无显著动画效果，卡片 hover 时可能显示轻微阴影（截图中未明确显示）",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_16.jpg",
+      "chunk_index": 15
+    },
+    {
+      "raw_response": "\n{\n    \"module_type\": \"content-block\",\n    \"module_name_suggestion\": \"kitchen-cabinets-comparison-and-quote\",\n    \"is_common_module\": true,\n    \"layout\": {\n        \"container\": \"container-1200\",\n        \"type\": \"flex\",\n        \"columns\": 1,\n        \"rows\": 3,\n        \"gap_horizontal\": \"20px\",\n        \"gap_vertical\": \"40px\",\n        \"alignment\": \"left\",\n        \"direction\": \"column\"\n    },\n    \"colors\": {\n        \"background\": \"#ffffff\",\n        \"primary\": \"#FF8C00\",\n        \"secondary\": \"#666666\",\n        \"heading\": \"#333333\",\n        \"text\": \"#666666\",\n        \"border\": \"#e0e0e0\"\n    },\n    \"typography\": {\n        \"heading_size\": \"24px\",\n        \"heading_weight\": \"700\",\n        \"body_size\": \"16px\",\n        \"body_weight\": \"400\",\n        \"line_height\": \"1.6\"\n    },\n    \"spacing\": {\n        \"padding_top\": \"0px\",\n        \"padding_bottom\": \"0px\",\n        \"padding_left\": \"0px\",\n        \"padding_right\": \"0px\",\n        \"element_margin\": \"20px\",\n        \"card_padding\": \"20px\"\n    },\n    \"components\": [\n        {\n            \"type\": \"text\",\n            \"count\": 1,\n            \"width\": \"auto\",\n            \"height\": \"auto\",\n            \"border_radius\": \"0\",\n            \"has_shadow\": false,\n            \"has_border\": false,\n            \"details\": \"FAQ段落文字，包含关于实木和MDF选择的比较内容\"\n        },\n        {\n            \"type\": \"heading\",\n            \"count\": 1,\n            \"width\": \"auto\",\n            \"height\": \"auto\",\n            \"border_radius\": \"0\",\n            \"has_shadow\": false,\n            \"has_border\": false,\n            \"details\": \"Showroom部分标题，字体加粗\"\n        },\n        {\n            \"type\": \"list\",\n            \"count\": 1,\n            \"width\": \"auto\",\n            \"height\": \"auto\",\n            \"border_radius\": \"0\",\n            \"has_shadow\": false,\n            \"has_border\": false,\n            \"details\": \"产品类别列表，包含10个列表项\"\n        },\n        {\n            \"type\": \"button\",\n            \"count\": 1,\n            \"width\": \"120px\",\n            \"height\": \"40px\",\n            \"border_radius\": \"4px\",\n            \"has_shadow\": false,\n            \"has_border\": false,\n            \"details\": \"橙色背景的Consult按钮，居中显示\"\n        },\n        {\n            \"type\": \"heading\",\n            \"count\": 1,\n            \"width\": \"auto\",\n            \"height\": \"auto\",\n            \"border_radius\": \"0\",\n            \"has_shadow\": false,\n            \"has_border\": false\",\n            \"details\": \"联系表单标题，字体加粗\"\n        },\n        {\n            \"type\": \"text\",\n            \"count\": 1,\n            \"width\": \"auto\",\n            \"height\": \"auto\",\n            \"border_radius\": \"0\",\n            \"has_shadow\": false,\n            \"has_border\": false\",\n            \"details\": \"联系表单说明文字，包含8小时报价提示\"\n        },\n        {\n            \"type\": \"form\",\n            \"count\": 1,\n            \"width\": \"100%\",\n            \"height\": \"auto\",\n            \"border_radius\": \"8px\",\n            \"has_shadow\": true,\n            \"has_border\": true,\n            \"details\": \"联系表单，包含输入框、复选框、消息框、文件上传和发送按钮\"\n        },\n        {\n            \"type\": \"image\",\n            \"count\": 1,\n            \"width\": \"200px\",\n            \"height\": \"250px\",\n            \"border_radius\": \"8px\",\n            \"has_shadow\": false,\n            \"has_border\": false\",\n            \"details\": \"产品经理头像图片，左侧显示\"\n        }\n    ],\n    \"images\": [\n        {\n            \"type\": \"avatar\",\n            \"count\": 1,\n            \"width\": \"200px\",\n            \"height\": \"250px\",\n            \"aspect_ratio\": \"4:5\",\n            \"position\": \"左侧\",\n            \"object_fit\": \"cover\",\n            \"has_overlay\": false,\n            \"overlay_color\": \"none\",\n            \"placeholder_suggestion\": \"gray-bg\"\n        }\n    ],\n    \"extracted_content\": {\n        \"main_title\": \"Solid wood or MDF: Which is best for kitchen?\",\n        \"subtitle\": \"\",\n        \"paragraphs\": [\n            \"The decision between MDF and real wood ultimately comes down to your personal preferences for the style and functionality of your kitchen. Although MDF cabinets' contemporary look and low cost may tempt you to choose them over solid wood cabinets, solid wood cabinets will probably last longer.\",\n            \"George has 20000㎡ showroom with the whole category of products, including\",\n            \"* Kindly send us your project details and floor plan. We will quote for you within 8 hours!\"\n        ],\n        \"button_texts\": [\n            \"Consult\",\n            \"Send\"\n        ],\n        \"list_items\": [\n            {\"title\": \"Kitchen Cabinets & Wardrobe\", \"description\": \"\"},\n            {\"title\": \"Doors & Windows\", \"description\": \"\"},\n            {\"title\": \"Bathroom Fitting & Tiles\", \"description\": \"\"},\n            {\"title\": \"Marble & Granite\", \"description\": \"\"},\n            {\"title\": \"Furniture & Lighting\", \"description\": \"\"},\n            {\"title\": \"Curtain & Wall Panel\", \"description\": \"\"},\n            {\"title\": \"Soft Furnishing\", \"description\": \"\"},\n            {\"title\": \"Whole House Solution\", \"description\": \"\"}\n        ],\n        \"card_contents\": []\n    },\n    \"responsive_hints\": \"平板端表单部分调整为2列布局，移动端表单元素堆叠显示\",\n    \"content_summary\": \"该区域主要展示实木与MDF厨房柜子的比较、展厅产品类别及联系表单，用于引导用户咨询和获取报价\",\n    \"special_effects\": \"表单区域有轻微阴影效果，按钮 hover 时颜色加深\"\n}",
+      "parse_error": true,
+      "screenshot": "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_17.jpg",
+      "chunk_index": 16
+    },
+    {
+      "module_type": "showroom-section",
+      "module_name_suggestion": "george-showroom-section",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 1,
+        "rows": 4,
+        "gap_horizontal": "0px",
+        "gap_vertical": "30px",
+        "alignment": "left",
+        "direction": "column"
+      },
+      "colors": {
+        "background": "#f8f8f8",
+        "primary": "#FF8C00",
+        "secondary": "#666666",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "0px"
+      },
+      "components": [
+        {
+          "type": "text",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "主标题'Showroom'"
+        },
+        {
+          "type": "text",
+          "count": 2,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "段落文字，关于MDF和实木的决策，以及George的展厅介绍"
+        },
+        {
+          "type": "list",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "包含8个列表项，展示产品类别"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "120px",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色按钮，白色文字，用于咨询"
+        }
+      ],
+      "images": [
+        {
+          "type": "hero-banner/product/thumbnail/avatar/icon/background/gallery",
+          "count": 0,
+          "width": "auto",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "none",
+          "object_fit": "none",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "none"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Showroom",
+        "subtitle": "",
+        "paragraphs": [
+          "The decision between MDF and real wood ultimately comes down to your personal preferences for the style and functionality of your kitchen. Although MDF cabinets' contemporary look and low cost may tempt you to choose them over solid wood cabinets, solid wood cabinets will probably last longer.",
+          "George has 20000㎡ showroom with the whole category of products, including"
+        ],
+        "button_texts": [
+          "Consult"
+        ],
+        "list_items": [
+          {
+            "title": "Kitchen Cabinets & Wardrobe",
+            "description": ""
+          },
+          {
+            "title": "Doors & Windows",
+            "description": ""
+          },
+          {
+            "title": "Bathroom Fitting & Tiles",
+            "description": ""
+          },
+          {
+            "title": "Marble & Granite",
+            "description": ""
+          },
+          {
+            "title": "Furniture & Lighting",
+            "description": ""
+          },
+          {
+            "title": "Curtain & Wall Panel",
+            "description": ""
+          },
+          {
+            "title": "Soft Furnishing",
+            "description": ""
+          },
+          {
+            "title": "Whole House Solution",
+            "description": ""
+          }
+        ],
+        "card_contents": []
+      },
+      "responsive_hints": "平板和移动端保持单列布局，内容垂直排列",
+      "content_summary": "该区域展示George的展厅信息，包括展厅面积、产品类别以及咨询按钮，帮助用户了解展厅的规模和产品范围",
+      "special_effects": "无特殊效果，按钮 hover 可能会有颜色变化（如加深橙色）",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_18.jpg",
+      "chunk_index": 17
+    },
+    {
+      "module_type": "footer",
+      "module_name_suggestion": "footer-section",
+      "is_common_module": true,
+      "layout": {
+        "container": "full-width",
+        "type": "grid",
+        "columns": 4,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "20px",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#000000",
+        "primary": "#666666",
+        "secondary": "#cccccc",
+        "heading": "#ffffff",
+        "text": "#cccccc",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "18px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "0"
+      },
+      "components": [
+        {
+          "type": "text/link",
+          "count": 24,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "footer列中的文本链接，包括产品、解决方案、客户服务和联系方式的列表项"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "灰色发送按钮，位于Contact Us列底部"
+        },
+        {
+          "type": "input",
+          "count": 2,
+          "width": "200px",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "WhatsApp和邮箱输入框，位于Contact Us列底部"
+        }
+      ],
+      "images": [],
+      "extracted_content": {
+        "main_title": "",
+        "subtitle": "",
+        "paragraphs": [],
+        "button_texts": [
+          "Send"
+        ],
+        "list_items": [
+          {
+            "title": "Products",
+            "description": "Kitchen Cabinet, Wardrobe, Windows and Doors, Bathroom, Wood Flooring, More Furniture, Whole-house Design"
+          },
+          {
+            "title": "One-Stop Solutions",
+            "description": "Hotel Solutions, Resort Solutions, Villa Solutions, Apartment Solutions, Office Solutions"
+          },
+          {
+            "title": "Customer Services",
+            "description": "Measurement Guidance, Packaging Info, Delivery & Shipment, After Sales, Production Time, FAQ"
+          },
+          {
+            "title": "Contact Us",
+            "description": "info@georgeconstructions.com, +8613302843203, +8613302843203, Don't miss our future updates! Get Subscribed Today!"
+          }
+        ]
+      },
+      "responsive_hints": "平板设备下调整为2列布局，移动端设备下调整为1列布局",
+      "content_summary": "页面底部footer区域，展示产品分类、一站式解决方案、客户服务链接及联系方式，包含订阅表单",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/solid-wood-kitchen-cabinets_pixel_19.jpg",
+      "chunk_index": 18
+    }
+  ]
+}

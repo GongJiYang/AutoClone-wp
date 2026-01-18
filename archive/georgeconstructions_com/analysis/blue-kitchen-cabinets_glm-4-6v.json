@@ -1,0 +1,1991 @@
+{
+  "url": "https://georgeconstructions.com/blue-kitchen-cabinets/",
+  "title": "Everything You Need to Know About Blue Kitchen Cabinets",
+  "total_height": 12348,
+  "method": "pixel",
+  "vision_model": "glm-4.6v",
+  "screenshots": [
+    "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_1.jpg",
+    "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_2.jpg",
+    "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_3.jpg",
+    "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_4.jpg",
+    "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_5.jpg",
+    "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_6.jpg",
+    "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_7.jpg",
+    "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_8.jpg",
+    "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_9.jpg",
+    "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_10.jpg",
+    "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_11.jpg",
+    "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_12.jpg",
+    "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_13.jpg",
+    "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_14.jpg",
+    "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_15.jpg",
+    "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_16.jpg",
+    "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_17.jpg"
+  ],
+  "chunks": [
+    {
+      "module_type": "hero",
+      "module_name_suggestion": "kitchen-cabinets-hero",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 1,
+        "rows": 2,
+        "gap_horizontal": "0",
+        "gap_vertical": "0",
+        "alignment": "center",
+        "direction": "column"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#333333",
+        "heading": "#ffffff",
+        "text": "#ffffff",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "36px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "navbar",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "顶部导航栏，包含logo、7个导航项和1个橙色按钮，布局为flex，左右对齐"
+        },
+        {
+          "type": "heading",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "主标题'Custom Blue Kitchen Cabinets'，白色文字，加粗700"
+        },
+        {
+          "type": "button",
+          "count": 2,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "1个橙色背景（#FF8C00）白色文字的'Quick Quote'按钮（导航栏右侧），1个白色背景黑色文字的'Download Catalogues'按钮（hero区域右侧）"
+        }
+      ],
+      "images": [
+        {
+          "type": "hero-banner",
+          "count": 1,
+          "width": "100%",
+          "height": "auto",
+          "aspect_ratio": "16:9",
+          "position": "居中",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "blue-kitchen-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Custom Blue Kitchen Cabinets",
+        "subtitle": "Blue Cabinets: Color Ideas, Pairings, and Design Tips",
+        "paragraphs": [],
+        "button_texts": [
+          "Quick Quote",
+          "Download Catalogues"
+        ],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，导航栏改为汉堡菜单，hero区域图片占满宽度，文字居中；移动端（≤480px）'Quick Quote'按钮文字简化为'Quote'",
+      "content_summary": "页面顶部hero区域，包含导航栏和主视觉横幅，核心展示蓝色厨房橱柜的主题信息，包含主标题、副标题及行动号召按钮",
+      "special_effects": "导航栏按钮hover时背景色加深至#E67300，hero区域图片有轻微渐变覆盖提升文字可读性",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_1.jpg",
+      "chunk_index": 0
+    },
+    {
+      "module_type": "product-grid",
+      "module_name_suggestion": "blue-kitchen-cabinets-grid",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 3,
+        "rows": 2,
+        "gap_horizontal": "20px",
+        "gap_vertical": "30px",
+        "alignment": "center",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#2d3748",
+        "secondary": "#666666",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "20px",
+        "heading_weight": "600",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "50px",
+        "padding_bottom": "50px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 6,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": true,
+          "has_border": false,
+          "details": "白色背景卡片，带轻微阴影，每个卡片包含蓝色厨房橱柜图片和对应标题"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "深蓝色背景（#2d3748），白色文字，显示'More designs'，位于卡片区域下方居中"
+        }
+      ],
+      "images": [
+        {
+          "type": "product",
+          "count": 6,
+          "width": "100%",
+          "height": "auto",
+          "aspect_ratio": "16:9",
+          "position": "网格排列（3列2行）",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "kitchen-cabinet-image"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Blue Cabinets: Color Ideas, Pairings, and Design Tips",
+        "subtitle": "",
+        "paragraphs": [],
+        "button_texts": [
+          "More designs"
+        ],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Blue kitchen cabinets",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Dark Blue Kitchen Cabinets",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Blue Gray Kitchen Cabinets",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Navy Blue Kitchen Cabinets",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Light Blue Kitchen Cabinets",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Blue Grey Kitchen Cabinets",
+            "description": "",
+            "link_text": ""
+          }
+        ]
+      },
+      "responsive_hints": "平板设备（≤768px）下调整为2列布局，移动端（≤480px）改为单列，卡片宽度占满容器",
+      "content_summary": "展示6种不同色调的蓝色厨房橱柜（浅蓝、深蓝、蓝灰、海军蓝、浅蓝、蓝灰），提供设计灵感，底部有'更多设计'按钮引导用户查看更多选项",
+      "special_effects": "卡片hover时阴影加深，按钮hover时背景色变浅（#4a5568）",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_2.jpg",
+      "chunk_index": 1
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "blue-cabinets-surface-finishes",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 4,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "40px",
+        "alignment": "center",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#2d3748",
+        "secondary": "#e2e8f0",
+        "heading": "#2d3748",
+        "text": "#4a5568",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "25px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 4,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色背景卡片，包含标题、描述文字和'Need Help'按钮，无阴影和边框"
+        },
+        {
+          "type": "button",
+          "count": 4,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "6px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "深蓝色背景（#2d3748），白色文字，'Need Help'按钮，每个卡片一个"
+        }
+      ],
+      "images": [],
+      "extracted_content": {
+        "main_title": "Transform Your Blue Cabinets with Custom Surface Finishes",
+        "subtitle": "",
+        "paragraphs": [
+          "George Constructions has a lot of different finishes for kitchen doors, including smooth and recessed ones that go well with modern blue kitchen cabinets. People who like a sophisticated, polished, and elegant look will love a smooth, even surface that brings out the clean, light lines and design of a kitchen. The dimpled texture, on the other hand, is meant to make the cabinets look better and feel different. This finish's unique hand-crafted look makes blue cabinets look",
+          "This custom choice is less frequent. It has a see-through finish that brings out the texture of the cabinets and a bright color scheme that adds depth to the blue cabinets. The glazed modification pays greater attention to the little things, and it has a soft shine that comes from within, keeping the cabinets' classic style. This glazed finish makes conventional cabinets look like a stunning centerpiece, which is great for people who want to add warmth to their kitchen.",
+          "Woodgrain finishes are often used in kitchens with a modern or rustic look because they may make the space feel warm and inviting. This custom finish looks like real wood because it has deep grain and pattern. When you add woodgrain accents, it may make your cabinets look elegant and natural, bringing the beauty of nature into your room.",
+          "The pearlescent coating has a soft shine that shows off soft, iridescent colors. You can use it on cabinet surfaces to show how different tones look. Anyone who wants a unique, eye-catching look will love this finish. A pearlescent finish will really make your blue kitchen cabinets stand out while you're remodeling. It not only makes your kitchen seem better, but it also gives it a fun, magical feel."
+        ],
+        "button_texts": [
+          "Need Help",
+          "Need Help",
+          "Need Help",
+          "Need Help"
+        ],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Smooth Flat And Dimpled Finishing",
+            "description": "George Constructions has a lot of different finishes for kitchen doors, including smooth and recessed ones that go well with modern blue kitchen cabinets. People who like a sophisticated, polished, and elegant look will love a smooth, even surface that brings out the clean, light lines and design of a kitchen. The dimpled texture, on the other hand, is meant to make the cabinets look better and feel different. This finish's unique hand-crafted look makes blue cabinets look",
+            "link_text": "Need Help"
+          },
+          {
+            "title": "Glaze Finishing",
+            "description": "This custom choice is less frequent. It has a see-through finish that brings out the texture of the cabinets and a bright color scheme that adds depth to the blue cabinets. The glazed modification pays greater attention to the little things, and it has a soft shine that comes from within, keeping the cabinets' classic style. This glazed finish makes conventional cabinets look like a stunning centerpiece, which is great for people who want to add warmth to their kitchen.",
+            "link_text": "Need Help"
+          },
+          {
+            "title": "Woodgrain Finishing",
+            "description": "Woodgrain finishes are often used in kitchens with a modern or rustic look because they may make the space feel warm and inviting. This custom finish looks like real wood because it has deep grain and pattern. When you add woodgrain accents, it may make your cabinets look elegant and natural, bringing the beauty of nature into your room.",
+            "link_text": "Need Help"
+          },
+          {
+            "title": "Pearlescent Finishing",
+            "description": "The pearlescent coating has a soft shine that shows off soft, iridescent colors. You can use it on cabinet surfaces to show how different tones look. Anyone who wants a unique, eye-catching look will love this finish. A pearlescent finish will really make your blue kitchen cabinets stand out while you're remodeling. It not only makes your kitchen seem better, but it also gives it a fun, magical feel.",
+            "link_text": "Need Help"
+          }
+        ]
+      },
+      "responsive_hints": "平板设备（≤768px）下，布局改为2列；移动端（≤480px）下，布局改为1列，按钮文字保持不变",
+      "content_summary": "该区域主要展示蓝色橱柜的四种定制表面处理方式，包括平滑/凹凸处理、釉面处理、木纹处理和珍珠色处理，每个处理方式配有详细描述和帮助按钮",
+      "special_effects": "按钮hover时背景色加深至#1a202c",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_3.jpg",
+      "chunk_index": 2
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "kitchen-cabinets-layout-tips",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 4,
+        "rows": 1,
+        "gap_horizontal": "20px",
+        "gap_vertical": "30px",
+        "alignment": "center",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#2C3E50",
+        "secondary": "#f8f9fa",
+        "heading": "#222222",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 4,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色背景卡片，包含布局类型标题、描述文字及行动按钮"
+        },
+        {
+          "type": "button",
+          "count": 4,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "深蓝色背景（#2C3E50），白色文字，'Design Now'按钮"
+        }
+      ],
+      "images": [
+        {
+          "type": "thumbnail",
+          "count": 0,
+          "width": "auto",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "无",
+          "object_fit": "none",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "none"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Blue Kitchen Cabinets Design: Layout Tips & Inspiration",
+        "subtitle": "",
+        "paragraphs": [],
+        "button_texts": [
+          "Design Now",
+          "Design Now",
+          "Design Now",
+          "Design Now"
+        ],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "I-shaped",
+            "description": "Customized I-shaped designs with blue cabinets can maximize space use in tiny or open kitchens, providing the flow and functionality that people expect from their kitchens. For minimalist modernists, this design has plenty of countertop space for cooking and preparation. A kitchen makeover with an I-shaped arrangement simplifies the area.",
+            "link_text": "Design Now"
+          },
+          {
+            "title": "U-shaped",
+            "description": "A custom U-shaped design with blue kitchen cabinets might make your kitchen work better. This layout makes a good work triangle with the stove, sink, and refrigerator, which helps the work flow.",
+            "link_text": "Design Now"
+          },
+          {
+            "title": "L-shaped",
+            "description": "The L-shaped design makes good use of corner space to create a useful work triangle that keeps things moving smoothly by lining up the sink, stove, and refrigerator. The open design makes the space feel spacious, and the modern blue cabinets add a bit of style.",
+            "link_text": "Design Now"
+          },
+          {
+            "title": "Island",
+            "description": "The island is designed to improve kitchen operations and cooking. It's perfect for cooking and socializing. A customized design with blue kitchen cabinets and a central island showcases kitchen elegance, storage, and surface space effectively. This design balances style and function by providing adequate space for cooking and entertaining.",
+            "link_text": "Design Now"
+          }
+        ]
+      },
+      "responsive_hints": "平板设备（≤768px）下，布局改为2列；移动端（≤480px）下，布局改为1列，按钮文字保持不变",
+      "content_summary": "该区域主要展示蓝色厨房橱柜的四种布局设计类型（I-shaped、U-shaped、L-shaped、Island），包含每种布局的描述及定制设计按钮，为用户提供布局灵感与操作指引",
+      "special_effects": "按钮hover时背景色加深至#1a2533",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_4.jpg",
+      "chunk_index": 3
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "kitchen-cabinets-layout-tips",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 4,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "center",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#2D3748",
+        "secondary": "#E2E8F0",
+        "heading": "#2D3748",
+        "text": "#4A5568",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 4,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色卡片，包含布局类型标题、描述文字和行动按钮"
+        },
+        {
+          "type": "button",
+          "count": 4,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "深蓝色背景（#2D3748），白色文字，'Design Now'"
+        }
+      ],
+      "images": [],
+      "extracted_content": {
+        "main_title": "Blue Kitchen Cabinets Design: Layout Tips & Inspiration",
+        "subtitle": "",
+        "paragraphs": [
+          "Customized I-shaped designs with blue cabinets can maximize space use in tiny or open kitchens, providing the flow and functionality that people expect from their kitchens. For minimalist modernists, this design has plenty of countertop space for cooking and preparation. A kitchen makeover with an I-shaped arrangement simplifies the area.",
+          "A custom U-shaped design with blue kitchen cabinets might make your kitchen work better. This layout makes a good work triangle with the stove, sink, and refrigerator, which helps the work flow.",
+          "The L-shaped design makes good use of corner space to create a useful work triangle that keeps things moving smoothly by lining up the sink, stove, and refrigerator. The open design makes the space feel spacious, and the modern blue cabinets add a bit of style.",
+          "The island is designed to improve kitchen operations and cooking. It's perfect for cooking and socializing. A customized design with blue kitchen cabinets and a central island showcases kitchen elegance, storage, and surface space effectively. This design balances style and function by providing adequate space for cooking and entertaining."
+        ],
+        "button_texts": [
+          "Design Now",
+          "Design Now",
+          "Design Now",
+          "Design Now"
+        ],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "I-shaped",
+            "description": "Customized I-shaped designs with blue cabinets can maximize space use in tiny or open kitchens, providing the flow and functionality that people expect from their kitchens. For minimalist modernists, this design has plenty of countertop space for cooking and preparation. A kitchen makeover with an I-shaped arrangement simplifies the area.",
+            "link_text": "Design Now"
+          },
+          {
+            "title": "U-shaped",
+            "description": "A custom U-shaped design with blue kitchen cabinets might make your kitchen work better. This layout makes a good work triangle with the stove, sink, and refrigerator, which helps the work flow.",
+            "link_text": "Design Now"
+          },
+          {
+            "title": "L-shaped",
+            "description": "The L-shaped design makes good use of corner space to create a useful work triangle that keeps things moving smoothly by lining up the sink, stove, and refrigerator. The open design makes the space feel spacious, and the modern blue cabinets add a bit of style.",
+            "link_text": "Design Now"
+          },
+          {
+            "title": "Island",
+            "description": "The island is designed to improve kitchen operations and cooking. It's perfect for cooking and socializing. A customized design with blue kitchen cabinets and a central island showcases kitchen elegance, storage, and surface space effectively. This design balances style and function by providing adequate space for cooking and entertaining.",
+            "link_text": "Design Now"
+          }
+        ]
+      },
+      "responsive_hints": "平板设备（≤768px）下，布局改为2列；移动端（≤480px）下，布局改为1列，按钮文字保持不变",
+      "content_summary": "页面中部展示蓝色厨房橱柜的四种布局设计（I形、U形、L形、岛台），每个布局包含功能描述和“Design Now”行动按钮，帮助用户选择合适的厨房布局",
+      "special_effects": "按钮hover时背景色加深至#1A202C",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_5.jpg",
+      "chunk_index": 4
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "kitchen-cabinets-functional-accessories",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 4,
+        "rows": 1,
+        "gap_horizontal": "20px",
+        "gap_vertical": "30px",
+        "alignment": "center",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#2D3748",
+        "secondary": "#4A5568",
+        "heading": "#2D3748",
+        "text": "#4A5568",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "600",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "15px",
+        "card_padding": "25px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 4,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色背景卡片，包含标题、描述文字和深色按钮，每个卡片展示一种厨房配件（Sink/Hinge/Handle/Drawer）"
+        },
+        {
+          "type": "button",
+          "count": 4,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "6px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "深灰色背景（#2D3748），白色文字，显示'Design Now'"
+        }
+      ],
+      "images": [
+        {
+          "type": "thumbnail",
+          "count": 0,
+          "width": "auto",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "无",
+          "object_fit": "none",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "none"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Blue Kitchen Cabinets: Must-Have Functional Accessories",
+        "subtitle": "",
+        "paragraphs": [
+          "You can choose from composite, ceramic, or stainless steel, all of which are long-lasting and good-looking. Your blue kitchen cabinets will look great with any of these sinks: stylish undermount sinks for a smooth look; farmhouse sinks for a more rustic look; and more.",
+          "Chrome, oil-rubbed bronze, and matte black are among the available finishes. There are beautiful hinges to choose from, and soft-close hinges make closing the door a gentle and silent experience. Personalized kitchen door hinges are the perfect finishing touch for blue cabinets, allowing them to serve their purpose while also adding style to your kitchen.",
+          "Elevate your cabinetry with a selection of styles from George Constructions, comprising modern handles, classic knobs, and exquisite ornate pulls. Matte black, antique brass, brushed nickel, and other finishes are available for these accessories. Your blue kitchen cabinets may be both practical and aesthetically pleasing by adding the right pulls.",
+          "Accessories like pull-out spice racks, dividers that keep utensils separate, and deep drawer inserts for pots and pans are designed to make your life easier and more organized. Comfortable soft-close features make the experience soothing, and custom sizes fit perfectly in your blue kitchen cabinets. You can turn disorganized drawers into organized spaces with these custom solutions, which makes cooking and food preparation easier."
+        ],
+        "button_texts": [
+          "Design Now",
+          "Design Now",
+          "Design Now",
+          "Design Now"
+        ],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Sink",
+            "description": "You can choose from composite, ceramic, or stainless steel, all of which are long-lasting and good-looking. Your blue kitchen cabinets will look great with any of these sinks: stylish undermount sinks for a smooth look; farmhouse sinks for a more rustic look; and more.",
+            "link_text": "Design Now"
+          },
+          {
+            "title": "Hinge",
+            "description": "Chrome, oil-rubbed bronze, and matte black are among the available finishes. There are beautiful hinges to choose from, and soft-close hinges make closing the door a gentle and silent experience. Personalized kitchen door hinges are the perfect finishing touch for blue cabinets, allowing them to serve their purpose while also adding style to your kitchen.",
+            "link_text": "Design Now"
+          },
+          {
+            "title": "Handle",
+            "description": "Elevate your cabinetry with a selection of styles from George Constructions, comprising modern handles, classic knobs, and exquisite ornate pulls. Matte black, antique brass, brushed nickel, and other finishes are available for these accessories. Your blue kitchen cabinets may be both practical and aesthetically pleasing by adding the right pulls.",
+            "link_text": "Design Now"
+          },
+          {
+            "title": "Drawer",
+            "description": "Accessories like pull-out spice racks, dividers that keep utensils separate, and deep drawer inserts for pots and pans are designed to make your life easier and more organized. Comfortable soft-close features make the experience soothing, and custom sizes fit perfectly in your blue kitchen cabinets. You can turn disorganized drawers into organized spaces with these custom solutions, which makes cooking and food preparation easier.",
+            "link_text": "Design Now"
+          }
+        ]
+      },
+      "responsive_hints": "平板设备（≤768px）下，网格布局改为2列；移动端（≤480px）改为单列，按钮宽度占满",
+      "content_summary": "页面中部展示蓝色厨房橱柜的必备功能性配件，包括水槽、铰链、把手和抽屉，每个配件提供详细描述及设计按钮",
+      "special_effects": "按钮hover时背景色加深至#1A202C",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_6.jpg",
+      "chunk_index": 5
+    },
+    {
+      "module_type": "content-block",
+      "module_name_suggestion": "blue-cabinet-shade-guide",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 5,
+        "rows": 5,
+        "gap_horizontal": "20px",
+        "gap_vertical": "20px",
+        "alignment": "left",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#2d3748",
+        "secondary": "#4a5568",
+        "heading": "#2d3748",
+        "text": "#4a5568",
+        "border": "#e2e8f0"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "40px",
+        "padding_bottom": "40px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "15px"
+      },
+      "components": [
+        {
+          "type": "table",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "包含5列（Shade、Mood、Best For、Pairs With、Finish Tip）和5行数据的表格，展示蓝色橱柜色板信息"
+        }
+      ],
+      "images": [
+        {
+          "type": "none",
+          "count": 0,
+          "width": "auto",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "none",
+          "object_fit": "none",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "none"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Blue Cabinet Shade Guide",
+        "subtitle": "Use the chart below to match mood, scale, and finish to the right blue. A quick sample pot or door sample will confirm the choice in your light.",
+        "paragraphs": [
+          "Powder / Sky: Airy, soft, casual | Small kitchens, cottage or coastal | Warm whites, light oak, beadboard backsplash | Satin or matte to avoid glare",
+          "Blue-Gray / Slate: Modern, calm, sophisticated | Contemporary flats, minimal spaces | Matte black hardware, marble-look quartz | Matte keeps it refined",
+          "Navy: Classic, tailored, high-contrast | Traditional or transitional homes | Brass hardware, white quartz, subway tile | Satin for wipeability",
+          "Cobalt / Royal: Bold, vibrant, design-led | Statement islands or coffee bars | Chrome hardware, patterned tile | High-gloss for punch",
+          "Teal / Petrol: Moody, rich, luxe | Large kitchens with good light | Antique brass, walnut accents, concrete | Satin to show depth"
+        ],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，表格改为单列布局，每列垂直堆叠；移动端（≤480px）简化表格内容，保留核心信息",
+      "content_summary": "页面中部展示蓝色橱柜色板指南，通过表格形式呈现不同蓝色调的 mood、适用场景、搭配元素及表面处理建议",
+      "special_effects": "表格 hover 时行背景轻微变色，提升交互反馈",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_7.jpg",
+      "chunk_index": 6
+    },
+    {
+      "module_type": "content-block",
+      "module_name_suggestion": "blue-cabinets-pros-cons",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "40px",
+        "gap_vertical": "0",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#2d3748",
+        "secondary": "#4a5568",
+        "heading": "#2d3748",
+        "text": "#4a5568",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "0"
+      },
+      "components": [
+        {
+          "type": "image",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": true,
+          "has_border": false,
+          "details": "蓝色厨房橱柜实景图，展示橱柜与厨房布局"
+        },
+        {
+          "type": "heading",
+          "count": 2,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "两个标题：'Advantages'和'Considerations'，深灰色（#2d3748），加粗700"
+        },
+        {
+          "type": "paragraph",
+          "count": 4,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "Advantages下的4个段落，描述蓝色橱柜的优势"
+        },
+        {
+          "type": "paragraph",
+          "count": 3,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": "false\"",
+          "details": "Considerations下的3个段落，描述蓝色橱柜的注意事项"
+        }
+      ],
+      "images": [
+        {
+          "type": "hero-banner",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Pros and Cons of Blue Kitchen Cabinets",
+        "subtitle": "",
+        "paragraphs": [
+          "Blue behaves almost like a neutral, so it plays nice with wood, stone and most metals.",
+          "It covers a lot of looks. Coastal, modern, farmhouse, classic, even industrial, if you choose the right door style.",
+          "Two tone layouts are easy. Blue bases with white uppers still looks fresh years later.",
+          "Paint grade cabinets can be touched up. You can even repaint down the road, which is pretty good value.",
+          "Dark blues may show water spots more on sink doors. A quick towel fixes it, but worth noting.",
+          "Sunlight shifts undertones. A slate that looks gray at noon might lean green in the evening, not wrong just different.",
+          "Strong cobalt wants quiet around it. Keep counters and backsplashes simple so the room does not feel loud."
+        ],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，图文改为单列布局，图片占满宽度；移动端（≤480px）图片宽度调整为100%，文字区域调整内边距",
+      "content_summary": "页面中部内容块，展示蓝色厨房橱柜的优缺点，包含实景图片与文字说明，分为Advantages（优势）和Considerations（注意事项）两部分",
+      "special_effects": "图片带有轻微阴影效果，增强层次感；文字段落间有适当间距，提升可读性",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_8.jpg",
+      "chunk_index": 7
+    },
+    {
+      "module_type": "content-block",
+      "module_name_suggestion": "kitchen-cabinets-style-paths",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 3,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "left",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#2d3748",
+        "secondary": "#4a5568",
+        "heading": "#2d3748",
+        "text": "#333333",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 3,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色卡片，包含风格路径标题、描述文字和定制按钮"
+        },
+        {
+          "type": "button",
+          "count": 3,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "深蓝色背景（#2d3748），白色文字，显示'Custom Now'"
+        }
+      ],
+      "images": [],
+      "extracted_content": {
+        "main_title": "Style Paths: How to Make Blue Feel Intentional",
+        "subtitle": "",
+        "paragraphs": [],
+        "button_texts": [
+          "Custom Now",
+          "Custom Now",
+          "Custom Now"
+        ],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Modern minimal",
+            "description": "Flat panels in blue gray keep lines clean. Use thin counters and a full height backsplash in one material. If you like hardware, try small edge pulls. If not, integrated rails are tidy, though a bit more custom.",
+            "link_text": "Custom Now"
+          },
+          {
+            "title": "Coastal calm",
+            "description": "Powder blue, white walls, natural fibers. Add a runner, a couple open shelves, and glass on one or two doors. Nothing fussy. Let morning light do the styling for you.",
+            "link_text": "Custom Now"
+          },
+          {
+            "title": "Luxe & Moody",
+            "description": "Teal or petrol blue feels luxe in large kitchens. Add walnut open shelves, antiqued brass hardware, and a tumbled limestone or soapstone counter. Use warm LED lighting to bring out the richness of the color at night.",
+            "link_text": "Custom Now"
+          }
+        ]
+      },
+      "responsive_hints": "平板设备（≤768px）下，布局改为2列；移动端（≤480px）下，布局改为1列，按钮文字保持不变",
+      "content_summary": "该区域展示三种蓝色厨房橱柜的风格路径，包括每个风格的设计建议和定制按钮，帮助用户选择合适的蓝色橱柜风格",
+      "special_effects": "按钮hover时背景色加深至#1a202c，文字保持白色",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_9.jpg",
+      "chunk_index": 8
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "kitchen-cabinets-pairings",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 3,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "left",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#2d3748",
+        "secondary": "#4a5568",
+        "heading": "#2d3748",
+        "text": "#4a5568",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 3,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色卡片，包含标题和列表项，无按钮，无阴影"
+        }
+      ],
+      "images": [
+        {
+          "type": "gallery",
+          "count": 3,
+          "width": "100%",
+          "height": "auto",
+          "aspect_ratio": "4:3",
+          "position": "网格排列",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Perfect Pairings: Countertops, Backsplashes, and Hardware",
+        "subtitle": "",
+        "paragraphs": [],
+        "button_texts": [],
+        "list_items": [
+          {
+            "title": "Countertops",
+            "description": [
+              "Marble look quartz keeps navy crisp and classic.",
+              "Butcher block adds warmth to cobalt or blue gray, nice on islands.",
+              "Soapstone or honed granite pairs beautifully with teal and brass."
+            ]
+          },
+          {
+            "title": "Backsplashes",
+            "description": [
+              "White Subway Tile: A timeless backdrop for every shade of blue.",
+              "Zellige or Handmade Tile: Adds movement and a soft, organic gleam in neutral tones.",
+              "Patterned Cement or Porcelain: Use sparingly, behind a range or in a coffee bar, to highlight a bold cobalt or navy."
+            ]
+          },
+          {
+            "title": "Hardware",
+            "description": [
+              "Satin Brass: Warms up cool blues and feels upscale without glare.",
+              "Matte Black: Modern and graphic, excellent with blue-gray slab doors.",
+              "Polished Nickel or Chrome: A crisp, coastal-friendly shine for lighter blues."
+            ]
+          }
+        ],
+        "card_contents": [
+          {
+            "title": "Countertops",
+            "description": "Marble look quartz keeps navy crisp and classic. Butcher block adds warmth to cobalt or blue gray, nice on islands. Soapstone or honed granite pairs beautifully with teal and brass.",
+            "link_text": ""
+          },
+          {
+            "title": "Backsplashes",
+            "description": "White Subway Tile: A timeless backdrop for every shade of blue. Zellige or Handmade Tile: Adds movement and a soft, organic gleam in neutral tones. Patterned Cement or Porcelain: Use sparingly, behind a range or in a coffee bar, to highlight a bold cobalt or navy.",
+            "link_text": ""
+          },
+          {
+            "title": "Hardware",
+            "description": "Satin Brass: Warms up cool blues and feels upscale without glare. Matte Black: Modern and graphic, excellent with blue-gray slab doors. Polished Nickel or Chrome: A crisp, coastal-friendly shine for lighter blues.",
+            "link_text": ""
+          }
+        ]
+      },
+      "responsive_hints": "平板设备（≤768px）下，网格布局改为2列；移动端（≤480px）下改为单列布局，卡片占满宽度",
+      "content_summary": "展示厨房台面、 backsplash、硬件的搭配建议，每个类别包含具体材质和风格推荐",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_10.jpg",
+      "chunk_index": 9
+    },
+    {
+      "module_type": "content-block",
+      "module_name_suggestion": "kitchen-cabinets-paint-vs-laminate",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#000000",
+        "secondary": "#666666",
+        "heading": "#222222",
+        "text": "#333333",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "heading",
+          "count": 2,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "两个主标题，分别为'Paint vs. Laminate'和'Picking sheen'，深灰色（#222222），加粗700"
+        },
+        {
+          "type": "paragraph",
+          "count": 2,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "两个段落，分别描述油漆与层压板的对比及光泽选择，深灰色（#333333），16px，400权重"
+        },
+        {
+          "type": "image",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "右侧厨房图片，展示蓝色橱柜，无阴影或边框"
+        }
+      ],
+      "images": [
+        {
+          "type": "image-text",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "右侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Paint vs. Laminate",
+        "subtitle": "Picking sheen",
+        "paragraphs": [
+          "Painted cabinets deliver depth and a hand-finished look, especially in satin. Micro-scratches can be touched up. Textured laminates are extremely durable and tone-on-tone. They can work for contemporary spaces or rentals. However, for most homeowners, a high-end paint on a stable substrate is ideal. It provides the best combination of beauty and durability.",
+          "Matte feels modern, but shows fingerprints on very dark blues. Satin is our go to because it looks rich and cleans easy. Semi gloss is the easiest to wipe, although it can highlight small surface waves under bright light."
+        ],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，内容区域改为单列布局，图片移至文字下方，占满宽度；移动端（≤480px）文字字号调整为14px",
+      "content_summary": "页面中部内容块，核心展示橱柜油漆与层压板的对比分析及光泽选择建议，包含文字说明与厨房实景图片",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_11.jpg",
+      "chunk_index": 10
+    },
+    {
+      "module_type": "image-text",
+      "module_name_suggestion": "construction-quality-image-text",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#2d3748",
+        "secondary": "#4a5568",
+        "heading": "#2d3748",
+        "text": "#4a5568",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "40px",
+        "padding_bottom": "30px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "0"
+      },
+      "components": [
+        {
+          "type": "image",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "左侧蓝色橱柜图片，展示硬件细节"
+        },
+        {
+          "type": "heading",
+          "count": 2,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "两个主标题：'Construction clues for quality'和'Day-to-Day Care'，深灰色（#2d3748），加粗700"
+        },
+        {
+          "type": "list",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "三个列表项，描述橱柜质量线索，使用项目符号"
+        },
+        {
+          "type": "paragraph",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": "false\"",
+          "details": "日常护理段落，描述清洁和维护建议"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": "false\"",
+          "details": "深灰色背景（#2d3748），白色文字，'Get a Free Quote'"
+        },
+        {
+          "type": "heading",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": "false\"",
+          "has_border": "false\"",
+          "details": "预算规划标题'Budget & Planning: Where to Spend, Where to Save'，深灰色（#2d3748），加粗700"
+        },
+        {
+          "type": "paragraph",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": "false\"",
+          "has_border": "false\"",
+          "details": "预算规划段落，描述蓝色橱柜的多种价格点"
+        },
+        {
+          "type": "list",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": "false\"",
+          "has_border": "false\"",
+          "details": "编号列表项，'1. Map Your Zones: Prep, cook, clean, and snack'"
+        }
+      ],
+      "images": [
+        {
+          "type": "image",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "aspect_ratio": "4:3",
+          "position": "左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Construction clues for quality",
+        "subtitle": "",
+        "paragraphs": [
+          "Wipe up spills as they happen. Use a damp microfiber cloth and a mild soap, then dry immediately. Stay away from abrasives and harsh solvents. Use door bumpers and tighten handles every so often to keep it all feeling fresh",
+          "You can capture the look of blue cabinets at several price points: whether you're painting existing doors, replacing only bases or the island, or investing in a full cabinet upgrade. A smart plan prioritizes function first and finishes second."
+        ],
+        "button_texts": [
+          "Get a Free Quote"
+        ],
+        "list_items": [
+          {
+            "title": "Soft close hardware keeps doors quiet and protects finishes over time.",
+            "description": ""
+          },
+          {
+            "title": "Strong cabinet boxes use plywood or high grade engineered wood that holds screws tight.",
+            "description": ""
+          },
+          {
+            "title": "Multi step finishes resist stains better. Ask how many steps are in the paint system, you should get a clear answer.",
+            "description": ""
+          }
+        ],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，布局改为单列，图片占满宽度，文字居中；移动端（≤480px）列表项改为单行显示，按钮文字简化为'Quote'",
+      "content_summary": "展示橱柜质量的建设线索（如硬件、柜体、涂装）和日常护理建议，以及预算规划的基础信息",
+      "special_effects": "按钮hover时背景色加深至#1a202c",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_12.jpg",
+      "chunk_index": 11
+    },
+    {
+      "module_type": "content-block",
+      "module_name_suggestion": "budget-planning-section",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#2d3748",
+        "secondary": "#666666",
+        "heading": "#222222",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "0"
+      },
+      "components": [
+        {
+          "type": "heading",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "主标题'Budget & Planning: Where to Spend, Where to Save'，深灰色（#222222），加粗700"
+        },
+        {
+          "type": "paragraph",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "段落描述蓝色橱柜的价格点和规划策略"
+        },
+        {
+          "type": "list",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "5个列表项，包含规划建议的标题和描述"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "深蓝色背景（#2d3748），白色文字，'Get a Free Quote'"
+        }
+      ],
+      "images": [
+        {
+          "type": "content-image",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "右侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Budget & Planning: Where to Spend, Where to Save",
+        "subtitle": "",
+        "paragraphs": [
+          "You can capture the look of blue cabinets at several price points: whether you're painting existing doors, replacing only bases or the island, or investing in a full cabinet upgrade. A smart plan prioritizes function first and finishes second."
+        ],
+        "button_texts": [
+          "Get a Free Quote"
+        ],
+        "list_items": [
+          {
+            "title": "1. Map Your Zones",
+            "description": "Prep, cook, clean, and snack stations reduce back-and-forth and guide drawer vs. door choices."
+          },
+          {
+            "title": "2. Sample in Real Light",
+            "description": "Order door samples and view them over a few days. Blue shifts noticeably between daylight and evening."
+          },
+          {
+            "title": "3. Invest in Drawers",
+            "description": "Pot-and-pan drawers and pull-outs offer the best ROI for daily use."
+          },
+          {
+            "title": "4. Plan Hardware Early",
+            "description": "Spread of holes, pull lengths, and finish should be decided before doors arrive."
+          },
+          {
+            "title": "5. Future-Proof the Palette",
+            "description": "Choose timeless counters and floors so you can update paint color later with minimal disruption."
+          }
+        ],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，内容区域改为单列布局，图片占满宽度；移动端（≤480px）列表项改为单列，按钮文字保持不变",
+      "content_summary": "页面中部内容块，展示蓝色橱柜预算规划与省钱策略，包含价格点分析、5条规划建议及行动号召按钮",
+      "special_effects": "按钮hover时背景色加深至#1a202c",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_13.jpg",
+      "chunk_index": 12
+    },
+    {
+      "module_type": "faq",
+      "module_name_suggestion": "blue-cabinets-faqs",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "block",
+        "columns": 1,
+        "rows": 1,
+        "gap_horizontal": "0",
+        "gap_vertical": "40px",
+        "alignment": "left",
+        "direction": "column"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#2d3748",
+        "secondary": "#4a5568",
+        "heading": "#2d3748",
+        "text": "#4a5568",
+        "border": "#e2e8f0"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "0"
+      },
+      "components": [
+        {
+          "type": "faq-item",
+          "count": 5,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "每个FAQ项包含加号图标和问题文本，边框底部分隔，可折叠展开"
+        },
+        {
+          "type": "form",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "包含姓名、邮箱、电话/WhatsApp、城市、国家选择输入框，产品需求复选框，提交按钮"
+        }
+      ],
+      "images": [
+        {
+          "type": "avatar",
+          "count": 1,
+          "width": "150px",
+          "height": "150px",
+          "aspect_ratio": "1:1",
+          "position": "左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "FAQs",
+        "subtitle": "",
+        "paragraphs": [
+          "* Kindly send us your project details and floor plan. We will quote for you within 8 hours!"
+        ],
+        "button_texts": [
+          "Get a Free Quote"
+        ],
+        "list_items": [
+          {
+            "title": "Are blue kitchen cabinets a fad?",
+            "description": ""
+          },
+          {
+            "title": "What's the best blue for a small kitchen?",
+            "description": ""
+          },
+          {
+            "title": "Which hardware looks best with blue cabinets?",
+            "description": ""
+          },
+          {
+            "title": "Should I paint only the island blue?",
+            "description": ""
+          },
+          {
+            "title": "Can I mix blue cabinets with wood tones?",
+            "description": ""
+          }
+        ],
+        "card_contents": []
+      },
+      "responsive_hints": "移动端下FAQ项改为单列，表单输入框占满宽度，复选框垂直排列",
+      "content_summary": "页面中部FAQ模块，展示关于蓝色橱柜的常见问题及免费报价表单，包含5个可折叠问题项和联系表单",
+      "special_effects": "FAQ项hover时加号图标变色，表单输入框focus时边框高亮",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_14.jpg",
+      "chunk_index": 13
+    },
+    {
+      "module_type": "faq",
+      "module_name_suggestion": "blue-kitchen-cabinets-faq",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "block",
+        "columns": 1,
+        "rows": 2,
+        "gap_horizontal": "0",
+        "gap_vertical": "40px",
+        "alignment": "left",
+        "direction": "column"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#333333",
+        "secondary": "#666666",
+        "heading": "#222222",
+        "text": "#666666",
+        "border": "#e0e0e0"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "0"
+      },
+      "components": [
+        {
+          "type": "heading",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "主标题'FAQs'，深灰色（#222222），加粗700"
+        },
+        {
+          "type": "list",
+          "count": 5,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "5个FAQ问题列表，每个问题为可展开/折叠项，文本为灰色（#666666）"
+        },
+        {
+          "type": "heading",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "副标题'Get A Free Quote'，深灰色（#222222），加粗700"
+        },
+        {
+          "type": "form",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "联系表单，包含Name、Email、Tel/Whatsapp、City、Country-Select输入框，Product Needed*复选框（9个选项），Message文本框，Choose File按钮，Send按钮"
+        }
+      ],
+      "images": [
+        {
+          "type": "avatar",
+          "count": 1,
+          "width": "150px",
+          "height": "200px",
+          "aspect_ratio": "3:4",
+          "position": "表单左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "avatar"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "FAQs",
+        "subtitle": "Get A Free Quote",
+        "paragraphs": [
+          "* Kindly send us your project details and floor plan. We will quote for you within 8 hours!"
+        ],
+        "button_texts": [
+          "Get a Free Quote",
+          "Send"
+        ],
+        "list_items": [
+          {
+            "title": "Are blue kitchen cabinets a fad?",
+            "description": ""
+          },
+          {
+            "title": "What's the best blue for a small kitchen?",
+            "description": ""
+          },
+          {
+            "title": "Which hardware looks best with blue cabinets?",
+            "description": ""
+          },
+          {
+            "title": "Should I paint only the island blue?",
+            "description": ""
+          },
+          {
+            "title": "Can I mix blue cabinets with wood tones?",
+            "description": ""
+          }
+        ],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，FAQ列表改为单列，表单字段堆叠；移动端（≤480px）头像隐藏，表单字段简化",
+      "content_summary": "页面中部FAQ模块，展示蓝色厨房橱柜的常见问题及获取免费报价的表单",
+      "special_effects": "FAQ问题 hover 时背景色变浅（#f5f5f5），表单输入框 focus 时边框变色（#333333）",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_15.jpg",
+      "chunk_index": 14
+    },
+    {
+      "module_type": "contact-form",
+      "module_name_suggestion": "contact-form-bottom",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 1,
+        "rows": 1,
+        "gap_horizontal": "20px",
+        "gap_vertical": "30px",
+        "alignment": "left",
+        "direction": "column"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#6c757d",
+        "secondary": "#f8f9fa",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "#dee2e6"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "40px",
+        "padding_bottom": "40px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "15px"
+      },
+      "components": [
+        {
+          "type": "heading",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "主标题'Want to Get Best Price Kitchen Cabinets?'，深灰色（#333333），加粗700"
+        },
+        {
+          "type": "paragraph",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "副标题'Share floor plan or house photos for 8-hour quote'，灰色（#666666）"
+        },
+        {
+          "type": "textarea",
+          "count": 1,
+          "width": "100%",
+          "height": "120px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "Message文本框，浅灰色背景（#f8f9fa），边框#dee2e6"
+        },
+        {
+          "type": "file-input",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "Choose File按钮，边框#dee2e6，显示'No file chosen'"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "100%",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "Send按钮，灰色背景（#6c757d），白色文字"
+        }
+      ],
+      "images": [],
+      "extracted_content": {
+        "main_title": "Want to Get Best Price Kitchen Cabinets?",
+        "subtitle": "Share floor plan or house photos for 8-hour quote",
+        "paragraphs": [],
+        "button_texts": [
+          "Send"
+        ],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）和移动端（≤480px）下，表单元素改为单列布局，按钮宽度占满父容器",
+      "content_summary": "联系表单的下半部分，包含表单输入区域（Message文本框、文件上传）及提交按钮，用于收集用户项目信息和文件",
+      "special_effects": "Send按钮hover时背景色加深至#5a6268",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_16.jpg",
+      "chunk_index": 15
+    },
+    {
+      "module_type": "footer",
+      "module_name_suggestion": "footer-sections",
+      "is_common_module": true,
+      "layout": {
+        "container": "full-width",
+        "type": "grid",
+        "columns": 4,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#000000",
+        "primary": "#6c757d",
+        "secondary": "#ffffff",
+        "heading": "#ffffff",
+        "text": "#ffffff",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "0"
+      },
+      "components": [
+        {
+          "type": "heading",
+          "count": 4,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "四个栏目标题：Products、One-Stop Solutions、Customer Services、Contact Us，白色文字，加粗"
+        },
+        {
+          "type": "link",
+          "count": 14,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "各栏目下的链接，如Kitchen Cabinet、Wardrobe等，白色文字"
+        },
+        {
+          "type": "form",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "Contact Us下的订阅表单，包含whatsapp输入框、Email*输入框和Send按钮"
+        },
+        {
+          "type": "icon",
+          "count": 2,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "Contact Us下的邮箱和电话图标"
+        }
+      ],
+      "images": [],
+      "extracted_content": {
+        "main_title": "",
+        "subtitle": "",
+        "paragraphs": [],
+        "button_texts": [
+          "Send"
+        ],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Products",
+            "description": "",
+            "link_text": [
+              "Kitchen Cabinet",
+              "Wardrobe",
+              "Windows and Doors",
+              "Bathroom",
+              "Wood Flooring",
+              "More Furniture",
+              "Whole-house Design"
+            ]
+          },
+          {
+            "title": "One-Stop Solutions",
+            "description": "",
+            "link_text": [
+              "Hotel Solutions",
+              "Resort Solutions",
+              "Villa Solutions",
+              "Apartment Solutions",
+              "Office Solutions"
+            ]
+          },
+          {
+            "title": "Customer Services",
+            "description": "",
+            "link_text": [
+              "CUSTOMER SERVICES",
+              "Measurement Guidance",
+              "Packaging Info",
+              "Delivery & Shipment",
+              "After Sales",
+              "Production Time",
+              "FAQ"
+            ]
+          },
+          {
+            "title": "Contact Us",
+            "description": "",
+            "link_text": [
+              "info@georgeconstructions.com",
+              "+8613302843203",
+              "+8613302843203",
+              "Don't miss our future updates! Get Subscribed Today!"
+            ]
+          }
+        ]
+      },
+      "responsive_hints": "平板设备（≤768px）下布局改为2列，移动端（≤480px）改为单列，订阅表单元素垂直堆叠",
+      "content_summary": "页面底部footer区域，包含Products、One-Stop Solutions、Customer Services、Contact Us四个栏目，展示产品链接、解决方案、客户服务及联系方式，并设有订阅表单",
+      "special_effects": "按钮hover时背景色加深",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/blue-kitchen-cabinets_pixel_17.jpg",
+      "chunk_index": 16
+    }
+  ]
+}

@@ -1,0 +1,1563 @@
+{
+  "url": "https://georgeconstructions.com/white-kitchen-cabinets/",
+  "title": "White Kitchen Cabinets – Custom Solutions For Your Home",
+  "total_height": 8437,
+  "method": "pixel",
+  "vision_model": "glm-4.6v",
+  "screenshots": [
+    "/Users/x/AutoClone/output/screenshots/white-kitchen-cabinets_pixel_1.jpg",
+    "/Users/x/AutoClone/output/screenshots/white-kitchen-cabinets_pixel_2.jpg",
+    "/Users/x/AutoClone/output/screenshots/white-kitchen-cabinets_pixel_3.jpg",
+    "/Users/x/AutoClone/output/screenshots/white-kitchen-cabinets_pixel_4.jpg",
+    "/Users/x/AutoClone/output/screenshots/white-kitchen-cabinets_pixel_5.jpg",
+    "/Users/x/AutoClone/output/screenshots/white-kitchen-cabinets_pixel_6.jpg",
+    "/Users/x/AutoClone/output/screenshots/white-kitchen-cabinets_pixel_7.jpg",
+    "/Users/x/AutoClone/output/screenshots/white-kitchen-cabinets_pixel_8.jpg",
+    "/Users/x/AutoClone/output/screenshots/white-kitchen-cabinets_pixel_9.jpg",
+    "/Users/x/AutoClone/output/screenshots/white-kitchen-cabinets_pixel_10.jpg",
+    "/Users/x/AutoClone/output/screenshots/white-kitchen-cabinets_pixel_11.jpg",
+    "/Users/x/AutoClone/output/screenshots/white-kitchen-cabinets_pixel_12.jpg"
+  ],
+  "chunks": [
+    {
+      "module_type": "hero",
+      "module_name_suggestion": "kitchen-cabinets-hero",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 1,
+        "rows": 1,
+        "gap_horizontal": "0",
+        "gap_vertical": "0",
+        "alignment": "center",
+        "direction": "column"
+      },
+      "colors": {
+        "background": "#f8f8f8",
+        "primary": "#FF8C00",
+        "secondary": "#ffffff",
+        "heading": "#ffffff",
+        "text": "#ffffff",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "48px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "0"
+      },
+      "components": [
+        {
+          "type": "navbar",
+          "count": 1,
+          "width": "100%",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色背景导航栏，包含logo、7个菜单项（Products/Projects/Blog/Service/Video/About/Contact）和1个橙色按钮（Quick Quote）"
+        },
+        {
+          "type": "heading",
+          "count": 2,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "主标题'Custom White Kitchen Cabinets For Your Projects'（白色，48px，700），副标题'White Kitchen Cabinets: Timeless Designs for Modern Homes'（白色，24px，600）"
+        },
+        {
+          "type": "paragraph",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色文字段落，描述乙烯基地板定义"
+        },
+        {
+          "type": "button",
+          "count": 2,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色背景（#FF8C00），白色文字，分别为'Quick Quote'和'Download Catalogues'"
+        }
+      ],
+      "images": [
+        {
+          "type": "hero-banner",
+          "count": 1,
+          "width": "100%",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "背景",
+          "object_fit": "cover",
+          "has_overlay": true,
+          "overlay_color": "rgba(0,0,0,0.1)",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Custom White Kitchen Cabinets For Your Projects",
+        "subtitle": "White Kitchen Cabinets: Timeless Designs for Modern Homes",
+        "paragraphs": [
+          "Vinyl flooring refers to luxury vinyl tiles (LVT) as well as vinyl roll flooring, sometimes known as vinyl sheet flooring."
+        ],
+        "button_texts": [
+          "Quick Quote",
+          "Download Catalogues"
+        ],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，导航栏菜单项折叠为汉堡菜单，hero区域标题居中显示；移动端（≤480px）主标题字体缩小至36px，按钮文字简化为'Quote'和'Download'",
+      "content_summary": "页面顶部hero区域，展示白色厨房橱柜主题，包含导航栏、主视觉背景图、核心标题、项目描述及行动号召按钮",
+      "special_effects": "按钮hover时背景色加深至#E67300，背景图有轻微模糊效果",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/white-kitchen-cabinets_pixel_1.jpg",
+      "chunk_index": 0
+    },
+    {
+      "module_type": "product-grid",
+      "module_name_suggestion": "kitchen-cabinets-grid",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 3,
+        "rows": 2,
+        "gap_horizontal": "20px",
+        "gap_vertical": "30px",
+        "alignment": "center",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#333333",
+        "heading": "#222222",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "18px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.5"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "0",
+        "card_padding": "15px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 6,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色背景卡片，包含厨房橱柜图片和标题，图片居上，标题居下"
+        }
+      ],
+      "images": [
+        {
+          "type": "product",
+          "count": 6,
+          "width": "100%",
+          "height": "200px",
+          "aspect_ratio": "16:9",
+          "position": "网格排列（2行3列）",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "",
+        "subtitle": "",
+        "paragraphs": [],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "white kitchen cabinets",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "white oak kitchen cabinets",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "black and white kitchen cabinets",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "kitchen colors with white cabinets",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "modern white kitchen cabinets",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "off white kitchen cabinets",
+            "description": "",
+            "link_text": ""
+          }
+        ]
+      },
+      "responsive_hints": "平板设备（≤768px）下，网格改为2列；移动端（≤480px）下，网格改为1列，卡片宽度占满",
+      "content_summary": "页面中部展示6种不同风格的白色厨房橱柜产品，以2行3列的网格布局呈现，每个卡片包含产品图片和标题",
+      "special_effects": "卡片hover时可能显示阴影或轻微缩放效果",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/white-kitchen-cabinets_pixel_2.jpg",
+      "chunk_index": 1
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "kitchen-cabinet-finish-upgrades",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 4,
+        "rows": 1,
+        "gap_horizontal": "20px",
+        "gap_vertical": "30px",
+        "alignment": "center",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#333333",
+        "heading": "#222222",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 4,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色背景卡片，包含标题和描述文本，展示不同的橱柜翻新选项"
+        }
+      ],
+      "images": [
+        {
+          "type": "none",
+          "count": 0,
+          "width": "auto",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "网格排列",
+          "object_fit": "none",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "none"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "White Kitchen Cabinet Makeover: 4 Durable Finish Upgrades",
+        "subtitle": "",
+        "paragraphs": [],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Smooth Flat And Dimpled Finishing",
+            "description": "For your modern white kitchen",
+            "link_text": ""
+          },
+          {
+            "title": "Glaze Finishing",
+            "description": "This custom option has a semi-transparent finish that brings out the",
+            "link_text": ""
+          },
+          {
+            "title": "Woodgrain Finishing",
+            "description": "This finish transforms your space into a cozy haven, perfect for those who want",
+            "link_text": ""
+          },
+          {
+            "title": "Pearlescent Finishing",
+            "description": "Pearlescent finishes have a soft shine that changes the way the cabinets look",
+            "link_text": ""
+          }
+        ]
+      },
+      "responsive_hints": "平板设备（≤768px）下，网格布局改为2列；移动端（≤480px）改为单列，卡片宽度占满",
+      "content_summary": "页面中部展示橱柜翻新的4种耐用饰面升级选项，以网格形式排列，每个选项包含标题和简短描述",
+      "special_effects": "卡片hover时可能显示边框或阴影效果",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/white-kitchen-cabinets_pixel_3.jpg",
+      "chunk_index": 2
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "kitchen-cabinet-finishes",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 4,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "30px",
+        "alignment": "center",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#2d3748",
+        "secondary": "#f7fafc",
+        "heading": "#2d3748",
+        "text": "#4a5568",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 4,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色背景卡片，包含标题、描述文字和'Custom Now'按钮，无阴影和边框"
+        },
+        {
+          "type": "button",
+          "count": 4,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "6px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "深蓝色背景（#2d3748），白色文字，'Custom Now'按钮，圆角6px"
+        }
+      ],
+      "images": [
+        {
+          "type": "thumbnail",
+          "count": 0,
+          "width": "auto",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "无图片，仅文字卡片",
+          "object_fit": "none",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "none"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "White Kitchen Cabinet Makeover: 4 Durable Finish Upgrades",
+        "subtitle": "",
+        "paragraphs": [
+          "For your modern white kitchen cabinets, you can get styles that are smooth, flat, or rippled. Smooth, even surfaces make simple shapes and styles look better. It's perfect for people who want a stylish, sleek look that will look great in any modern kitchen. Differentiated texture and depth are created by a dimpled surface, which gives it a unique tactile feel. With its lovely, hand-crafted look, this finish is perfect for giving your cabinets more personality and visual appeal.",
+          "This custom option has a semi-transparent finish that brings out the texture of the cabinets, giving them a rich, multi-layered look. The finish brings out the best in the piece's features by giving it a soft sheen and a classic look. This finish makes ordinary cabinets into stunning focal points, perfect for people who want to add warmth and personality to their kitchen. Adding a beautiful glossy finish to your white cabinets will make them look more sophisticated and expensive.",
+          "This finish transforms your space into a cozy haven, perfect for those who want a combination of modern elegance and rural charm. Add a touch of magic to your white kitchen cabinets by giving them a woodgrain finish that brings the outside in. The intricate patterns and vivid textures of real wood are brought to life with this custom treatment. Your cabinets will look more elegant and natural with the woodgrain texture.",
+          "Pearlescent finishes have a soft shine that changes the way the cabinets look throughout the day as the light bounces off of them in soft, shimmering tones. The shiny sheen makes your kitchen look more elegant and creates a strange and magical atmosphere. This finish makes your white kitchen cabinets shine with style and is perfect for people who want to stand out."
+        ],
+        "button_texts": [
+          "Custom Now",
+          "Custom Now",
+          "Custom Now",
+          "Custom Now"
+        ],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Smooth Flat And Dimpled Finishing",
+            "description": "For your modern white kitchen cabinets, you can get styles that are smooth, flat, or rippled. Smooth, even surfaces make simple shapes and styles look better. It's perfect for people who want a stylish, sleek look that will look great in any modern kitchen. Differentiated texture and depth are created by a dimpled surface, which gives it a unique tactile feel. With its lovely, hand-crafted look, this finish is perfect for giving your cabinets more personality and visual appeal.",
+            "link_text": "Custom Now"
+          },
+          {
+            "title": "Glaze Finishing",
+            "description": "This custom option has a semi-transparent finish that brings out the texture of the cabinets, giving them a rich, multi-layered look. The finish brings out the best in the piece's features by giving it a soft sheen and a classic look. This finish makes ordinary cabinets into stunning focal points, perfect for people who want to add warmth and personality to their kitchen. Adding a beautiful glossy finish to your white cabinets will make them look more sophisticated and expensive.",
+            "link_text": "Custom Now"
+          },
+          {
+            "title": "Woodgrain Finishing",
+            "description": "This finish transforms your space into a cozy haven, perfect for those who want a combination of modern elegance and rural charm. Add a touch of magic to your white kitchen cabinets by giving them a woodgrain finish that brings the outside in. The intricate patterns and vivid textures of real wood are brought to life with this custom treatment. Your cabinets will look more elegant and natural with the woodgrain texture.",
+            "link_text": "Custom Now"
+          },
+          {
+            "title": "Pearlescent Finishing",
+            "description": "Pearlescent finishes have a soft shine that changes the way the cabinets look throughout the day as the light bounces off of them in soft, shimmering tones. The shiny sheen makes your kitchen look more elegant and creates a strange and magical atmosphere. This finish makes your white kitchen cabinets shine with style and is perfect for people who want to stand out.",
+            "link_text": "Custom Now"
+          }
+        ]
+      },
+      "responsive_hints": "平板设备（≤768px）下改为2列布局，移动端（≤480px）改为1列布局，按钮文字保持不变",
+      "content_summary": "页面中部展示白色厨房橱柜的4种耐用表面处理升级选项，包含标题、4个特色卡片（每个卡片有标题、描述和行动按钮）",
+      "special_effects": "按钮hover时背景色加深，卡片hover时轻微阴影效果",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/white-kitchen-cabinets_pixel_4.jpg",
+      "chunk_index": 3
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "kitchen-cabinet-designs",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 4,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "40px",
+        "alignment": "center",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#2D3748",
+        "secondary": "#F7FAFC",
+        "heading": "#2D3748",
+        "text": "#4A5568",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "36px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "25px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 4,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色背景卡片，包含设计类型标题、描述文字及深色按钮，无阴影和边框"
+        },
+        {
+          "type": "button",
+          "count": 4,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "6px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "深灰色背景（#2D3748），白色文字，统一尺寸的'Custom Now'按钮"
+        }
+      ],
+      "images": [],
+      "extracted_content": {
+        "main_title": "Best White Kitchen Cabinet Designs for Any Space",
+        "subtitle": "",
+        "paragraphs": [],
+        "button_texts": [
+          "Custom Now",
+          "Custom Now",
+          "Custom Now",
+          "Custom Now"
+        ],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "U-shaped",
+            "description": "A custom U-shaped design with white kitchen cabinets will make your kitchen more efficient. This setup makes a good work triangle, which makes it easier to move things between the stove, sink, and fridge. The U-shape has a lot of storage space and table space, making it perfect for making meals and having people over.",
+            "link_text": "Custom Now"
+          },
+          {
+            "title": "I-shaped",
+            "description": "Make your kitchen functional and well-organized with a customized I-shaped layout that highlights white cabinets. This concept is perfect for open-plan areas or small kitchens since it maximizes space use with a linear configuration. With lots of countertop space for cooking and preparation, this design is ideal for people who want a simple, modern look that promotes ease of use and organization.",
+            "link_text": "Custom Now"
+          },
+          {
+            "title": "L-shaped",
+            "description": "The L-shaped design makes good use of the corners and creates a useful work triangle that makes the sink, stove, and refrigerator work better together. The open layout makes the space feel bigger, and the beautiful white cabinets add light and a modern touch. The L-shaped white kitchen cabinets have a lot of storage space and table space, making them perfect for cooking and hosting. They are perfect for any food lover who wants a stylish and useful kitchen.",
+            "link_text": "Custom Now"
+          },
+          {
+            "title": "Island",
+            "description": "Perfect for cooking and hanging out with friends, this design makes your kitchen easier to move around in and more productive. Customized design with white cabinets and a center island will make your kitchen look better. This design hits the perfect balance between looks and functionality, providing extra storage, counter space, and a focal point for cooking or hosting.",
+            "link_text": "Custom Now"
+          }
+        ]
+      },
+      "responsive_hints": "平板设备（≤768px）下，布局改为2列；移动端（≤480px）下，布局改为1列，按钮文字保持不变",
+      "content_summary": "页面中部展示四种白色厨房橱柜设计类型（U-shaped、I-shaped、L-shaped、Island），每个设计包含功能描述及定制按钮，帮助用户选择适合的厨房布局",
+      "special_effects": "按钮hover时背景色加深至#1A202C，文字保持白色",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/white-kitchen-cabinets_pixel_5.jpg",
+      "chunk_index": 4
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "white-cabinet-must-haves",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 4,
+        "rows": 1,
+        "gap_horizontal": "20px",
+        "gap_vertical": "0",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#2d3748",
+        "secondary": "#f8f8f8",
+        "heading": "#2d3748",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 4,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "浅灰色背景卡片，包含标题、描述文字和按钮，每个卡片独立展示一个橱柜配件"
+        },
+        {
+          "type": "button",
+          "count": 4,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "深灰色背景（#2d3748），白色文字，每个卡片底部有'Custom Now'按钮"
+        }
+      ],
+      "images": [
+        {
+          "type": "thumbnail",
+          "count": 0,
+          "width": "auto",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "无",
+          "object_fit": "none",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "none"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Pull-Out Trays & More: White Cabinet Must-Haves",
+        "subtitle": "",
+        "paragraphs": [
+          "Stainless steel, porcelain, and composite are all long-lasting and attractive choices. We have a wide variety of styles to choose from, including farmhouse sinks with their rustic charm and modern undermount designs, so you can be sure that your white kitchen cabinets will look great with any of them.",
+          "Chrome, oil-rubbed bronze, and matte black are among the available finishes. You can choose between beautiful hinges and soft-close hinges, which allow for a silent, gentle shut. Custom kitchen door hinges are the perfect finishing touch for white cabinets, making them both aesthetically pleasing and functionally superior.",
+          "George Constructions offers a variety of designs to choose from, including modern handles, classic knobs, and fashionable decorative pulls, to complement your cabinets. Brushed nickel, matte black, and antique brass are some of the finishes available for these accessories. You can transform your plain white kitchen cabinets into a showpiece by accessorizing them with the perfect pulls.",
+          "With pull-out spice racks, dividers that perfectly separate utensils, and deep drawer inserts for pots and pans, these features are meant to make things more organized and useful. The soft-close system is quiet, and the custom sizes fit perfectly with your white kitchen cabinets. With these custom solutions, you can turn disorganized drawers into neat spaces that make cooking and making meals easier."
+        ],
+        "button_texts": [
+          "Custom Now",
+          "Custom Now",
+          "Custom Now",
+          "Custom Now"
+        ],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Sink",
+            "description": "Stainless steel, porcelain, and composite are all long-lasting and attractive choices. We have a wide variety of styles to choose from, including farmhouse sinks with their rustic charm and modern undermount designs, so you can be sure that your white kitchen cabinets will look great with any of them.",
+            "link_text": "Custom Now"
+          },
+          {
+            "title": "Hinge",
+            "description": "Chrome, oil-rubbed bronze, and matte black are among the available finishes. You can choose between beautiful hinges and soft-close hinges, which allow for a silent, gentle shut. Custom kitchen door hinges are the perfect finishing touch for white cabinets, making them both aesthetically pleasing and functionally superior.",
+            "link_text": "Custom Now"
+          },
+          {
+            "title": "Handle",
+            "description": "George Constructions offers a variety of designs to choose from, including modern handles, classic knobs, and fashionable decorative pulls, to complement your cabinets. Brushed nickel, matte black, and antique brass are some of the finishes available for these accessories. You can transform your plain white kitchen cabinets into a showpiece by accessorizing them with the perfect pulls.",
+            "link_text": "Custom Now"
+          },
+          {
+            "title": "Drawer",
+            "description": "With pull-out spice racks, dividers that perfectly separate utensils, and deep drawer inserts for pots and pans, these features are meant to make things more organized and useful. The soft-close system is quiet, and the custom sizes fit perfectly with your white kitchen cabinets. With these custom solutions, you can turn disorganized drawers into neat spaces that make cooking and making meals easier.",
+            "link_text": "Custom Now"
+          }
+        ]
+      },
+      "responsive_hints": "平板设备（≤768px）下，卡片布局改为2列；移动端（≤480px）下改为1列，按钮文字保持不变",
+      "content_summary": "页面中部展示白色橱柜必备配件（水槽、铰链、把手、抽屉）的详细信息，每个配件包含材质、设计选择及功能描述，并提供定制选项按钮",
+      "special_effects": "按钮hover时背景色加深至#1a202c",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/white-kitchen-cabinets_pixel_6.jpg",
+      "chunk_index": 5
+    },
+    {
+      "module_type": "why-choose",
+      "module_name_suggestion": "why-choose-white-kitchen-cabinets",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 4,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "30px",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#333333",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 4,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": true,
+          "has_border": false,
+          "details": "白色卡片，带轻微阴影，每个卡片包含黑色图标、标题和描述文字"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色背景（#FF8C00），白色文字，'Get a free quote →'"
+        }
+      ],
+      "images": [
+        {
+          "type": "icon",
+          "count": 4,
+          "width": "auto",
+          "height": "auto",
+          "aspect_ratio": "1:1",
+          "position": "卡片顶部居中",
+          "object_fit": "contain",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "black-icon"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Why Choose Us for White Kitchen Cabinets?",
+        "subtitle": "",
+        "paragraphs": [],
+        "button_texts": [
+          "Get a free quote →"
+        ],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Homeowners (Remodel Or Upgrade)",
+            "description": "George Constructions helps homeowners a lot by offering personalized design advice and high-quality construction. Their full range of services is tailored to fit the different tastes and needs. George Furniture improves home comfort and value by using durable materials and creative designs. It offers long-lasting benefits that turn everyday living spaces into beautifully designed spaces."
+          },
+          {
+            "title": "Builders (High-Quality For Projects)",
+            "description": "By focusing on long-lasting craftsmanship and streamlined production schedules, George Constructions helps builders improve the quality of their projects, cut down on wait times, and meet customer needs. George Furniture gives builders specialized help by providing white kitchen cabinets that can be changed to fit the needs of each project and the designer's style choices. Our skilled team works closely with builders to make sure that exact measurements are taken, the right materials are chosen, and the building fits in perfectly with the architect's plans."
+          },
+          {
+            "title": "Contractors (Trusted By Clients)",
+            "description": "We help contractors by giving them premium white kitchen cabinets that can be customized to fit the needs and schedules of the job. George Furniture streamlines the process, improves project efficiency, and provides lasting value by using long-lasting materials, fast delivery, and personalized service. This lets contractors meet client needs with confidence and excellent workmanship. Our knowledge promises accurate measurements and a smooth installation process, which helps contractors get the best results."
+          },
+          {
+            "title": "Architects (Custom Design Experts)",
+            "description": "George Constructions can help builders a lot with custom white kitchen cabinets that look great with architectural designs. Because we know how to make high-quality, long-lasting things, we can promise accuracy and adaptability for all kinds of projects. George Furniture improves the creative process by offering personalized consultations, quick shipping, and unique designs. They give architects stylish and useful options that match their vision and make their projects look better overall."
+          }
+        ]
+      },
+      "responsive_hints": "平板设备（≤768px）下，卡片改为2列布局；移动端（≤480px）改为单列布局，按钮文字简化为'Quote'",
+      "content_summary": "页面中部展示“为什么选择我们”模块，针对不同客户群体（房主、建筑商、承包商、建筑师）介绍服务优势，包含四个卡片和底部行动号召按钮",
+      "special_effects": "按钮hover时背景色加深至#E67300，卡片hover时阴影增强",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/white-kitchen-cabinets_pixel_7.jpg",
+      "chunk_index": 6
+    },
+    {
+      "module_type": "content-block",
+      "module_name_suggestion": "showroom-inspiration",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "block",
+        "columns": 1,
+        "rows": 1,
+        "gap_horizontal": "0",
+        "gap_vertical": "30px",
+        "alignment": "center",
+        "direction": "column"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#333333",
+        "heading": "#2d3748",
+        "text": "#4a5568",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "28px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "0"
+      },
+      "components": [
+        {
+          "type": "heading",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "主标题'Visit Our Showroom for White Cabinet Inspiration'，深灰色（#2d3748），加粗700"
+        },
+        {
+          "type": "paragraph",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "描述展厅面积和展示内容的段落，文字颜色#4a5568"
+        },
+        {
+          "type": "list",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "包含5个带勾的列表项，列表项文字颜色#4a5568，勾图标为黑色"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色背景（#FF8C00），白色文字，'Book time to visit →'"
+        }
+      ],
+      "images": [
+        {
+          "type": "icon",
+          "count": 5,
+          "width": "16px",
+          "height": "16px",
+          "aspect_ratio": "1:1",
+          "position": "列表项左侧",
+          "object_fit": "contain",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "checkmark-icon"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Visit Our Showroom for White Cabinet Inspiration",
+        "subtitle": "",
+        "paragraphs": [
+          "George Constructions has a 20,000-square-foot showroom where customers can see many different home design choices. One interesting thing is the range of kitchen cabinets, which lets customers look at custom cabinets that are made to look good and be useful. The kitchen cabinet displays show off high-quality materials, finishes, and custom storage options in a range of modern and classic styles. In one big showroom area, George Constructions has everything you need to build a beautiful and useful home."
+        ],
+        "button_texts": [
+          "Book time to visit →"
+        ],
+        "list_items": [
+          {
+            "title": "Kitchen Cabinets & Wardrobes",
+            "description": ""
+          },
+          {
+            "title": "Windows & Doors",
+            "description": ""
+          },
+          {
+            "title": "Bathrooms & Tiles",
+            "description": ""
+          },
+          {
+            "title": "Flooring & Lighting",
+            "description": ""
+          },
+          {
+            "title": "Marble & Curtains",
+            "description": ""
+          }
+        ],
+        "card_contents": []
+      },
+      "responsive_hints": "移动端设备下，列表项垂直堆叠，按钮宽度调整为100%，主标题字体大小调整为24px",
+      "content_summary": "展示George Constructions展厅信息，包括展厅面积、展示内容范围，以及预约参观的行动号召",
+      "special_effects": "按钮hover时背景色加深至#e67300，列表项勾图标hover时颜色变深",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/white-kitchen-cabinets_pixel_8.jpg",
+      "chunk_index": 7
+    },
+    {
+      "module_type": "faq",
+      "module_name_suggestion": "white-kitchen-cabinets-faq",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "block",
+        "columns": 1,
+        "rows": 1,
+        "gap_horizontal": "0",
+        "gap_vertical": "40px",
+        "alignment": "left",
+        "direction": "column"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#333333",
+        "heading": "#222222",
+        "text": "#666666",
+        "border": "#e0e0e0"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "15px"
+      },
+      "components": [
+        {
+          "type": "heading",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "主标题'FAQs About White Kitchen Cabinets'，深灰色（#222222），加粗700"
+        },
+        {
+          "type": "accordion",
+          "count": 3,
+          "width": "100%",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "三个可折叠FAQ问题，每个问题带加号图标，点击展开内容，边框为浅灰色（#e0e0e0）"
+        },
+        {
+          "type": "form",
+          "count": 1,
+          "width": "100%",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": true,
+          "has_border": false,
+          "details": "联系表单，包含Name、Email、Tel/Whatsapp、City、Country-Select输入框，Product Needed复选框，Message文本域"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色背景（#FF8C00），白色文字，'Book time to visit →'"
+        }
+      ],
+      "images": [
+        {
+          "type": "background",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "team-photo"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "FAQs About White Kitchen Cabinets",
+        "subtitle": "",
+        "paragraphs": [
+          "Kindly send us your project details and floor plan. We will quote for you within 8 hours!"
+        ],
+        "button_texts": [
+          "Book time to visit →"
+        ],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "What goes best with white kitchen cabinets?",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "What are the best colors to paint white kitchen cabinets?",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Should I Install White Kitchen Cabinets?",
+            "description": "",
+            "link_text": ""
+          }
+        ]
+      },
+      "responsive_hints": "平板设备（≤768px）下，表单输入框改为单列布局；移动端（≤480px）FAQ问题图标和文字左对齐",
+      "content_summary": "页面中部FAQ模块，展示关于白色厨房橱柜的常见问题及联系表单，包含可折叠问题列表和项目咨询表单",
+      "special_effects": "FAQ问题点击时展开/收起内容，表单输入框 hover 时边框变色",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/white-kitchen-cabinets_pixel_9.jpg",
+      "chunk_index": 8
+    },
+    {
+      "module_type": "faq",
+      "module_name_suggestion": "white-kitchen-cabinets-faq",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "block",
+        "columns": 1,
+        "rows": 2,
+        "gap_horizontal": "0",
+        "gap_vertical": "40px",
+        "alignment": "left",
+        "direction": "column"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#333333",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "#e0e0e0"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "0"
+      },
+      "components": [
+        {
+          "type": "accordion",
+          "count": 3,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "三个可展开的FAQ问题，每个问题前有加号图标，文字为深灰色（#333333），未展开时显示问题标题"
+        },
+        {
+          "type": "input",
+          "count": 5,
+          "width": "100%",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "五个文本输入框（Name、Email、Tel/Whatsapp、City、Country-Select），边框为浅灰色（#e0e0e0），占满容器宽度"
+        },
+        {
+          "type": "checkbox",
+          "count": 8,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "八个复选框（Kitchen cabinet、Bedroom、Windows & Doors、Sanitary Ware、Furniture、Lighting、Soft Furnishing、Tiles and Wood Flooring、Whole House Solution、Other Building Material），文字为灰色（#666666）"
+        },
+        {
+          "type": "textarea",
+          "count": 1,
+          "width": "100%",
+          "height": "120px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "一个消息输入框（Message），边框为浅灰色（#e0e0e0），占满容器宽度"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "100%",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "灰色背景（#666666）的发送按钮，白色文字，文字为'Send'"
+        }
+      ],
+      "images": [],
+      "extracted_content": {
+        "main_title": "FAQs About White Kitchen Cabinets",
+        "subtitle": "",
+        "paragraphs": [
+          "Kindly send us your project details and floor plan. We will quote for you within 8 hours!"
+        ],
+        "button_texts": [
+          "Send"
+        ],
+        "list_items": [
+          {
+            "title": "What goes best with white kitchen cabinets?",
+            "description": ""
+          },
+          {
+            "title": "What are the best colors to paint white kitchen cabinets?",
+            "description": ""
+          },
+          {
+            "title": "Should I Install White Kitchen Cabinets?",
+            "description": ""
+          }
+        ],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，输入框和复选框改为单列布局；移动端（≤480px）复选框文字缩小至14px",
+      "content_summary": "页面中部FAQ模块，展示白色厨房橱柜的常见问题及获取报价表单，包含可展开的FAQ问题和项目需求表单",
+      "special_effects": "FAQ问题hover时加号图标变为橙色（#FF8C00），表单输入框focus时边框变为橙色（#FF8C00）",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/white-kitchen-cabinets_pixel_10.jpg",
+      "chunk_index": 9
+    },
+    {
+      "module_type": "contact-form",
+      "module_name_suggestion": "free-quote-form",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#6c757d",
+        "secondary": "#f8f8f8",
+        "heading": "#333333",
+        "text": "#000000",
+        "border": "#e0e0e0"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "50px",
+        "padding_bottom": "50px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "15px"
+      },
+      "components": [
+        {
+          "type": "form",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "包含Name、Email、Tel/Whatsapp、City、Country-Select输入框，Product Needed复选框（10个选项），Message文本框，Choose File按钮，Send按钮的表单，背景为浅灰色（#f8f8f8），边框为浅灰色（#e0e0e0）"
+        },
+        {
+          "type": "input",
+          "count": 5,
+          "width": "100%",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "文本输入框，包括Name、Email、Tel/Whatsapp、City、Country-Select，边框为浅灰色（#e0e0e0）"
+        },
+        {
+          "type": "checkbox",
+          "count": 10,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "Product Needed复选框，选项包括Kitchen cabinet、Bedroom、Windows & Doors、Sanitary Ware、Furniture、Lighting、Soft Furnishing、Tiles and Wood Flooring、Whole House Solution、Other Building Material"
+        },
+        {
+          "type": "textarea",
+          "count": 1,
+          "width": "100%",
+          "height": "120px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "Message文本框，边框为浅灰色（#e0e0e0）"
+        },
+        {
+          "type": "file-input",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "Choose File按钮，显示文件选择界面"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "100%",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "Send按钮，背景为灰色（#6c757d），白色文字"
+        }
+      ],
+      "images": [
+        {
+          "type": "team",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Get A Free Quote",
+        "subtitle": "",
+        "paragraphs": [
+          "Kindly send us your project details and floor plan. We will quote for you within 8 hours!"
+        ],
+        "button_texts": [
+          "Send"
+        ],
+        "list_items": [
+          {
+            "title": "Kitchen cabinet",
+            "description": ""
+          },
+          {
+            "title": "Bedroom",
+            "description": ""
+          },
+          {
+            "title": "Windows & Doors",
+            "description": ""
+          },
+          {
+            "title": "Sanitary Ware",
+            "description": ""
+          },
+          {
+            "title": "Furniture",
+            "description": ""
+          },
+          {
+            "title": "Lighting",
+            "description": ""
+          },
+          {
+            "title": "Soft Furnishing",
+            "description": ""
+          },
+          {
+            "title": "Tiles and Wood Flooring",
+            "description": ""
+          },
+          {
+            "title": "Whole House Solution",
+            "description": ""
+          },
+          {
+            "title": "Other Building Material",
+            "description": ""
+          }
+        ],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，表单与图片改为单列布局，图片占满宽度；移动端（≤480px）下，表单元素垂直堆叠，输入框宽度占满容器",
+      "content_summary": "页面中部联系表单区域，用于收集用户项目信息以获取免费报价，包含个人信息输入、产品需求选择、详细描述及文件上传功能",
+      "special_effects": "Send按钮hover时背景色加深至#5a6268",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/white-kitchen-cabinets_pixel_11.jpg",
+      "chunk_index": 10
+    },
+    {
+      "module_type": "footer",
+      "module_name_suggestion": "footer-sections",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 4,
+        "rows": 1,
+        "gap_horizontal": "40px",
+        "gap_vertical": "0",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#000000",
+        "primary": "#6c757d",
+        "secondary": "#ffffff",
+        "heading": "#ffffff",
+        "text": "#cccccc",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "0"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 4,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "四个等宽分栏，每个分栏包含标题和列表项"
+        },
+        {
+          "type": "list",
+          "count": 7,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "Products分栏下的7个列表项（Kitchen Cabinet至Whole-house Design）"
+        },
+        {
+          "type": "list",
+          "count": 5,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": "false\"",
+          "details": "One-Stop Solutions分栏下的5个列表项（Hotel Solutions至Office Solutions）"
+        },
+        {
+          "type": "list",
+          "count": 7,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": "false\"",
+          "has_border": "false\"",
+          "details": "Customer Services分栏下的7个列表项（CUSTOMER SERVICES至FAQ）"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": "false\"",
+          "details": "Contact Us分栏下的灰色（#6c757d）'Send'按钮"
+        }
+      ],
+      "images": [
+        {
+          "type": "none",
+          "count": 0,
+          "width": "auto",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "none",
+          "object_fit": "none",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "none"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "",
+        "subtitle": "",
+        "paragraphs": [],
+        "button_texts": [
+          "Send"
+        ],
+        "list_items": [
+          {
+            "title": "Products",
+            "description": ""
+          },
+          {
+            "title": "One-Stop Solutions",
+            "description": ""
+          },
+          {
+            "title": "Customer Services",
+            "description": ""
+          },
+          {
+            "title": "Contact Us",
+            "description": ""
+          },
+          {
+            "title": "Kitchen Cabinet",
+            "description": ""
+          },
+          {
+            "title": "Wardrobe",
+            "description": ""
+          },
+          {
+            "title": "Windows and Doors",
+            "description": ""
+          },
+          {
+            "title": "Bathroom",
+            "description": ""
+          },
+          {
+            "title": "Wood Flooring",
+            "description": ""
+          },
+          {
+            "title": "More Furniture",
+            "description": ""
+          },
+          {
+            "title": "Whole-house Design",
+            "description": ""
+          },
+          {
+            "title": "Hotel Solutions",
+            "description": ""
+          },
+          {
+            "title": "Resort Solutions",
+            "description": ""
+          },
+          {
+            "title": "Villa Solutions",
+            "description": ""
+          },
+          {
+            "title": "Apartment Solutions",
+            "description": ""
+          },
+          {
+            "title": "Office Solutions",
+            "description": ""
+          },
+          {
+            "title": "CUSTOMER SERVICES",
+            "description": ""
+          },
+          {
+            "title": "Measurement Guidance",
+            "description": ""
+          },
+          {
+            "title": "Packaging Info",
+            "description": ""
+          },
+          {
+            "title": "Delivery & Shipment",
+            "description": ""
+          },
+          {
+            "title": "After Sales",
+            "description": ""
+          },
+          {
+            "title": "Production Time",
+            "description": ""
+          },
+          {
+            "title": "FAQ",
+            "description": ""
+          },
+          {
+            "title": "info@georgeconstructions.com",
+            "description": ""
+          },
+          {
+            "title": "+8613302843203",
+            "description": ""
+          },
+          {
+            "title": "+8613302843203",
+            "description": ""
+          },
+          {
+            "title": "Don't miss our future updates! Get Subscribed Today!",
+            "description": ""
+          }
+        ],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，footer分栏改为2列布局；移动端（≤480px）改为单列布局，列表项垂直排列",
+      "content_summary": "页面底部footer区域，包含四个分栏：Products（产品分类）、One-Stop Solutions（一站式解决方案）、Customer Services（客户服务）、Contact Us（联系我们），展示公司产品、服务及联系方式",
+      "special_effects": "按钮hover时背景色加深至#5a6268",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/white-kitchen-cabinets_pixel_12.jpg",
+      "chunk_index": 11
+    }
+  ]
+}

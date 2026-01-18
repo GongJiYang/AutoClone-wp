@@ -1,0 +1,595 @@
+"""
+Prompt 模板管理
+整合视觉分析和WordPress代码生成的提示词
+"""
+
+# WordPress 模块类型映射
+MODULE_TYPES = {
+    "header": "页面头部导航",
+    "hero": "主视觉横幅区域",
+    "hero-carousel": "轮播图横幅",
+    "features": "特色/优势展示",
+    "features-service": "服务特色",
+    "product-grid": "产品网格展示",
+    "product-carousel": "产品轮播",
+    "why-choose": "为什么选择我们",
+    "project-cases": "项目案例",
+    "testimonials": "客户评价",
+    "cta": "行动号召区域",
+    "contact-form": "联系表单",
+    "footer": "页面底部",
+    "content-block": "内容块",
+    "image-text": "图文混排",
+    "gallery": "图片画廊",
+    "faq": "常见问题",
+    "stats": "数据统计",
+    "team": "团队展示",
+    "pricing": "价格表",
+    "timeline": "时间线",
+    "logo-cloud": "合作伙伴Logo",
+}
+
+# 视觉模型分析 Prompt（用于分块截图分析）
+VISION_ANALYZE_PROMPT = """你是专业的WordPress主题开发专家和UI分析师。请**精确**分析这个网页截图分块。
+
+这是{position}。{dom_hint}
+
+## 上下文理解（重要）
+
+如果提供了上方或下方的截图作为上下文，请：
+1. **理解整体连贯性**：当前截图可能是某个模块的延续或开始
+2. **识别重叠内容**：上下截图可能有重叠区域，这是正常的（用于确保完整覆盖）
+3. **模块边界判断**：结合上下文判断模块的起始和结束位置
+4. **内容关联性**：如果当前截图的内容与上下截图有逻辑关联，请在分析中说明
+
+## 分析要求（请务必精确）
+
+1. **精确计数**：准确数出每种元素的数量（卡片、图片、按钮等）
+2. **精确测量**：估算具体的像素值（不要用"大约"，给出具体数字）
+3. **颜色提取**：使用具体的hex颜色值
+4. **布局分析**：明确列数、行数、间距
+5. **内容提取**：识别并提取截图中的文字内容（标题、段落、按钮文字等）
+
+## 已知模块类型参考
+{module_types_hint}
+
+## 输出格式（仅JSON，必须精确）
+
+{{
+    "module_type": "模块类型（如hero/product-grid/features等）",
+    "module_name_suggestion": "建议的模块文件名（如kitchen-cabinets-hero）",
+    "is_common_module": true/false,
+    "layout": {{
+        "container": "full-width/container-1200/container-1400",
+        "type": "grid/flex/block",
+        "columns": 具体数字如3,
+        "rows": 具体数字如2,
+        "gap_horizontal": "具体像素值如20px",
+        "gap_vertical": "具体像素值如30px",
+        "alignment": "left/center/right/space-between",
+        "direction": "row/column"
+    }},
+    "colors": {{
+        "background": "#具体hex如#ffffff",
+        "primary": "#具体hex（如按钮颜色#FF8C00）",
+        "secondary": "#具体hex",
+        "heading": "#具体hex",
+        "text": "#具体hex",
+        "border": "#具体hex或none"
+    }},
+    "typography": {{
+        "heading_size": "具体像素值如36px",
+        "heading_weight": "具体数值如700",
+        "body_size": "具体像素值如16px",
+        "body_weight": "具体数值如400",
+        "line_height": "具体数值如1.6"
+    }},
+    "spacing": {{
+        "padding_top": "具体像素值如80px",
+        "padding_bottom": "具体像素值如80px",
+        "padding_left": "具体像素值如15px",
+        "padding_right": "具体像素值如15px",
+        "element_margin": "元素间距如30px",
+        "card_padding": "卡片内边距如20px"
+    }},
+    "components": [
+        {{
+            "type": "navbar/logo/button/card/image/text/form/icon/badge/divider",
+            "count": 精确数量如10,
+            "width": "具体尺寸如200px或auto",
+            "height": "具体尺寸如150px或auto",
+            "border_radius": "圆角值如8px或0",
+            "has_shadow": true/false,
+            "has_border": true/false,
+            "details": "具体描述（如：白色卡片，带阴影，显示产品图片和标题）"
+        }}
+    ],
+    "images": [
+        {{
+            "type": "hero-banner/product/thumbnail/avatar/icon/background/gallery",
+            "count": 精确数量,
+            "width": "具体像素或百分比如300px或100%",
+            "height": "具体像素或auto如200px",
+            "aspect_ratio": "宽高比如16:9/4:3/1:1/auto",
+            "position": "位置描述如左侧/居中/网格排列",
+            "object_fit": "cover/contain/fill",
+            "has_overlay": true/false,
+            "overlay_color": "#rgba如rgba(0,0,0,0.5)或none",
+            "placeholder_suggestion": "占位符建议如gray-bg/gradient/svg-icon"
+        }}
+    ],
+    "extracted_content": {{
+        "main_title": "截图中的主标题文字（如有）",
+        "subtitle": "副标题文字（如有）",
+        "paragraphs": ["段落1内容...", "段落2内容..."],
+        "button_texts": ["按钮文字1", "按钮文字2"],
+        "list_items": [
+            {{"title": "列表项标题", "description": "列表项描述"}},
+        ],
+        "card_contents": [
+            {{"title": "卡片标题", "description": "卡片描述", "link_text": "链接文字"}}
+        ]
+    }},
+    "responsive_hints": "响应式建议（如：平板2列，移动端1列）",
+    "content_summary": "该区域主要展示什么内容",
+    "special_effects": "特殊效果（如：hover变色、渐变背景、动画等）"
+}}
+
+**重要**：
+- 数量必须精确（如卡片10个，不是"多个"）
+- 像素值必须具体（如24px，不是"较大"）
+- 颜色必须是hex值（如#333333，不是"深灰"）
+- 必须提取截图中可见的文字内容用于默认数据
+
+只输出JSON，不要其他内容。"""
+
+
+# 生成给Cursor的完整Prompt模板
+CURSOR_PROMPT_TEMPLATE = """# WordPress 页面克隆任务
+
+## 原始页面信息
+- URL: {url}
+- 标题: {title}
+- 总高度: {total_height}px
+
+## 代码规范
+
+### PHP模块结构
+- 文件位置：`modules/{{module-name}}.php`
+- 使用 `.elementor-container` 作为容器（最大宽度1200px）
+- 模块最外层类名：`{{module-name}}-module`
+- 使用 `esc_html()` 和 `esc_url()` 进行输出转义
+- 使用 `get_svg_placeholder()` 函数处理图片占位符
+
+### CSS样式结构
+- 文件位置：`assets/css/modules/{{module-name}}.css`
+- 使用模块化的类名（避免全局冲突）
+- 必须包含响应式设计：
+  - 桌面：默认（>1024px）
+  - 平板：`@media (max-width: 1024px)`
+  - 移动：`@media (max-width: 768px)`
+  - 小屏：`@media (max-width: 480px)`
+
+### 设计系统
+- 字体：`-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif`
+- 主色调：`#FF8C00` / `#FF7A00`（橙色）
+- 文字颜色：标题 `#333`，正文 `#666`
+- 容器内边距：`padding: 0 15px`
+- 模块间距：通常 `padding: 80px 0`（移动端减少为40px）
+
+### ⚠️ 默认数据规范（重要）
+
+**每个模块必须提供有意义的默认示例数据**，确保页面在没有传入参数时也能正常显示：
+
+```php
+// ❌ 错误写法 - 空默认值（页面会显示空白）
+$title = isset($module_args['title']) ? $module_args['title'] : '';
+$content = isset($module_args['content']) ? $module_args['content'] : '';
+
+// ✅ 正确写法 - 提供有意义的默认数据
+$title = isset($module_args['title']) ? $module_args['title'] : 'Best Patio Floor Tiles for Your Outdoor Space';
+$content = isset($module_args['content']) ? $module_args['content'] : '<p>Transform your patio with our selection of premium floor tiles. From natural stone to modern porcelain, find the perfect option for your outdoor living area.</p>';
+```
+
+**默认数据要求：**
+1. **标题**：必须有默认值，使用从截图中提取的实际标题或合理的占位文本
+2. **正文内容**：必须有默认值，至少2-3句描述性文字
+3. **列表类数据**：必须提供2-3个默认项目，每项包含标题和描述
+4. **按钮文字**：使用实际的CTA文案如"View Products"、"Learn More"
+5. **图片Alt**：提供有意义的描述性alt文本
+
+### 图片占位符规范
+使用以下方式处理图片占位符：
+
+```php
+// 方式1：使用WordPress占位符函数
+<?php echo get_svg_placeholder($width, $height, $text); ?>
+
+// 方式2：使用CSS背景色占位
+<div class="image-placeholder" style="aspect-ratio: 16/9; background: #e0e0e0;"></div>
+
+// 方式3：使用placehold.co（推荐）
+<img src="https://placehold.co/600x400/e0e0e0/666?text=Product" alt="产品图片">
+```
+
+图片占位符CSS示例：
+```css
+.image-placeholder {{
+    background: linear-gradient(135deg, #f0f0f0 0%, #e0e0e0 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #999;
+    font-size: 14px;
+}}
+```
+
+## 页面结构分析
+
+{sections_analysis}
+
+## 设计参数汇总
+
+{design_tokens}
+
+## 任务要求
+
+请根据上述分析和截图，为每个模块生成：
+
+1. **PHP文件** (`modules/{{module-name}}.php`)
+2. **CSS文件** (`assets/css/modules/{{module-name}}.css`)
+3. **模块参数** (`$args` 数组结构)
+
+### PHP代码模板（包含默认数据示例）
+
+```php
+<?php
+if (!defined('ABSPATH')) {{
+    exit;
+}}
+
+$module_args = isset($args) ? $args : array();
+
+// ========== 默认数据（必须提供有意义的内容）==========
+$default_title = 'Module Title from Screenshot';
+$default_content = '<p>This is meaningful default content extracted from the original page screenshot. It should describe what this section is about and provide value even without custom data.</p>';
+$default_items = array(
+    array(
+        'title' => 'Feature One',
+        'description' => 'Description of the first feature with details about its benefits.',
+        'icon' => 'icon-class-1'
+    ),
+    array(
+        'title' => 'Feature Two', 
+        'description' => 'Description of the second feature highlighting key advantages.',
+        'icon' => 'icon-class-2'
+    ),
+    array(
+        'title' => 'Feature Three',
+        'description' => 'Description of the third feature explaining its value proposition.',
+        'icon' => 'icon-class-3'
+    )
+);
+
+// ========== 获取参数（带默认值）==========
+$title = isset($module_args['title']) ? $module_args['title'] : $default_title;
+$content = isset($module_args['content']) ? $module_args['content'] : $default_content;
+$items = !empty($module_args['items']) ? $module_args['items'] : $default_items;
+$button_text = isset($module_args['button_text']) ? $module_args['button_text'] : 'Learn More';
+$button_url = isset($module_args['button_url']) ? $module_args['button_url'] : '#';
+?>
+
+<div class="{{module-name}}-module">
+    <div class="elementor-container">
+        <h2 class="module-title"><?php echo esc_html($title); ?></h2>
+        <div class="module-content"><?php echo wp_kses_post($content); ?></div>
+        
+        <?php if (!empty($items)) : ?>
+        <div class="module-items">
+            <?php foreach ($items as $item) : ?>
+            <div class="module-item">
+                <h3><?php echo esc_html($item['title']); ?></h3>
+                <p><?php echo esc_html($item['description']); ?></p>
+            </div>
+            <?php endforeach; ?>
+        </div>
+        <?php endif; ?>
+        
+        <a href="<?php echo esc_url($button_url); ?>" class="module-button">
+            <?php echo esc_html($button_text); ?>
+        </a>
+    </div>
+</div>
+```
+
+### CSS代码模板
+
+```css
+.{{module-name}}-module {{
+    padding: 80px 0;
+    background-color: #fff;
+}}
+
+.{{module-name}}-module .elementor-container {{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}}
+
+.{{module-name}}-module .module-title {{
+    font-size: 36px;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 20px;
+}}
+
+.{{module-name}}-module .module-content {{
+    font-size: 16px;
+    line-height: 1.6;
+    color: #666;
+    margin-bottom: 40px;
+}}
+
+@media (max-width: 768px) {{
+    .{{module-name}}-module {{
+        padding: 40px 0;
+    }}
+    
+    .{{module-name}}-module .module-title {{
+        font-size: 28px;
+    }}
+}}
+```
+
+## 截图参考
+
+请查看 `output/screenshots/` 目录下的分块截图：
+{screenshot_list}
+
+**重要**：请从截图中提取实际的文字内容作为默认数据，不要使用空字符串或无意义的占位符。
+
+---
+
+## 🎯 推荐输出方式：WordPress 页面模板
+
+### 页面模板结构
+
+请生成一个完整的 WordPress 页面模板文件，包含所有模块：
+
+**文件位置**: `wp-content/themes/{{theme-name}}/page-templates/template-{{page-name}}.php`
+
+### 页面模板代码示例
+
+```php
+<?php
+/**
+ * Template Name: {{Page Name}} 页面模板
+ * Description: 克隆自 {{source_url}} 的页面模板
+ */
+
+if (!defined('ABSPATH')) {{
+    exit;
+}}
+
+get_header();
+?>
+
+<main class="page-{{page-slug}}">
+
+    <!-- ========== Section 1: Hero ========== -->
+    <section class="hero-section">
+        <div class="elementor-container">
+            <?php
+            $hero_title = '从截图提取的实际标题';
+            $hero_subtitle = '从截图提取的副标题内容';
+            $hero_button_text = 'Quick Quote';
+            $hero_button_url = '#contact';
+            ?>
+            <div class="hero-content">
+                <h1><?php echo esc_html($hero_title); ?></h1>
+                <p class="hero-subtitle"><?php echo esc_html($hero_subtitle); ?></p>
+                <a href="<?php echo esc_url($hero_button_url); ?>" class="btn btn-primary">
+                    <?php echo esc_html($hero_button_text); ?>
+                </a>
+            </div>
+            <div class="hero-image">
+                <img src="https://placehold.co/800x600/e0e0e0/666?text=Hero+Image" alt="Hero Banner">
+            </div>
+        </div>
+    </section>
+
+    <!-- ========== Section 2: Product Grid ========== -->
+    <section class="product-grid-section">
+        <div class="elementor-container">
+            <?php
+            $section_title = '从截图提取的标题';
+            $products = array(
+                array(
+                    'title' => '产品标题1',
+                    'description' => '产品描述内容...',
+                    'image' => 'https://placehold.co/400x300/e0e0e0/666?text=Product+1'
+                ),
+                array(
+                    'title' => '产品标题2',
+                    'description' => '产品描述内容...',
+                    'image' => 'https://placehold.co/400x300/e0e0e0/666?text=Product+2'
+                ),
+                // 更多产品...
+            );
+            ?>
+            <h2 class="section-title"><?php echo esc_html($section_title); ?></h2>
+            <div class="products-grid">
+                <?php foreach ($products as $product) : ?>
+                <div class="product-card">
+                    <img src="<?php echo esc_url($product['image']); ?>" alt="<?php echo esc_attr($product['title']); ?>">
+                    <h3><?php echo esc_html($product['title']); ?></h3>
+                    <p><?php echo esc_html($product['description']); ?></p>
+                </div>
+                <?php endforeach; ?>
+            </div>
+        </div>
+    </section>
+
+    <!-- 继续添加其他 sections... -->
+
+</main>
+
+<?php get_footer(); ?>
+```
+
+### 配套 CSS 文件
+
+**文件位置**: `wp-content/themes/{{theme-name}}/assets/css/template-{{page-name}}.css`
+
+```css
+/* ========== Page Template: {{Page Name}} ========== */
+
+.page-{{page-slug}} {{
+    /* 页面全局样式 */
+}}
+
+/* Hero Section */
+.hero-section {{
+    padding: 80px 0;
+    background: #f8f8f8;
+}}
+
+.hero-section .elementor-container {{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}}
+
+.hero-content {{
+    flex: 1;
+}}
+
+.hero-content h1 {{
+    font-size: 48px;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 20px;
+}}
+
+/* Product Grid Section */
+.product-grid-section {{
+    padding: 80px 0;
+    background: #fff;
+}}
+
+.products-grid {{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}}
+
+.product-card {{
+    background: #fff;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}}
+
+/* 响应式 */
+@media (max-width: 1024px) {{
+    .products-grid {{
+        grid-template-columns: repeat(2, 1fr);
+    }}
+}}
+
+@media (max-width: 768px) {{
+    .hero-section .elementor-container {{
+        flex-direction: column;
+    }}
+    
+    .products-grid {{
+        grid-template-columns: 1fr;
+    }}
+    
+    .hero-content h1 {{
+        font-size: 32px;
+    }}
+}}
+```
+
+### 在 functions.php 中注册样式
+
+```php
+// 在 functions.php 中添加
+function enqueue_page_template_styles() {{
+    if (is_page_template('page-templates/template-{{page-name}}.php')) {{
+        wp_enqueue_style(
+            'template-{{page-name}}-style',
+            get_template_directory_uri() . '/assets/css/template-{{page-name}}.css',
+            array(),
+            '1.0.0'
+        );
+    }}
+}}
+add_action('wp_enqueue_scripts', 'enqueue_page_template_styles');
+```
+
+---
+
+## 使用方式
+
+生成代码后，按以下步骤在 WordPress 中创建页面：
+
+1. 将 PHP 模板文件放入 `wp-content/themes/your-theme/page-templates/` 目录
+2. 将 CSS 文件放入 `wp-content/themes/your-theme/assets/css/` 目录
+3. 在 `functions.php` 中添加样式注册代码
+4. WordPress 后台 → 页面 → 新建页面
+5. 在页面属性中选择 **"{{Page Name}} 页面模板"**
+6. 发布页面
+
+---
+
+## 输出要求
+
+请生成以下文件：
+
+1. **页面模板 PHP 文件**: `template-{{page-name}}.php`
+   - 包含所有 sections
+   - 每个 section 使用从截图提取的真实内容作为默认数据
+   - 图片使用 placehold.co 占位符
+
+2. **CSS 样式文件**: `template-{{page-name}}.css`
+   - 完整的响应式设计
+   - 使用分析中提取的颜色、字体、间距参数
+
+3. **functions.php 代码片段**: 注册样式的代码
+"""
+
+
+def get_module_types_hint():
+    """获取模块类型提示"""
+    hints = []
+    for key, desc in MODULE_TYPES.items():
+        hints.append(f"- {key}: {desc}")
+    return "\n".join(hints)
+
+
+def format_vision_prompt(position: str, dom_hint: str = "") -> str:
+    """格式化视觉分析prompt"""
+    return VISION_ANALYZE_PROMPT.format(
+        position=position,
+        dom_hint=dom_hint,
+        module_types_hint=get_module_types_hint()
+    )
+
+
+def format_cursor_prompt(url: str, title: str, total_height: int, 
+                         sections_analysis: str, design_tokens: str,
+                         screenshot_list: str) -> str:
+    """格式化Cursor prompt"""
+    return CURSOR_PROMPT_TEMPLATE.format(
+        url=url,
+        title=title,
+        total_height=str(total_height),  # 确保是字符串
+        sections_analysis=sections_analysis,
+        design_tokens=design_tokens,
+        screenshot_list=screenshot_list
+    )

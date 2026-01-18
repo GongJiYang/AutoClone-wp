@@ -1,0 +1,485 @@
+#!/usr/bin/env python3
+"""
+视觉分析器 - 优化版
+结合WordPress规范的智能分析
+"""
+import asyncio
+import base64
+import json
+import os
+import sys
+from pathlib import Path
+from playwright.async_api import async_playwright
+from zhipuai import ZhipuAI
+from dotenv import load_dotenv
+
+from .config import Config
+from .prompts import format_vision_prompt, format_cursor_prompt, MODULE_TYPES
+
+load_dotenv()
+sys.stdout.reconfigure(line_buffering=True)
+
+
+class VisionAnalyzer:
+    """视觉分析器（带速率限制处理）"""
+    
+    def __init__(self, max_retries: int = 5, initial_delay: float = 2.0, max_delay: float = 60.0):
+        self.client = ZhipuAI(api_key=Config.ZHIPU_API_KEY)
+        self.model = Config.VISION_MODEL
+        self.max_retries = max_retries
+        self.initial_delay = initial_delay
+        self.max_delay = max_delay
+    
+    def _should_retry(self, error_code: int, error_message: str) -> bool:
+        """判断是否应该重试"""
+        # 429: 速率限制
+        # 500, 502, 503: 服务器错误
+        retryable_codes = [429, 500, 502, 503]
+        
+        if error_code in retryable_codes:
+            # 检查是否是余额不足（不应该重试）
+            if "余额不足" in error_message or "1113" in error_message:
+                return False
+            return True
+        
+        return False
+    
+    def _get_delay(self, retry_count: int) -> float:
+        """计算延迟时间（指数退避）"""
+        import random
+        delay = min(
+            self.initial_delay * (2 ** retry_count),
+            self.max_delay
+        )
+        # 添加随机抖动（±20%）
+        jitter = delay * 0.2 * (random.random() * 2 - 1)
+        return max(0.5, delay + jitter)
+    
+    def _parse_error(self, error_str: str) -> tuple:
+        """解析错误信息，返回 (error_code, error_message)"""
+        error_code = 0
+        error_message = error_str
+        
+        if "Error code:" in error_str:
+            try:
+                parts = error_str.split("Error code:")[1].split(",")[0].strip()
+                error_code = int(parts)
+            except:
+                pass
+        
+        if "error text" in error_str:
+            try:
+                import re
+                match = re.search(r'"message":"([^"]+)"', error_str)
+                if match:
+                    error_message = match.group(1)
+            except:
+                pass
+        
+        return error_code, error_message
+    
+    def analyze_chunk(self, image_path: str, chunk_index: int, 
+                      total_chunks: int, section_info: dict = None,
+                      prev_image_path: str = None, next_image_path: str = None) -> dict:
+        """分析单个分块（带上下文和重试机制）
+        
+        Args:
+            image_path: 当前截图路径
+            chunk_index: 当前分块索引
+            total_chunks: 总分块数
+            section_info: DOM信息（可选）
+            prev_image_path: 上一张截图路径（可选，用于上下文）
+            next_image_path: 下一张截图路径（可选，用于上下文）
+        """
+        import time
+        
+        with open(image_path, "rb") as f:
+            img_base = base64.b64encode(f.read()).decode("utf-8")
+        
+        # 构建位置提示
+        if chunk_index == 0:
+            position = "页面顶部（header/hero区域）"
+        elif chunk_index == total_chunks - 1:
+            position = "页面底部（可能包含footer）"
+        else:
+            position = f"页面中部（第{chunk_index+1}/{total_chunks}块）"
+        
+        # DOM信息提示
+        dom_hint = ""
+        if section_info:
+            className = str(section_info.get('className', ''))[:50]
+            dom_hint = f"\nDOM信息：标签={section_info.get('tag')}, 类名={className}"
+        
+        # 上下文提示
+        context_hint = ""
+        if prev_image_path or next_image_path:
+            context_parts = []
+            if prev_image_path:
+                context_parts.append("上方截图")
+            if next_image_path:
+                context_parts.append("下方截图")
+            context_hint = f"\n\n⚠️ 上下文信息：已提供{'+'.join(context_parts)}作为参考，请结合上下文理解页面整体结构。当前截图可能与上下截图有内容重叠或延续关系。"
+        
+        # 使用优化后的prompt
+        prompt = format_vision_prompt(position, dom_hint + context_hint)
+        
+        retry_count = 0
+        
+        while retry_count <= self.max_retries:
+            try:
+                # 构建内容列表：先添加上下文图片，再添加当前图片，最后是文本提示
+                content = []
+                
+                # 如果有上一张截图，先添加（帮助理解上下文）
+                if prev_image_path:
+                    try:
+                        with open(prev_image_path, "rb") as f:
+                            prev_img_base = base64.b64encode(f.read()).decode("utf-8")
+                        content.append({
+                            "type": "image_url", 
+                            "image_url": {"url": prev_img_base},
+                            "detail": "low"  # 上下文图片使用低分辨率以节省token
+                        })
+                    except Exception as e:
+                        print(f"       ⚠️  无法加载上一张截图: {e}", flush=True)
+                
+                # 添加当前截图（主要分析对象）
+                content.append({
+                    "type": "image_url", 
+                    "image_url": {"url": img_base},
+                    "detail": "high"  # 当前图片使用高分辨率
+                })
+                
+                # 如果有下一张截图，添加（帮助理解上下文）
+                if next_image_path:
+                    try:
+                        with open(next_image_path, "rb") as f:
+                            next_img_base = base64.b64encode(f.read()).decode("utf-8")
+                        content.append({
+                            "type": "image_url", 
+                            "image_url": {"url": next_img_base},
+                            "detail": "low"  # 上下文图片使用低分辨率以节省token
+                        })
+                    except Exception as e:
+                        print(f"       ⚠️  无法加载下一张截图: {e}", flush=True)
+                
+                # 添加文本提示
+                content.append({"type": "text", "text": prompt})
+                
+                response = self.client.chat.completions.create(
+                    model=self.model,
+                    messages=[{
+                        "role": "user",
+                        "content": content
+                    }]
+                )
+                
+                text = response.choices[0].message.content
+                
+                # 提取JSON
+                if "```json" in text:
+                    text = text.split("```json")[1].split("```")[0]
+                elif "```" in text:
+                    text = text.split("```")[1].split("```")[0]
+                
+                try:
+                    analysis = json.loads(text.strip())
+                    analysis['screenshot'] = image_path
+                    analysis['chunk_index'] = chunk_index
+                    return analysis
+                except json.JSONDecodeError:
+                    return {
+                        "raw_response": text,
+                        "parse_error": True,
+                        "screenshot": image_path,
+                        "chunk_index": chunk_index
+                    }
+            
+            except Exception as e:
+                error_str = str(e)
+                error_code, error_message = self._parse_error(error_str)
+                
+                # 检查是否应该重试
+                if self._should_retry(error_code, error_message) and retry_count < self.max_retries:
+                    delay = self._get_delay(retry_count)
+                    print(f"       ⚠️  速率限制，等待 {delay:.1f} 秒后重试 ({retry_count + 1}/{self.max_retries})...", flush=True)
+                    time.sleep(delay)
+                    retry_count += 1
+                    continue
+                else:
+                    # 不应该重试或已达到最大重试次数
+                    raise e
+        
+        # 如果所有重试都失败
+        return {
+            "error": f"Max retries ({self.max_retries}) exceeded",
+            "screenshot": image_path,
+            "chunk_index": chunk_index
+        }
+
+
+def generate_sections_analysis(chunks: list) -> str:
+    """生成页面结构分析文本（详细版，含提取内容）"""
+    sections = []
+    
+    for i, chunk in enumerate(chunks):
+        # 检查解析错误
+        if 'parse_error' in chunk:
+            raw_response = str(chunk.get('raw_response', 'N/A'))[:100]
+            sections.append(f"### 分块 {i+1}: 解析失败\n- 截图: `{Path(chunk.get('screenshot', '')).name}`\n- 错误: {raw_response}\n")
+            continue
+        
+        # 检查 API 调用错误（余额不足、速率限制等）
+        if 'error' in chunk:
+            error_msg = str(chunk.get('error', 'Unknown error'))
+            # 提取错误信息（如果是余额不足）
+            if '余额不足' in error_msg or '1113' in error_msg:
+                error_display = "⚠️ API 余额不足，请充值后重新分析"
+            elif '429' in error_msg or '速率限制' in error_msg:
+                error_display = "⚠️ API 速率限制，请稍后重试"
+            else:
+                error_display = f"API 错误: {error_msg[:200]}"
+            
+            sections.append(f"### 分块 {i+1}: API 调用失败\n- **截图**: `{Path(chunk.get('screenshot', '')).name}`\n- **错误**: {error_display}\n\n**注意**: 此分块无法分析，请查看截图手动处理或充值后重新运行分析。\n\n---\n")
+            continue
+        
+        module_type = chunk.get('module_type', 'unknown')
+        module_name = chunk.get('module_name_suggestion', f'section-{i+1}')
+        layout = chunk.get('layout', {})
+        colors = chunk.get('colors', {})
+        typography = chunk.get('typography', {})
+        spacing = chunk.get('spacing', {})
+        components = chunk.get('components', [])
+        extracted_content = chunk.get('extracted_content', {})
+        
+        # 详细的组件列表
+        comp_details = []
+        for c in components:
+            comp_str = f"  - {c.get('type', 'unknown')} x{c.get('count', 1)}"
+            if c.get('width'):
+                comp_str += f", 宽={c.get('width')}"
+            if c.get('height'):
+                comp_str += f", 高={c.get('height')}"
+            if c.get('border_radius'):
+                comp_str += f", 圆角={c.get('border_radius')}"
+            if c.get('has_shadow'):
+                comp_str += ", 有阴影"
+            if c.get('details'):
+                comp_str += f"\n    说明: {c.get('details')}"
+            comp_details.append(comp_str)
+        
+        comp_list_str = "\n".join(comp_details) if comp_details else "  - 无"
+        
+        # 图片占位符信息
+        images = chunk.get('images', [])
+        image_details = []
+        for img in images:
+            img_str = f"  - **{img.get('type', 'image')}** x{img.get('count', 1)}"
+            img_str += f"\n    尺寸: {img.get('width', 'auto')} x {img.get('height', 'auto')}"
+            img_str += f", 比例: {img.get('aspect_ratio', 'auto')}"
+            img_str += f"\n    位置: {img.get('position', '未指定')}"
+            img_str += f", object-fit: {img.get('object_fit', 'cover')}"
+            if img.get('has_overlay'):
+                img_str += f"\n    遮罩: {img.get('overlay_color', 'rgba(0,0,0,0.3)')}"
+            img_str += f"\n    占位符建议: {img.get('placeholder_suggestion', 'gray-bg')}"
+            image_details.append(img_str)
+        
+        image_list_str = "\n".join(image_details) if image_details else "  - 无图片"
+        
+        # 提取的内容（用于默认数据）
+        content_lines = []
+        if extracted_content:
+            main_title = extracted_content.get('main_title', '')
+            subtitle = extracted_content.get('subtitle', '')
+            paragraphs = extracted_content.get('paragraphs', [])
+            button_texts = extracted_content.get('button_texts', [])
+            list_items = extracted_content.get('list_items', [])
+            card_contents = extracted_content.get('card_contents', [])
+            
+            if main_title:
+                content_lines.append(f"- **主标题**: `{main_title}`")
+            if subtitle:
+                content_lines.append(f"- **副标题**: `{subtitle}`")
+            if paragraphs:
+                content_lines.append(f"- **段落** ({len(paragraphs)}个):")
+                for p in paragraphs[:3]:  # 最多显示3个
+                    p_str = str(p)
+                    p_preview = p_str[:100] + "..." if len(p_str) > 100 else p_str
+                    content_lines.append(f"  - `{p_preview}`")
+            if button_texts:
+                content_lines.append(f"- **按钮文字**: {', '.join([f'`{b}`' for b in button_texts])}")
+            if list_items:
+                content_lines.append(f"- **列表项** ({len(list_items)}个):")
+                for item in list_items[:3]:
+                    title = str(item.get('title', ''))
+                    desc = str(item.get('description', ''))[:50]
+                    content_lines.append(f"  - `{title}`: {desc}...")
+            if card_contents:
+                content_lines.append(f"- **卡片内容** ({len(card_contents)}个):")
+                for card in card_contents[:3]:
+                    title = str(card.get('title', ''))
+                    desc = str(card.get('description', ''))[:50]
+                    content_lines.append(f"  - `{title}`: {desc}...")
+        
+        extracted_content_str = "\n".join(content_lines) if content_lines else "  - 未提取到文字内容"
+        
+        section_text = f"""### 分块 {i+1}: {module_type}
+- **截图**: `{Path(chunk.get('screenshot', '')).name}`
+- **建议模块名**: `{module_name}`
+
+**布局**:
+- 容器: {layout.get('container', 'container-1200')}
+- 类型: {layout.get('type', 'block')}
+- 列数: {layout.get('columns', 1)}, 行数: {layout.get('rows', 'auto')}
+- 水平间距: {layout.get('gap_horizontal', '20px')}, 垂直间距: {layout.get('gap_vertical', '20px')}
+- 对齐: {layout.get('alignment', 'left')}
+
+**颜色**:
+- 背景: {colors.get('background', '#ffffff')}
+- 主色: {colors.get('primary', '#FF8C00')}
+- 标题: {colors.get('heading', '#333333')}
+- 正文: {colors.get('text', '#666666')}
+- 边框: {colors.get('border', 'none')}
+
+**字体**:
+- 标题: {typography.get('heading_size', '24px')}, 字重: {typography.get('heading_weight', '700')}
+- 正文: {typography.get('body_size', '16px')}, 字重: {typography.get('body_weight', '400')}
+- 行高: {typography.get('line_height', '1.6')}
+
+**间距**:
+- 上边距: {spacing.get('padding_top', '80px')}
+- 下边距: {spacing.get('padding_bottom', '80px')}
+- 元素间距: {spacing.get('element_margin', '30px')}
+- 卡片内边距: {spacing.get('card_padding', '20px')}
+
+**组件** ({len(components)}个):
+{comp_list_str}
+
+**图片占位符** ({len(images)}组):
+{image_list_str}
+
+**⚠️ 提取的文字内容（用于默认数据）**:
+{extracted_content_str}
+
+**响应式**: {chunk.get('responsive_hints', '移动端单列')}
+**特效**: {chunk.get('special_effects', '无')}
+**内容摘要**: {chunk.get('content_summary', 'N/A')}
+
+---
+"""
+        sections.append(section_text)
+    
+    return "\n".join(sections)
+
+
+def generate_design_tokens(chunks: list) -> str:
+    """从所有分块中提取设计参数汇总（详细版）"""
+    all_colors = {}
+    all_typography = {}
+    all_spacing = {}
+    
+    for chunk in chunks:
+        if 'parse_error' in chunk:
+            continue
+        
+        colors = chunk.get('colors', {})
+        for key, value in colors.items():
+            if value and value != 'N/A' and value != 'none':
+                all_colors[key] = value
+        
+        typography = chunk.get('typography', {})
+        for key, value in typography.items():
+            if value and value != 'N/A':
+                all_typography[key] = value
+        
+        spacing = chunk.get('spacing', {})
+        for key, value in spacing.items():
+            if value and value != 'N/A':
+                all_spacing[key] = value
+    
+    tokens = f"""### 颜色系统（CSS变量建议）
+```css
+:root {{
+    --color-primary: {all_colors.get('primary', '#FF8C00')};
+    --color-secondary: {all_colors.get('secondary', '#333333')};
+    --color-background: {all_colors.get('background', '#ffffff')};
+    --color-heading: {all_colors.get('heading', '#333333')};
+    --color-text: {all_colors.get('text', '#666666')};
+    --color-border: {all_colors.get('border', '#e0e0e0')};
+}}
+```
+
+### 字体系统
+```css
+:root {{
+    --font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    --font-size-h1: {all_typography.get('heading_size', '36px')};
+    --font-size-body: {all_typography.get('body_size', '16px')};
+    --font-weight-heading: {all_typography.get('heading_weight', '700')};
+    --font-weight-body: {all_typography.get('body_weight', '400')};
+    --line-height: {all_typography.get('line_height', '1.6')};
+}}
+```
+
+### 间距系统
+```css
+:root {{
+    --spacing-module-top: {all_spacing.get('padding_top', '80px')};
+    --spacing-module-bottom: {all_spacing.get('padding_bottom', '80px')};
+    --spacing-element: {all_spacing.get('element_margin', '30px')};
+    --spacing-card-padding: {all_spacing.get('card_padding', '20px')};
+    --container-max-width: 1200px;
+    --container-padding: 15px;
+}}
+```
+
+### 响应式断点
+```css
+/* 桌面 */
+@media (min-width: 1025px) {{ }}
+
+/* 平板 */
+@media (max-width: 1024px) {{
+    :root {{
+        --spacing-module-top: 60px;
+        --spacing-module-bottom: 60px;
+    }}
+}}
+
+/* 移动 */
+@media (max-width: 768px) {{
+    :root {{
+        --spacing-module-top: 40px;
+        --spacing-module-bottom: 40px;
+        --font-size-h1: 28px;
+    }}
+}}
+```
+"""
+    return tokens
+
+
+def generate_cursor_prompt_file(url: str, title: str, total_height: int,
+                                 chunks: list, screenshot_dir: Path,
+                                 output_name: str) -> str:
+    """生成完整的Cursor提示文件"""
+    
+    # 生成各部分内容
+    sections_analysis = generate_sections_analysis(chunks)
+    design_tokens = generate_design_tokens(chunks)
+    
+    # 截图列表
+    screenshot_files = sorted(screenshot_dir.glob(f"{output_name}_*.jpg"))
+    screenshot_list = "\n".join([f"- `{f.name}`" for f in screenshot_files])
+    
+    # 使用模板生成
+    prompt = format_cursor_prompt(
+        url=url,
+        title=title,
+        total_height=total_height,
+        sections_analysis=sections_analysis,
+        design_tokens=design_tokens,
+        screenshot_list=screenshot_list
+    )
+    
+    return prompt

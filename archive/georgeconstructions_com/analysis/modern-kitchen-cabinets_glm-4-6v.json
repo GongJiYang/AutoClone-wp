@@ -1,0 +1,1951 @@
+{
+  "url": "https://georgeconstructions.com/modern-kitchen-cabinets/",
+  "title": "Custom Modern Kitchen Cabinets｜ Design ideas",
+  "total_height": 12519,
+  "method": "pixel",
+  "vision_model": "glm-4.6v",
+  "screenshots": [
+    "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_1.jpg",
+    "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_2.jpg",
+    "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_3.jpg",
+    "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_4.jpg",
+    "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_5.jpg",
+    "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_6.jpg",
+    "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_7.jpg",
+    "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_8.jpg",
+    "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_9.jpg",
+    "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_10.jpg",
+    "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_11.jpg",
+    "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_12.jpg",
+    "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_13.jpg",
+    "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_14.jpg",
+    "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_15.jpg",
+    "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_16.jpg",
+    "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_17.jpg"
+  ],
+  "chunks": [
+    {
+      "module_type": "hero",
+      "module_name_suggestion": "kitchen-cabinets-hero",
+      "is_common_module": true,
+      "layout": {
+        "container": "full-width",
+        "type": "flex",
+        "columns": 1,
+        "rows": 1,
+        "gap_horizontal": "0px",
+        "gap_vertical": "30px",
+        "alignment": "left",
+        "direction": "column"
+      },
+      "colors": {
+        "background": "#000000",
+        "primary": "#FF8C00",
+        "secondary": "#FFFFFF",
+        "heading": "#FFFFFF",
+        "text": "#FFFFFF",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "48px",
+        "heading_weight": "700",
+        "body_size": "18px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "0px"
+      },
+      "components": [
+        {
+          "type": "navbar",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "包含logo和导航链接的顶部导航栏"
+        },
+        {
+          "type": "logo",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "页面左上角的George logo"
+        },
+        {
+          "type": "nav-link",
+          "count": 7,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "导航栏中的Products、Projects、Blog、Service、Video、About、Contact链接"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "右上角的Quick Quote按钮，橙色背景，白色文字"
+        },
+        {
+          "type": "heading",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "hero区域的主标题，白色和橙色文字"
+        },
+        {
+          "type": "paragraph",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "hero区域的副标题段落，白色文字"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "hero区域的Get A Free Quote按钮，橙色背景，白色文字"
+        }
+      ],
+      "images": [
+        {
+          "type": "hero-banner",
+          "count": 1,
+          "width": "100%",
+          "height": "auto",
+          "aspect_ratio": "16:9",
+          "position": "背景",
+          "object_fit": "cover",
+          "has_overlay": true,
+          "overlay_color": "rgba(0,0,0,0.3)",
+          "placeholder_suggestion": "厨房场景图片"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Modern kitchen cabinets",
+        "subtitle": "Modern kitchen cabinets instantly elevate your space. Discover stylish designs for a sleek, functional kitchen.",
+        "paragraphs": [
+          "Modern kitchen cabinets instantly elevate your space. Discover stylish designs for a sleek, functional kitchen."
+        ],
+        "button_texts": [
+          "Quick Quote",
+          "Get A Free Quote"
+        ],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板端导航链接可能折叠为汉堡菜单，hero区域标题和按钮保持响应式布局",
+      "content_summary": "展示现代厨房橱柜的主视觉区域，包含标题、描述和行动号召按钮",
+      "special_effects": "hero背景图片可能有淡入效果，按钮 hover 时有颜色变化",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_1.jpg",
+      "chunk_index": 0
+    },
+    {
+      "module_type": "product-grid",
+      "module_name_suggestion": "kitchen-cabinets-product-grid",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 3,
+        "rows": 2,
+        "gap_horizontal": "20px",
+        "gap_vertical": "30px",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#f5f5f5",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "18px",
+        "heading_weight": "700",
+        "body_size": "14px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "50px",
+        "padding_bottom": "50px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "10px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 6,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": true,
+          "has_border": false,
+          "details": "浅灰色背景卡片，包含产品图片、标题和描述，带轻微阴影效果"
+        }
+      ],
+      "images": [
+        {
+          "type": "product",
+          "count": 6,
+          "width": "300px",
+          "height": "200px",
+          "aspect_ratio": "16:9",
+          "position": "网格排列（每行3个，共2行）",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "",
+        "subtitle": "",
+        "paragraphs": [],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Modern Metal Kitchen Cabinets",
+            "description": "Kitchen Metal Cabinets Design Ideas Modern metal kitchen cabinets can complement any kitchen style you..."
+          },
+          {
+            "title": "Modern Wood Veneer Luxury Kitchen Cabinet Design",
+            "description": "Wood Veneer Cabinets Ideas And Inspiration Wood veneer kitchen cabinets have been a fundamental element..."
+          },
+          {
+            "title": "High Gloss Modern Cabinets",
+            "description": "Contemporary High Gloss Kitchen Cabinets When remodeling your kitchen, remember that the finish of your..."
+          },
+          {
+            "title": "2 Tone Modern Kitchen Cabinets",
+            "description": "If you are looking for a mix of traditional and contemporary design, the two-toned cabinet trend is worth..."
+          },
+          {
+            "title": "Melamine Blue Kitchen Cupboard",
+            "description": "Kitchen Cabinet Design Concept The kitchen cabinet in blue-grey with a hint of technology is understated..."
+          },
+          {
+            "title": "Black Melamine L Shape Kitchen Cabinet",
+            "description": "Modern Black Melamine L-shape Kitchen Cabinets Color match An alluring appeal and modern elegance are..."
+          }
+        ]
+      },
+      "responsive_hints": "平板设备显示2列，移动端显示1列",
+      "content_summary": "展示现代厨房橱柜的不同设计类型，包括金属、木皮、高光、双色、蓝色三聚氰胺、黑色L型等6种风格",
+      "special_effects": "卡片 hover 时可能显示阴影增强效果",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_2.jpg",
+      "chunk_index": 1
+    },
+    {
+      "module_type": "image-text",
+      "module_name_suggestion": "kitchen-cabinets-ideas-section",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "left",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#f8f8f8",
+        "primary": "#333333",
+        "secondary": "#666666",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "36px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "0"
+      },
+      "components": [
+        {
+          "type": "image",
+          "count": 1,
+          "width": "450px",
+          "height": "300px",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "左侧现代厨房图片，展示橱柜与吧台设计，无阴影或边框"
+        },
+        {
+          "type": "text",
+          "count": 4,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "右侧文字内容，包含主标题与三段段落，无阴影或边框"
+        }
+      ],
+      "images": [
+        {
+          "type": "content-image",
+          "count": 1,
+          "width": "450px",
+          "height": "300px",
+          "aspect_ratio": "3:2",
+          "position": "左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Modern Kitchen Cabinet Ideas",
+        "paragraphs": [
+          "The days have passed when kitchens were only used for cooking food. In today's society, kitchens are the heart of the household – a space where loved ones come together, companions mingle, and delicious meals are crafted. As the kitchen's significance increases, the demand for a practical and visually appealing space also rises. A crucial factor in achieving this harmony is the contemporary style kitchen cabinets.",
+          "Using contemporary cabinet door designs is one of the best ways to create a modern look. Cabinet doors link the many components of your kitchen or bathroom and are essential in establishing the mood. Your home's style can be improved by using modern cabinet doors.",
+          "This comprehensive guide will explore modern kitchen cabinets in great detail. We will examine their features, advantages, common materials, color fads, personalization choices, and additional information. Upon completion of this article, you will possess the necessary information to transform your kitchen with these beautiful cabinets."
+        ],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备下图片与文字堆叠（1列），移动端图片宽度100%，文字宽度100%",
+      "content_summary": "该区域通过图文混排形式介绍现代厨房橱柜的设计理念与重要性，左侧展示厨房实景图，右侧阐述橱柜在现代厨房中的核心作用及设计趋势",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_3.jpg",
+      "chunk_index": 2
+    },
+    {
+      "module_type": "image-text",
+      "module_name_suggestion": "kitchen-cabinets-ideas",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#f8f8f8",
+        "primary": "#FF8C00",
+        "secondary": "#666666",
+        "heading": "#222222",
+        "text": "#333333",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "36px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "image",
+          "count": 1,
+          "width": "400px",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "左侧厨房场景图片，展示现代橱柜设计，采用cover方式填充，保持16:9比例"
+        },
+        {
+          "type": "text",
+          "count": 4,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "右侧文字区域，包含1个主标题和3个段落，文字颜色为深灰，标题权重加粗"
+        }
+      ],
+      "images": [
+        {
+          "type": "product",
+          "count": 1,
+          "width": "400px",
+          "height": "auto",
+          "aspect_ratio": "16:9",
+          "position": "左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Modern Kitchen Cabinet Ideas",
+        "subtitle": "",
+        "paragraphs": [
+          "The days have passed when kitchens were only used for cooking food. In today’s society, kitchens are the heart of the household – a space where loved ones come together, companions mingle, and delicious meals are crafted. As the kitchen’s significance increases, the demand for a practical and visually appealing space also rises. A crucial factor in achieving this harmony is the contemporary style kitchen cabinets.",
+          "Using contemporary cabinet door designs is one of the best ways to create a modern look. Cabinet doors link the many components of your kitchen or bathroom and are essential in establishing the mood. Your home’s style can be improved by using modern cabinet doors.",
+          "This comprehensive guide will explore modern kitchen cabinets in great detail. We will examine their features, advantages, common materials, color fads, personalization choices, and additional information. Upon completion of this article, you will possess the necessary information to transform your kitchen with these beautiful cabinets."
+        ],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（768px-1024px）显示为1列堆叠布局，移动端（<768px）显示为1列堆叠布局，图片和文字垂直排列",
+      "content_summary": "该区域主要展示现代厨房橱柜的设计理念，解释厨房在现代家庭中的核心地位及现代橱柜对空间实用性与视觉美感的提升作用，为后续内容做铺垫",
+      "special_effects": "图片采用object-fit: cover属性保持比例，文字区域无特殊动画效果",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_4.jpg",
+      "chunk_index": 3
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "modern-design-features",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 3,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "40px",
+        "alignment": "center",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#666666",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "14px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 3,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色卡片，包含橙色图标、标题和描述"
+        }
+      ],
+      "images": [
+        {
+          "type": "image",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "aspect_ratio": "16:9",
+          "position": "右侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Features of Modern Design",
+        "subtitle": "",
+        "paragraphs": [],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Sleek Aesthetics",
+            "description": "A minimalistic style with straight lines that emphasize space."
+          },
+          {
+            "title": "Functional Elegance",
+            "description": "The result of combining style with utility in a design."
+          },
+          {
+            "title": "Natural Light and Open Space",
+            "description": "Increasing the openness of the space by making use of natural light and open floor plans."
+          }
+        ]
+      },
+      "responsive_hints": "平板设备2列，移动端1列",
+      "content_summary": "展示现代设计的三个核心特征：简洁美学、功能优雅、自然光与开放空间",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_5.jpg",
+      "chunk_index": 4
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "modern-design-features",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 3,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "center",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#f5f5f5",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "36px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 3,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色卡片，无阴影，包含图标、标题和描述，排列为水平一行"
+        },
+        {
+          "type": "icon",
+          "count": 3,
+          "width": "40px",
+          "height": "40px",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色图标（星形、网格、太阳），位于卡片顶部"
+        }
+      ],
+      "images": [],
+      "extracted_content": {
+        "main_title": "Features of Modern Design",
+        "subtitle": "",
+        "paragraphs": [],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Sleek Aesthetics",
+            "description": "A minimalistic style with straight lines that emphasize space."
+          },
+          {
+            "title": "Functional Elegance",
+            "description": "The result of combining style with utility in a design."
+          },
+          {
+            "title": "Natural Light and Open Space",
+            "description": "Increasing the openness of the space by making use of natural light and open floor plans."
+          }
+        ]
+      },
+      "responsive_hints": "平板设备下调整为2列布局，移动端设备下调整为1列布局",
+      "content_summary": "该区域主要展示现代设计的三大核心特色：简洁美学、功能优雅、自然光与开放空间",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_6.jpg",
+      "chunk_index": 5
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "kitchen-cabinets-materials-features",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 2,
+        "rows": 2,
+        "gap_horizontal": "30px",
+        "gap_vertical": "30px",
+        "alignment": "center",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#333333",
+        "secondary": "#666666",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "40px",
+        "padding_bottom": "40px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 4,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色卡片，包含材料标题和描述"
+        }
+      ],
+      "images": [
+        {
+          "type": "thumbnail",
+          "count": 0,
+          "width": "auto",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "网格排列",
+          "object_fit": "contain",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "none"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Popular Materials for Modern Design Kitchen Cabinets",
+        "subtitle": "Multiple trendy materials exist for contemporary kitchen cabinet design, each offering distinct advantages and visual attractiveness.",
+        "paragraphs": [
+          "Modern kitchens frequently employ laminate since it's affordable and long-lasting. You can choose from a variety of colors and finishes to personalize the way your space looks.",
+          "Kitchen cabinets made of wood are classic. Modern wooden cabinets usually accentuate wood grain by means of transparent lacquer or stain. Modern kitchens usually call for maple, walnut, and oak cabinets."
+        ],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Laminate",
+            "description": "Modern kitchens frequently employ laminate since it's affordable and long-lasting. You can choose from a variety of colors and finishes to personalize the way your space looks."
+          },
+          {
+            "title": "Wood",
+            "description": "Kitchen cabinets made of wood are classic. Modern wooden cabinets usually accentuate wood grain by means of transparent lacquer or stain. Modern kitchens usually call for maple, walnut, and oak cabinets."
+          }
+        ]
+      },
+      "responsive_hints": "平板2列，移动端1列",
+      "content_summary": "该区域主要展示现代厨房橱柜的流行材料（laminate、wood、acrylic、stainless steel），每个材料介绍其特点和优势",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_7.jpg",
+      "chunk_index": 6
+    },
+    {
+      "module_type": "product-grid",
+      "module_name_suggestion": "kitchen-cabinets-materials-grid",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 2,
+        "gap_horizontal": "30px",
+        "gap_vertical": "30px",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#333333",
+        "secondary": "#666666",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 3,
+          "width": "45%",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "材料卡片，包含标题和描述，无阴影和边框"
+        }
+      ],
+      "images": [
+        {
+          "type": "background",
+          "count": 1,
+          "width": "100%",
+          "height": "300px",
+          "aspect_ratio": "16:9",
+          "position": "左列中间位置",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "厨房场景图片"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "",
+        "subtitle": "",
+        "paragraphs": [],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Acrylic",
+            "description": "Acrylic is known for its shiny, reflective finish and modern appearance. Contemporary kitchen cabinets are in high demand due to their shiny finish, creating the illusion of a bigger space.",
+            "link_text": ""
+          },
+          {
+            "title": "Stainless Steel",
+            "description": "Stainless steel cabinets are popular with people who prefer a minimalist or industrial look. They are resistant to corrosion and stains, long-lasting, and easy to clean.",
+            "link_text": ""
+          },
+          {
+            "title": "Laminate",
+            "description": "Selecting contemporary kitchen cabinets with glass fronting is current. It lets you highlight your best meals and glasses and gives your house a modern look. To get a unique look, it can be used with hardwood cabinets, laminated or lacquered cabinets.",
+            "link_text": ""
+          }
+        ]
+      },
+      "responsive_hints": "平板设备显示2列，移动端设备显示1列",
+      "content_summary": "该区域主要展示现代厨房橱柜的流行材料（Acrylic、Stainless Steel、Laminate），每个材料包含标题和详细描述，中间穿插厨房场景图片",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_8.jpg",
+      "chunk_index": 7
+    },
+    {
+      "module_type": "content-block",
+      "module_name_suggestion": "kitchen-color-trends",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 2,
+        "rows": 2,
+        "gap_horizontal": "20px",
+        "gap_vertical": "30px",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#666666",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "36px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 4,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色背景卡片，左侧配图，右侧文字描述，无阴影无边框"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色背景按钮，白色文字，圆角4px"
+        }
+      ],
+      "images": [
+        {
+          "type": "thumbnail",
+          "count": 4,
+          "width": "300px",
+          "height": "200px",
+          "aspect_ratio": "3:2",
+          "position": "网格排列（2x2，左图右文）",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "kitchen-color-trend"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Kitchen Color Trends In Modern Design",
+        "subtitle": "Color is a key factor in determining the overall appearance and atmosphere of your kitchen area. Popular color trends in contemporary kitchen cabinet design consist of:",
+        "button_texts": [
+          "Consult"
+        ],
+        "card_contents": [
+          {
+            "title": "Neutral Tones",
+            "description": "Neutral colors like white, gray, and beige remain popular in modern kitchen cabinet design, offering a clean and classic foundation for adding touches of color with accessories and appliances."
+          },
+          {
+            "title": "Bold And Dramatic",
+            "description": "Although neutral tones are still a popular choice, kitchens are also increasingly embracing bold and dramatic colors. Consider deep blues, vibrant greens, and even deep shades of purple. These colors can create a bold and surprising focal point when used on your kitchen cabinets."
+          },
+          {
+            "title": "Two-Tone",
+            "description": "The two-tone look is another popular color choice in modern kitchens. This involves giving your upper and lower cabinets two distinct hues to provide visual interest and depth in your space."
+          },
+          {
+            "title": "Natural Wood",
+            "description": "As said before, natural wood finishes are favored a lot in modern kitchen cabinet designs. This style emphasizes the inherent beauty of wood grain, allowing the material to take center stage in your kitchen."
+          }
+        ]
+      },
+      "responsive_hints": "平板设备（768px以上）显示2列网格布局，移动设备（768px以下）显示1列垂直排列",
+      "content_summary": "该区域主要展示现代厨房橱柜设计的四种流行颜色趋势（中性色调、大胆戏剧色、双色、自然木色），每种趋势通过图片与文字说明结合呈现",
+      "special_effects": "无动态效果，静态图文展示",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_9.jpg",
+      "chunk_index": 8
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "customizing-kitchen-cabinets",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 2,
+        "gap_horizontal": "30px",
+        "gap_vertical": "40px",
+        "alignment": "space-between",
+        "direction": "column"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#f0f0f0",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "36px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "image",
+          "count": 1,
+          "width": "400px",
+          "height": "240px",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "左侧内容图片，展示团队或场景，用于图文混排"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "120px",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色按钮，文字为Consult"
+        },
+        {
+          "type": "card",
+          "count": 2,
+          "width": "48%",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": true,
+          "has_border": false,
+          "details": "白色卡片，包含标题和描述，用于展示定制选项"
+        }
+      ],
+      "images": [
+        {
+          "type": "content-image",
+          "count": 1,
+          "width": "400px",
+          "height": "240px",
+          "aspect_ratio": "4:3",
+          "position": "左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Customizing Modern Design Kitchen Cabinets",
+        "subtitle": "",
+        "paragraphs": [
+          "Modern kitchen cabinets have the benefit of being customizable to fit your unique needs and style thanks to their flexibility. Several often selected customisation options include:"
+        ],
+        "button_texts": [
+          "Consult"
+        ],
+        "card_contents": [
+          {
+            "title": "Hardware",
+            "description": "The hardware a modern kitchen chooses can have a big impact on how the room looks overall. For a sleek",
+            "link_text": ""
+          },
+          {
+            "title": "Cabinet Organization",
+            "description": "Adding pull-out shelves, drawer organizers, and other storage solutions to your contemporary kitchen cabinets",
+            "link_text": ""
+          }
+        ]
+      },
+      "responsive_hints": "平板设备下，卡片变为1列；移动端图文混排变为垂直排列，卡片1列",
+      "content_summary": "该区域主要展示现代厨房橱柜的定制选项，包括硬件和橱柜组织等特色功能",
+      "special_effects": "按钮 hover 时可能有颜色加深效果，卡片 hover 时有阴影变化",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_10.jpg",
+      "chunk_index": 9
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "kitchen-cabinets-customization-features",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 2,
+        "rows": 3,
+        "gap_horizontal": "20px",
+        "gap_vertical": "20px",
+        "alignment": "left",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#ff8c00",
+        "secondary": "#f0f0f0",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 6,
+          "width": "300px",
+          "height": "200px",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色卡片，包含图片和文字，展示厨房定制选项"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "150px",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色按钮，文字为'Consult'"
+        }
+      ],
+      "images": [
+        {
+          "type": "thumbnail",
+          "count": 6,
+          "width": "300px",
+          "height": "200px",
+          "aspect_ratio": "3:2",
+          "position": "卡片左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Customizing Modern Design Kitchen Cabinets",
+        "subtitle": "Modern kitchen cabinets have the benefit of being customizable to fit your unique needs and style thanks to their flexibility. Several often selected customisation options include:",
+        "paragraphs": [],
+        "button_texts": [
+          "Consult"
+        ],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Hardware",
+            "description": "The hardware a modern kitchen chooses can have a big impact on how the room looks overall. For a sleek and contemporary style, go with bar pulls or flat, integrated handles, two examples of contemporary, straightforward hardware.",
+            "link_text": ""
+          },
+          {
+            "title": "Cabinet Organization",
+            "description": "Adding pull-out shelves, drawer organizers, and other storage solutions to your contemporary kitchen cabinets can significantly improve their functionality, maximizing your cabinet space.",
+            "link_text": ""
+          },
+          {
+            "title": "Open Shelves",
+            "description": "Open shelves are a trendy choice for contemporary kitchen cabinets, allowing you to showcase your favorite dishes and glassware while creating a more spacious and airy atmosphere in your kitchen.",
+            "link_text": ""
+          },
+          {
+            "title": "Lighting",
+            "description": "Adding lighting to your modern kitchen design can enhance both the functionality and aesthetic appeal of your space. Think about installing under-cabinet lighting to brighten up your countertops, or include internal cabinet lighting to display glass-front cabinets.",
+            "link_text": ""
+          },
+          {
+            "title": "Mix And Match Materials",
+            "description": "Mix various materials, like wood and acrylic, for an original and visually appealing kitchen layout.",
+            "link_text": ""
+          },
+          {
+            "title": "Go Bold With Color",
+            "description": "Do not hesitate to integrate vibrant and striking colors in your contemporary style kitchen cabinets. It",
+            "link_text": ""
+          }
+        ]
+      },
+      "responsive_hints": "平板设备2列，移动端1列",
+      "content_summary": "该区域展示厨房定制的主要选项，包括硬件、收纳、开放式架子、灯光、混合材料和大胆用色等特色",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_11.jpg",
+      "chunk_index": 10
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "kitchen-cabinets-customization-options",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 2,
+        "rows": 3,
+        "gap_horizontal": "20px",
+        "gap_vertical": "30px",
+        "alignment": "left",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#f0f0f0",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "600",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "10px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 6,
+          "width": "570px",
+          "height": "250px",
+          "border_radius": "8px",
+          "has_shadow": true,
+          "has_border": false,
+          "details": "白色卡片，带轻微阴影，左侧显示图片，右侧显示标题和描述文字"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "150px",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色背景按钮，白色文字，位于标题下方"
+        }
+      ],
+      "images": [
+        {
+          "type": "thumbnail",
+          "count": 6,
+          "width": "300px",
+          "height": "200px",
+          "aspect_ratio": "3:2",
+          "position": "卡片左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Customizing Modern Design Kitchen Cabinets",
+        "subtitle": "Modern kitchen cabinets have the benefit of being customizable to fit your unique needs and style thanks to their flexibility. Several often selected customisation options include:",
+        "paragraphs": [
+          "The hardware a modern kitchen chooses can have a big impact on how the room looks overall. For a sleek and contemporary style, go with bar pulls or flat, integrated handles, two examples of contemporary, straightforward hardware.",
+          "Adding pull-out shelves, drawer organizers, and other storage solutions to your contemporary kitchen cabinets can significantly improve their functionality, maximizing your cabinet space.",
+          "Open shelves are a trendy choice for contemporary kitchen cabinets, allowing you to showcase your favorite dishes and glassware while creating a more spacious and airy atmosphere in your kitchen.",
+          "Adding lighting to your modern kitchen design can enhance both the functionality and aesthetic appeal of your space. Think about installing under-cabinet lighting to brighten up your countertops, or include internal cabinet lighting to display glass-front cabinets.",
+          "Mix various materials, like wood and acrylic, for an original and visually appealing kitchen layout.",
+          "Do not hesitate to integrate vibrant and striking colors in your contemporary style kitchen cabinets. It has the ability to make a bold focal point and bring character to your area."
+        ],
+        "button_texts": [
+          "Consult"
+        ],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Hardware",
+            "description": "The hardware a modern kitchen chooses can have a big impact on how the room looks overall. For a sleek and contemporary style, go with bar pulls or flat, integrated handles, two examples of contemporary, straightforward hardware.",
+            "link_text": ""
+          },
+          {
+            "title": "Cabinet Organization",
+            "description": "Adding pull-out shelves, drawer organizers, and other storage solutions to your contemporary kitchen cabinets can significantly improve their functionality, maximizing your cabinet space.",
+            "link_text": ""
+          },
+          {
+            "title": "Open Shelves",
+            "description": "Open shelves are a trendy choice for contemporary kitchen cabinets, allowing you to showcase your favorite dishes and glassware while creating a more spacious and airy atmosphere in your kitchen.",
+            "link_text": ""
+          },
+          {
+            "title": "Lighting",
+            "description": "Adding lighting to your modern kitchen design can enhance both the functionality and aesthetic appeal of your space. Think about installing under-cabinet lighting to brighten up your countertops, or include internal cabinet lighting to display glass-front cabinets.",
+            "link_text": ""
+          },
+          {
+            "title": "Mix And Match Materials",
+            "description": "Mix various materials, like wood and acrylic, for an original and visually appealing kitchen layout.",
+            "link_text": ""
+          },
+          {
+            "title": "Go Bold With Color",
+            "description": "Do not hesitate to integrate vibrant and striking colors in your contemporary style kitchen cabinets. It has the ability to make a bold focal point and bring character to your area.",
+            "link_text": ""
+          }
+        ]
+      },
+      "responsive_hints": "平板设备显示2列，移动端设备显示1列，按钮在小屏幕下全宽显示",
+      "content_summary": "展示现代厨房橱柜的6种定制选项，包括硬件、储物组织、开放式搁架、照明、材料混合及大胆用色，每个选项通过图片和文字说明其特点和优势",
+      "special_effects": "卡片 hover 时轻微阴影加深，按钮 hover 时背景色变深",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_12.jpg",
+      "chunk_index": 11
+    },
+    {
+      "module_type": "features-service",
+      "module_name_suggestion": "kitchen-cabinets-design-tips",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 2,
+        "rows": 3,
+        "gap_horizontal": "20px",
+        "gap_vertical": "40px",
+        "alignment": "left",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#f8f8f8",
+        "primary": "#FF8C00",
+        "secondary": "#ffffff",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "#e0e0e0"
+      },
+      "typography": {
+        "heading_size": "36px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 6,
+          "width": "580px",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": true,
+          "has_border": false,
+          "details": "白色卡片，带轻微阴影，包含图片和文字内容"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "150px",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色背景按钮，白色文字，居中显示"
+        }
+      ],
+      "images": [
+        {
+          "type": "thumbnail",
+          "count": 7,
+          "width": "300px",
+          "height": "200px",
+          "aspect_ratio": "3:2",
+          "position": "卡片左侧/CTA左侧/网格排列",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Tips for Choosing the Perfect Modern Kitchen Cabinets",
+        "subtitle": "Consider the following ideas when choosing modern kitchen cabinets for your area:",
+        "paragraphs": [
+          "Mix various materials, like wood and acrylic, for an original and visually appealing kitchen layout.",
+          "Do not hesitate to integrate vibrant and striking colors in your contemporary style kitchen cabinets. It has the ability to make a bold focal point and bring character to your area.",
+          "It's crucial to consider your unique requirements and preferences before choosing cabinets. Think about how you'll use your kitchen and rank the essential features and capabilities.",
+          "It's essential to choose long-lasting, high-quality materials for contemporary kitchen cabinets.",
+          "Consider your budget when choosing your cabinets. There is a wide range of modern kitchen cabinet choices in various price ranges, ensuring you will find a design that suits both your requirements and budget.",
+          "Consider consulting a professional designer if you are having trouble selecting the perfect modern cabinets. They can help you through the steps of measurement, design, and installation so that you can be confident your final decision will satisfy you in the long run."
+        ],
+        "button_texts": [
+          "Consult"
+        ],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Mix And Match Materials",
+            "description": "Mix various materials, like wood and acrylic, for an original and visually appealing kitchen layout.",
+            "link_text": ""
+          },
+          {
+            "title": "Go Bold With Color",
+            "description": "Do not hesitate to integrate vibrant and striking colors in your contemporary style kitchen cabinets. It has the ability to make a bold focal point and bring character to your area.",
+            "link_text": ""
+          },
+          {
+            "title": "Assess Your Needs:",
+            "description": "It's crucial to consider your unique requirements and preferences before choosing cabinets. Think about how you'll use your kitchen and rank the essential features and capabilities.",
+            "link_text": ""
+          },
+          {
+            "title": "Select Top-Notch Materials:",
+            "description": "It's essential to choose long-lasting, high-quality materials for contemporary kitchen cabinets.",
+            "link_text": ""
+          },
+          {
+            "title": "Consider Your Budget:",
+            "description": "Consider your budget when choosing your cabinets. There is a wide range of modern kitchen cabinet choices in various price ranges, ensuring you will find a design that suits both your requirements and budget.",
+            "link_text": ""
+          },
+          {
+            "title": "Consult With A Professional:",
+            "description": "Consider consulting a professional designer if you are having trouble selecting the perfect modern cabinets. They can help you through the steps of measurement, design, and installation so that you can be confident your final decision will satisfy you in the long run.",
+            "link_text": ""
+          }
+        ]
+      },
+      "responsive_hints": "桌面端2列（前2个卡片）/1列（CTA）/4列（后4个卡片），平板端2列/1列/2列，移动端1列/1列/1列",
+      "content_summary": "该区域主要展示现代厨房橱柜的设计建议，包括材料混搭、色彩运用、需求评估、材料选择、预算考虑及专业咨询等内容，通过图文卡片和CTA按钮引导用户获取更多帮助",
+      "special_effects": "卡片 hover 时轻微阴影加深，按钮 hover 时背景色变深",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_13.jpg",
+      "chunk_index": 12
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "kitchen-cabinets-features",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 4,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#f8f8f8",
+        "primary": "#FF8C00",
+        "secondary": "#ffffff",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 4,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "浅灰色背景卡片，包含标题和段落文本，展示厨房橱柜选择的四个建议"
+        }
+      ],
+      "images": [
+        {
+          "type": "thumbnail",
+          "count": 4,
+          "width": "300px",
+          "height": "200px",
+          "aspect_ratio": "4:3",
+          "position": "网格排列，每个卡片左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "",
+        "subtitle": "",
+        "paragraphs": [
+          "It's crucial to consider your unique requirements and preferences before choosing cabinets. Think about how you'll use your kitchen and rank the essential features and capabilities.",
+          "It's essential to choose long-lasting, high-quality materials for contemporary kitchen cabinets.",
+          "Consider your budget when choosing your cabinets. There is a wide range of modern kitchen cabinet choices in various price ranges, ensuring you will find a design that suits both your requirements and budget.",
+          "Consider consulting a professional designer if you are having trouble selecting the perfect modern cabinets. They can help you through the steps of measurement, design, and installation so that you can be confident your final decision will satisfy you in the long run."
+        ],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Assess Your Needs:",
+            "description": "It's crucial to consider your unique requirements and preferences before choosing cabinets. Think about how you'll use your kitchen and rank the essential features and capabilities.",
+            "link_text": ""
+          },
+          {
+            "title": "Select Top-Notch Materials:",
+            "description": "It's essential to choose long-lasting, high-quality materials for contemporary kitchen cabinets.",
+            "link_text": ""
+          },
+          {
+            "title": "Consider Your Budget:",
+            "description": "Consider your budget when choosing your cabinets. There is a wide range of modern kitchen cabinet choices in various price ranges, ensuring you will find a design that suits both your requirements and budget.",
+            "link_text": ""
+          },
+          {
+            "title": "Consult With A Professional:",
+            "description": "Consider consulting a professional designer if you are having trouble selecting the perfect modern cabinets. They can help you through the steps of measurement, design, and installation so that you can be confident your final decision will satisfy you in the long run.",
+            "link_text": ""
+          }
+        ]
+      },
+      "responsive_hints": "平板设备下可能调整为2列，移动端1列",
+      "content_summary": "展示选择现代厨房橱柜的四个关键建议：评估需求、选择优质材料、考虑预算、咨询专业人士",
+      "special_effects": "无特殊动画效果，hover时可能无变化或轻微阴影",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_14.jpg",
+      "chunk_index": 13
+    },
+    {
+      "module_type": "contact-form",
+      "module_name_suggestion": "contact-form-section",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "center",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#666666",
+        "secondary": "#f5f5f5",
+        "heading": "#000000",
+        "text": "#333333",
+        "border": "#e0e0e0"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "40px",
+        "padding_bottom": "40px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "15px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "image",
+          "count": 1,
+          "width": "200px",
+          "height": "200px",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "左侧Product Manager头像图片，黑色上衣，白色背景"
+        },
+        {
+          "type": "text",
+          "count": 2,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "左侧标题和副标题文字"
+        },
+        {
+          "type": "input",
+          "count": 4,
+          "width": "100%",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "Name、Email、Tel/Whatsapp、City输入框，白色背景，浅灰色边框"
+        },
+        {
+          "type": "select",
+          "count": 1,
+          "width": "100%",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "Country-Select选择框"
+        },
+        {
+          "type": "checkbox",
+          "count": 10,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "Product Needed复选框，包括Kitchen cabinet、Bedroom、Bathroom、Windows & Doors、Furniture、Lighting、Soft Furnishing、Tiles and Wood Flooring、Whole House Solution、Other Building Material"
+        },
+        {
+          "type": "textarea",
+          "count": 1,
+          "width": "100%",
+          "height": "120px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "Message文本框"
+        },
+        {
+          "type": "button",
+          "count": 2,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "Choose File按钮（灰色）和Send按钮（灰色）"
+        }
+      ],
+      "images": [
+        {
+          "type": "avatar",
+          "count": 1,
+          "width": "200px",
+          "height": "200px",
+          "aspect_ratio": "1:1",
+          "position": "左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "product-manager-avatar"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Want to Get Best Price Kitchen Cabinets?",
+        "subtitle": "Share floor plan or house photos for 8-hour quote",
+        "paragraphs": [],
+        "button_texts": [
+          "Choose File",
+          "Send"
+        ],
+        "list_items": [
+          {
+            "title": "Product Needed*",
+            "description": "Kitchen cabinet, Bedroom, Bathroom, Windows & Doors, Furniture, Lighting, Soft Furnishing, Tiles and Wood Flooring, Whole House Solution, Other Building Material"
+          }
+        ],
+        "card_contents": []
+      },
+      "responsive_hints": "平板端可能改为1列布局，移动端表单元素堆叠显示",
+      "content_summary": "该区域是联系表单，用于用户提交项目详情获取报价，包含Product Manager头像、表单标题、输入框、选择框、复选框、文本框和提交按钮",
+      "special_effects": "无明显的动画或渐变效果，表单元素有常规的焦点状态",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_15.jpg",
+      "chunk_index": 14
+    },
+    {
+      "module_type": "contact-form",
+      "module_name_suggestion": "kitchen-cabinets-quote-form",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0px",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#666666",
+        "secondary": "#f8f8f8",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "#dddddd"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "50px",
+        "padding_bottom": "50px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "15px"
+      },
+      "components": [
+        {
+          "type": "image",
+          "count": 1,
+          "width": "200px",
+          "height": "200px",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "左侧展示的Product Manager头像图片，圆形/方形圆角，位于模块左侧"
+        },
+        {
+          "type": "input",
+          "count": 5,
+          "width": "100%",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "表单中的输入框，包括Name、Email、Tel/Whatsapp、City、Country-Select，边框为浅灰色"
+        },
+        {
+          "type": "checkbox",
+          "count": 10,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "Product Needed选项的复选框，包括Kitchen cabinet、Bedroom等10个选项，排列为两行"
+        },
+        {
+          "type": "textarea",
+          "count": 1,
+          "width": "100%",
+          "height": "120px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "Message文本框，多行输入，边框为浅灰色"
+        },
+        {
+          "type": "button",
+          "count": 2,
+          "width": "100%",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "表单中的按钮，包括Choose File（文件选择）和Send（提交）按钮，背景为灰色"
+        }
+      ],
+      "images": [
+        {
+          "type": "avatar",
+          "count": 1,
+          "width": "200px",
+          "height": "200px",
+          "aspect_ratio": "1:1",
+          "position": "左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Want to Get Best Price Kitchen Cabinets?",
+        "subtitle": "Share floor plan or house photos for 8-hour quote",
+        "paragraphs": [],
+        "button_texts": [
+          "Send",
+          "Choose File"
+        ],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备显示为2列布局（图片+表单），移动端设备显示为1列布局（图片在上，表单在下）",
+      "content_summary": "该区域主要展示获取厨房橱柜报价的表单，用户可提交项目详情、联系方式及产品需求，以获取8小时内的报价",
+      "special_effects": "表单输入框聚焦时边框变为蓝色，按钮hover时背景色加深",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_16.jpg",
+      "chunk_index": 15
+    },
+    {
+      "module_type": "footer",
+      "module_name_suggestion": "footer-section",
+      "is_common_module": true,
+      "layout": {
+        "container": "full-width",
+        "type": "grid",
+        "columns": 4,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "left",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#000000",
+        "primary": "#666666",
+        "secondary": "#ffffff",
+        "heading": "#ffffff",
+        "text": "#ffffff",
+        "border": "#333333"
+      },
+      "typography": {
+        "heading_size": "18px",
+        "heading_weight": "700",
+        "body_size": "14px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "0"
+      },
+      "components": [
+        {
+          "type": "text",
+          "count": 22,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色文字链接，包括Products、One-Stop Solutions、Customer Services列下的导航链接及Contact Us列下的文字内容"
+        },
+        {
+          "type": "form",
+          "count": 2,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "白色边框输入框，包含Whatsapp和Email字段"
+        },
+        {
+          "type": "button",
+          "count": 2,
+          "width": "100%",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "灰色背景按钮，包含Send文字"
+        }
+      ],
+      "images": [],
+      "extracted_content": {
+        "main_title": "Products, One-Stop Solutions, Customer Services, Contact Us",
+        "subtitle": "",
+        "paragraphs": [
+          "Share floor plan or house photos for 8-hour quote"
+        ],
+        "button_texts": [
+          "Send",
+          "Send"
+        ],
+        "list_items": [
+          {
+            "title": "Kitchen Cabinet",
+            "description": ""
+          },
+          {
+            "title": "Wardrobe",
+            "description": ""
+          },
+          {
+            "title": "Windows and Doors",
+            "description": ""
+          },
+          {
+            "title": "Bathroom",
+            "description": ""
+          },
+          {
+            "title": "Wood Flooring",
+            "description": ""
+          },
+          {
+            "title": "More Furniture",
+            "description": ""
+          },
+          {
+            "title": "Whole-house Design",
+            "description": ""
+          },
+          {
+            "title": "Hotel Solutions",
+            "description": ""
+          },
+          {
+            "title": "Resort Solutions",
+            "description": ""
+          },
+          {
+            "title": "Villa Solutions",
+            "description": ""
+          },
+          {
+            "title": "Apartment Solutions",
+            "description": ""
+          },
+          {
+            "title": "Office Solutions",
+            "description": ""
+          },
+          {
+            "title": "CUSTOMER SERVICES",
+            "description": ""
+          },
+          {
+            "title": "Measurement Guidance",
+            "description": ""
+          },
+          {
+            "title": "Packaging Info",
+            "description": ""
+          },
+          {
+            "title": "Delivery & Shipment",
+            "description": ""
+          },
+          {
+            "title": "After Sales",
+            "description": ""
+          },
+          {
+            "title": "Production Time",
+            "description": ""
+          },
+          {
+            "title": "FAQ",
+            "description": ""
+          },
+          {
+            "title": "info@georgeconstructions.com",
+            "description": ""
+          },
+          {
+            "title": "+8613302843203",
+            "description": ""
+          },
+          {
+            "title": "+8613302843203",
+            "description": ""
+          },
+          {
+            "title": "Don't miss our future updates! Get Subscribed Today!",
+            "description": ""
+          }
+        ],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备下调整为2列，移动端调整为1列",
+      "content_summary": "页面底部导航栏，包含产品分类、一站式解决方案、客户服务及联系方式，提供订阅功能",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/modern-kitchen-cabinets_pixel_17.jpg",
+      "chunk_index": 16
+    }
+  ]
+}

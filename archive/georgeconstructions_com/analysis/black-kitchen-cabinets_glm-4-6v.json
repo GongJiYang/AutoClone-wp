@@ -1,0 +1,2151 @@
+{
+  "url": "https://georgeconstructions.com/black-kitchen-cabinets/",
+  "title": "Black Kitchens & Kitchen Cabinets: The Complete Guide",
+  "total_height": 14864,
+  "method": "pixel",
+  "vision_model": "glm-4.6v",
+  "screenshots": [
+    "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_1.jpg",
+    "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_2.jpg",
+    "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_3.jpg",
+    "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_4.jpg",
+    "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_5.jpg",
+    "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_6.jpg",
+    "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_7.jpg",
+    "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_8.jpg",
+    "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_9.jpg",
+    "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_10.jpg",
+    "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_11.jpg",
+    "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_12.jpg",
+    "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_13.jpg",
+    "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_14.jpg",
+    "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_15.jpg",
+    "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_16.jpg",
+    "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_17.jpg",
+    "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_18.jpg",
+    "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_19.jpg",
+    "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_20.jpg"
+  ],
+  "chunks": [
+    {
+      "module_type": "hero",
+      "module_name_suggestion": "black-kitchen-cabinets-hero",
+      "is_common_module": true,
+      "layout": {
+        "container": "full-width",
+        "type": "flex",
+        "columns": 1,
+        "rows": 1,
+        "gap_horizontal": "0",
+        "gap_vertical": "0",
+        "alignment": "center",
+        "direction": "column"
+      },
+      "colors": {
+        "background": "#333333",
+        "primary": "#FF8C00",
+        "secondary": "#ffffff",
+        "heading": "#ffffff",
+        "text": "#e0e0e0",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "48px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "100px",
+        "padding_bottom": "100px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "0"
+      },
+      "components": [
+        {
+          "type": "navbar",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "顶部导航栏，包含logo、7个导航链接（Products/Projects/Blog/Service/Video/About/Contact）和1个橙色按钮（Quick Quote）"
+        },
+        {
+          "type": "heading",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "主标题'Black Kitchen Cabinets'，白色，加粗700"
+        },
+        {
+          "type": "paragraph",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "副标题'Custom Black Kitchen Cabinets Design Gallery'，白色，字体大小略小于主标题"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色背景，黑色文字，'Download Catalogues'"
+        }
+      ],
+      "images": [
+        {
+          "type": "hero-banner",
+          "count": 1,
+          "width": "100%",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "居中",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Black Kitchen Cabinets",
+        "subtitle": "Custom Black Kitchen Cabinets Design Gallery",
+        "paragraphs": [
+          "Black kitchen cabinets are starting to resurfaced in kitchen design since they look modern and elegant. George Group can help you choose the best match for your idea whether you are building a kitchen from scratch or renovating your residence."
+        ],
+        "button_texts": [
+          "Quick Quote",
+          "Download Catalogues"
+        ],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，导航栏改为汉堡菜单，hero内容垂直居中；移动端（≤480px）主标题字体缩小至36px，按钮文字简化为'Quote'",
+      "content_summary": "页面顶部hero区域，核心展示黑色厨房橱柜主题，包含导航栏、主视觉背景、标题、描述及行动按钮",
+      "special_effects": "按钮hover时背景色加深至#E67300，导航链接hover时下划线效果",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_1.jpg",
+      "chunk_index": 0
+    },
+    {
+      "module_type": "product-grid",
+      "module_name_suggestion": "black-kitchen-cabinets-grid",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 3,
+        "rows": 2,
+        "gap_horizontal": "30px",
+        "gap_vertical": "30px",
+        "alignment": "center",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#f8f8f8",
+        "heading": "#222222",
+        "text": "#333333",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "18px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.4"
+      },
+      "spacing": {
+        "padding_top": "50px",
+        "padding_bottom": "50px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 6,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "浅灰色背景卡片，显示黑色厨房橱柜相关主题标题，无图片，文字居中"
+        }
+      ],
+      "images": [],
+      "extracted_content": {
+        "main_title": "",
+        "subtitle": "",
+        "paragraphs": [],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Kitchen Colors With Black Cabinets",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Black And White Kitchen Cabinets",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Modern Design Cabinet Kitchen Black Splash",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Black Kitchen Cabinet Hardware",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Bronze And Black Metal Kitchen Cabinets",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Farmhouse Black Kitchen Cabinets",
+            "description": "",
+            "link_text": ""
+          }
+        ]
+      },
+      "responsive_hints": "平板设备（≤768px）下，网格改为2列；移动端（≤480px）改为1列，卡片宽度占满",
+      "content_summary": "页面中部展示黑色厨房橱柜的不同设计主题，以3列2行的网格形式排列，每个卡片包含一个相关主题标题",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_2.jpg",
+      "chunk_index": 1
+    },
+    {
+      "module_type": "content-block",
+      "module_name_suggestion": "black-kitchen-advantages",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#222222",
+        "secondary": "#333333",
+        "heading": "#222222",
+        "text": "#333333",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "0"
+      },
+      "components": [
+        {
+          "type": "heading",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "主标题'Advantages of a Black Kitchen'，深灰色（#222222），加粗700"
+        },
+        {
+          "type": "paragraph",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "正文段落，描述黑色厨房的流行趋势及设计变化"
+        },
+        {
+          "type": "list",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "无序列表，包含3个优势点，每个点以圆点标记"
+        },
+        {
+          "type": "image",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "左侧黑色厨房实景图，展示现代黑色橱柜设计"
+        }
+      ],
+      "images": [
+        {
+          "type": "image-text",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Advantages of a Black Kitchen",
+        "subtitle": "",
+        "paragraphs": [
+          "The more people work remotely, people want stylish and inspirational home design. This also relates to the kitchen, which is gradually evolving into the hub of the apartment or house and a social venue. As such, interior lighting choices and whole home designs have changed. Many would have probably decided not to have a black kitchen a few years ago since dark furniture sometimes makes one feel as though they are in smaller space. There are many lighting alternatives available nowadays to make a dark environment cosy, fashionable."
+        ],
+        "button_texts": [],
+        "list_items": [
+          {
+            "title": "Black kitchens can be both modern and traditional at once.",
+            "description": ""
+          },
+          {
+            "title": "Black is neutral thus it goes great with any hue.",
+            "description": ""
+          },
+          {
+            "title": "Anthracite kitchens seem smart, unique, and polished.",
+            "description": ""
+          }
+        ],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，图片与文字改为单列布局，图片占满宽度；移动端（≤480px）文字居中显示，图片宽度调整为100%",
+      "content_summary": "页面中部内容块，通过图文混排展示黑色厨房的优势，包含主标题、正文段落及优势列表",
+      "special_effects": "无特殊动画效果，图片与文字保持静态布局",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_3.jpg",
+      "chunk_index": 2
+    },
+    {
+      "module_type": "content-block",
+      "module_name_suggestion": "black-kitchen-advantages",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#000000",
+        "secondary": "#666666",
+        "heading": "#222222",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "50px",
+        "padding_bottom": "50px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "heading",
+          "count": 2,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "两个主标题，分别为\"Matt vs. Glossy Black Kitchens?\"和\"Advantages of a Black Kitchen\"，深灰色（#222222），加粗700"
+        },
+        {
+          "type": "paragraph",
+          "count": 2,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "两个段落，分别描述哑光与光泽黑色厨房的对比及黑色厨房的优势"
+        },
+        {
+          "type": "list",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "无序列表，包含5个优势点，如\"Black kitchens can be both modern and traditional at once.\""
+        },
+        {
+          "type": "image",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "左侧展示黑色厨房的图片，包含橱柜、台面和装饰元素"
+        }
+      ],
+      "images": [
+        {
+          "type": "product",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "aspect_ratio": "16:9",
+          "position": "左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Matt vs. Glossy Black Kitchens?",
+        "subtitle": "",
+        "paragraphs": [
+          "his decision mostly comes from personal tastes. While glossy black kitchens are attractive and stylish because of their shining surfaces, matte kitchen fronts lack reflectiveness and so create a warmer ambiance. Between the two, lifestyle is quite important; shiny kitchens are usually simpler to clean; conversely, on matte surfaces scratches are usually less apparent. Matte kitchens could be the better choice if little children are playing in the kitchen since they show less wear. But when choosing between a matte or glossy black kitchen, your own preferences and needs mostly determine it.",
+          "The more people work remotely, people want stylish and inspirational home design. This also relates to the kitchen, which is gradually evolving into the hub of the apartment or house and a social venue. As such, interior lighting choices and whole home designs have changed. Many would have probably decided not to have a black kitchen a few years ago since dark furniture sometimes makes one feel as though they are in smaller space. There are many lighting alternatives available nowadays to make a dark environment cosy, fashionable."
+        ],
+        "button_texts": [],
+        "list_items": [
+          {
+            "title": "Black kitchens can be both modern and traditional at once.",
+            "description": ""
+          },
+          {
+            "title": "Black is neutral thus it goes great with any hue.",
+            "description": ""
+          },
+          {
+            "title": "Anthracite kitchens seem smart, unique, and polished.",
+            "description": ""
+          },
+          {
+            "title": "Dark surfaces help to hide stains.",
+            "description": ""
+          },
+          {
+            "title": "Black kitchens can fit very naturally into the living space with open living plans.",
+            "description": ""
+          },
+          {
+            "title": "Every interior design is complemented in anthracite kitchen.",
+            "description": ""
+          }
+        ],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，布局改为单列，图片占满宽度（100%），文字内容置于图片下方；移动端（≤480px）列表项字体缩小至14px",
+      "content_summary": "页面中部展示黑色厨房的对比（哑光vs光泽）及优势，通过图文混排形式呈现，包含标题、对比段落、优势列表和产品图片",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_4.jpg",
+      "chunk_index": 3
+    },
+    {
+      "module_type": "content-block",
+      "module_name_suggestion": "black-wood-kitchen-design",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#333333",
+        "heading": "#222222",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "0"
+      },
+      "components": [
+        {
+          "type": "heading",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "主标题'Black & Wood Kitchen Design'，深灰色（#222222），加粗700"
+        },
+        {
+          "type": "paragraph",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "一段文字，描述木台面在开放式厨房中的适用性及维护注意事项"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色背景（#FF8C00），白色文字，'Get a Free Quote'"
+        }
+      ],
+      "images": [
+        {
+          "type": "product",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "右侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Black & Wood Kitchen Design",
+        "subtitle": "",
+        "paragraphs": [
+          "Especially if your kitchen is meant to be an open room connecting to other spaces, wood counters might be a great option. An important component of Scandinavian design, the warm colors give the room a soothing, inviting aura. Choosing the same wood for the countertop as for the dining table is smart in many contexts. This creates a room concept with self-sufficiency. Choosing wood for a workstation or tabletop depends critically on the material being treated extensively before to use. A properly oiled wood countertop may be cleaned almost as easily as a ceramic one. Still, be advised that especially rustic wood needs to be re-oiled after few years to retain its quality. Moreover, you have to use cleaning agents designed especially for wood only."
+        ],
+        "button_texts": [
+          "Get a Free Quote"
+        ],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，主内容区域改为单列布局，图片占满宽度；移动端（≤480px）按钮文字保持不变",
+      "content_summary": "展示黑木厨房设计的特色，重点介绍木台面在开放式厨房中的应用优势及维护要点，包含行动号召按钮",
+      "special_effects": "按钮hover时背景色加深至#E67300",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_5.jpg",
+      "chunk_index": 4
+    },
+    {
+      "module_type": "image-text",
+      "module_name_suggestion": "black-kitchens-marble-countertops",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#333333",
+        "heading": "#222222",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "0"
+      },
+      "components": [
+        {
+          "type": "image",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "左侧展示黑色厨房大理石台面的实景图片，占据布局左侧50%宽度"
+        },
+        {
+          "type": "heading",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "主标题'Black Kitchens with Marble Countertops'，深灰色（#222222），加粗700"
+        },
+        {
+          "type": "paragraph",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "描述大理石台面的选择建议，浅色大理石与黑色大理石的不同效果"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色背景（#FF8C00），白色文字，'Get a Free Quote'"
+        }
+      ],
+      "images": [
+        {
+          "type": "product",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Black Kitchens with Marble Countertops",
+        "subtitle": "",
+        "paragraphs": [
+          "You can choose two: Choosing a pale marble countertop guarantees a classic contrast. The chosen color might be a guide for the flooring choice as well as the wall color. Choosing a black marble countertop will produce a very simple and dramatic look that will let more freedom in your floor and wall decorations."
+        ],
+        "button_texts": [
+          "Get a Free Quote"
+        ],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，图文布局改为单列，图片占满宽度；移动端（≤480px）按钮文字保持不变，图片高度自适应",
+      "content_summary": "页面中部展示黑色厨房大理石台面的设计选项，包含实景图片、选择建议及行动号召按钮",
+      "special_effects": "按钮hover时背景色加深至#E67300",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_6.jpg",
+      "chunk_index": 5
+    },
+    {
+      "module_type": "image-text",
+      "module_name_suggestion": "black-kitchens-colored-countertops",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#333333",
+        "heading": "#222222",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "28px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "heading",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "主标题'Black Kitchens with Colored Countertops'，深灰色（#222222），加粗700"
+        },
+        {
+          "type": "paragraph",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "段落描述黑色厨房的彩色台面设计可能性"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色背景（#FF8C00），白色文字，'Get a Free Quote'"
+        }
+      ],
+      "images": [
+        {
+          "type": "hero-banner",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "右侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Black Kitchens with Colored Countertops",
+        "subtitle": "",
+        "paragraphs": [
+          "A black kitchen offers infinite design possibilities to investigate several colors. Black has the main advantage since every hue enhances its neutrality. One could use a ceramic countertop in color as a deliberate highlight. See some expert advice if you're not sure what the perfect color is for you."
+        ],
+        "button_texts": [
+          "Get a Free Quote"
+        ],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，主内容区域改为单列布局，图片占满宽度；移动端（≤480px）按钮文字简化为'Quote'",
+      "content_summary": "页面中部图文混排模块，展示黑色厨房搭配彩色台面的设计理念，包含主标题、设计说明及行动号召按钮",
+      "special_effects": "按钮hover时背景色加深至#E67300",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_7.jpg",
+      "chunk_index": 6
+    },
+    {
+      "module_type": "content-block",
+      "module_name_suggestion": "kitchen-stainless-steel-content",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#333333",
+        "heading": "#222222",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "heading",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "主标题'Black Kitchens with Stainless Steel Countertops'，深灰色（#222222），加粗700"
+        },
+        {
+          "type": "paragraph",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "段落描述不锈钢台面的设计特点及搭配建议"
+        },
+        {
+          "type": "heading",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "副标题'Modern Black Kitchen: Which Wall Color is Ideal?'，深灰色（#222222），加粗700"
+        }
+      ],
+      "images": [
+        {
+          "type": "hero-banner",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Black Kitchens with Stainless Steel Countertops",
+        "subtitle": "",
+        "paragraphs": [
+          "This is the stunning industrial choice: a countertop made of stainless steel looks elegant. Those who are eager about this idea but concerned that the design may seem too “trendy” might choose wall colors in warm or copper tones, flooring, and ornamental accents. This produces a timeless aura and an interesting contrast.",
+          "Modern Black Kitchen: Which Wall Color is Ideal?"
+        ],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，主内容区域改为单列布局，图片占满宽度；移动端（≤480px）副标题字体缩小至18px",
+      "content_summary": "页面中部内容块，展示不锈钢台面厨房的设计特点及搭配建议，包含主标题、描述段落及后续副标题",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_8.jpg",
+      "chunk_index": 7
+    },
+    {
+      "module_type": "image-text",
+      "module_name_suggestion": "modern-black-kitchen-wall-color-image-text",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#333333",
+        "heading": "#222222",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "36px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "heading",
+          "count": 2,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "两个标题，分别是‘Modern Black Kitchen: Which Wall Color is Ideal?’（主标题，深灰色#222222，加粗700）和‘Black Kitchen with Bright Hues’（副标题，深灰色#222222，加粗600）"
+        },
+        {
+          "type": "paragraph",
+          "count": 2,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "两个段落，分别描述墙色选择原则（基于个人品味，黑色适配性强）和亮色搭配建议（黑色中性，搭配蓝、红、黄等色调，增加层次感）"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色背景（#FF8C00），白色文字，‘Get a Free Quote’"
+        }
+      ],
+      "images": [
+        {
+          "type": "image",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "右侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Modern Black Kitchen: Which Wall Color is Ideal?",
+        "subtitle": "",
+        "paragraphs": [
+          "Choosing a wall color is based on personal taste, much as deciding between matte and glossy finishes. Black kitchens are unique in their adaptability; black really goes with any color. With the color of the wall, what impact do you want? Would you want to create a warm atmosphere or play about with striking contrasts? You have the following options to choose the wall color:",
+          "Black is elegantly neutral, which is ideal for those who also like experimenting with other colors. Though it will seem darker, the wall color you choose to go with black kitchen cabinets will also feel warmer and more inviting. Often complementing the main colors of blue, red, and yellow—which can also be mixed—gasoline tones are suitable for adding complexity to the room and accentuating black's sophistication."
+        ],
+        "button_texts": [
+          "Get a Free Quote"
+        ],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，主内容区域改为单列布局，图片占满宽度；移动端（≤480px）按钮文字简化为‘Quote’",
+      "content_summary": "页面中部展示现代黑色厨房的墙色选择建议，包含主标题、墙色选择说明、亮色搭配描述及行动号召按钮",
+      "special_effects": "按钮hover时背景色加深至#E67300",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_9.jpg",
+      "chunk_index": 8
+    },
+    {
+      "module_type": "image-text",
+      "module_name_suggestion": "black-kitchen-natural-tones",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "40px",
+        "gap_vertical": "0",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#333333",
+        "heading": "#1a365d",
+        "text": "#4a5568",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "0"
+      },
+      "components": [
+        {
+          "type": "heading",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "主标题'Natural Tones in a Black Kitchen'，深蓝色（#1a365d），加粗700"
+        },
+        {
+          "type": "paragraph",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "段落描述自然色调在黑色厨房中的应用，包含浅米色墙壁、白色调及黑白组合等建议"
+        },
+        {
+          "type": "image",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "左侧厨房图片，展示自然色调与黑色厨房搭配的实景"
+        }
+      ],
+      "images": [
+        {
+          "type": "image-text",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Natural Tones in a Black Kitchen",
+        "subtitle": "",
+        "paragraphs": [
+          "Choose natural colors that will seem even more attractive next to the black kitchen for a grounded look. Interesting contrasts inside the area are created by pale beige walls. Choose a white tone if you would want it to be even more clean. While choosing furnishings, you can also play around with several black and white combinations. A wall design including glass, wood, or tiles is feasible depending on the choice of fronts and counters."
+        ],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，图文改为单列布局，图片占满宽度；移动端（≤480px）图片与文字间距调整为20px",
+      "content_summary": "展示黑色厨房中自然色调的搭配方案，通过图文结合介绍浅米色、白色等自然色与黑色厨房的对比效果及装饰建议",
+      "special_effects": "图片hover时轻微放大（可选）",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_10.jpg",
+      "chunk_index": 9
+    },
+    {
+      "module_type": "image-text",
+      "module_name_suggestion": "kitchen-flooring-options",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "none",
+        "secondary": "none",
+        "heading": "#222222",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "0"
+      },
+      "components": [
+        {
+          "type": "heading",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "主标题'What Is The Best Flooring Option For A Black Kitchen?'，深灰色（#222222），加粗700"
+        },
+        {
+          "type": "paragraph",
+          "count": 4,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "四个段落，描述黑色厨房的不同地板选项（木材、大理石、混凝土）及维护建议"
+        },
+        {
+          "type": "image",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "左侧厨房场景图片，展示黑色橱柜与浅色地板搭配"
+        }
+      ],
+      "images": [
+        {
+          "type": "content-image",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "What Is The Best Flooring Option For A Black Kitchen?",
+        "subtitle": "",
+        "paragraphs": [
+          "Dark kitchens and timber flooring: Especially when the counters are also made of wood, a wooden floor usually accentuates black kitchens elegantly. This provides consistency; different woods can create different moods.",
+          "Black and marble kitchens: This also holds true for a kitchen layout including marble counters. Here, a stone floor is a great choice to accentuate the black kitchen's characteristics.",
+          "Black kitchen and concrete floor: Exposed concrete cast floor are a somewhat modern choice; they are seamless, incredibly durable, and offer a nice contrast to black kitchen fronts with their soft gray tone.",
+          "Whichever floor appeals to your black kitchen, you should constantly give upkeep first priority. Are you always convinced that stains are removed right away? Choose a flat, even floor if you like to save more time on maintenance. If they can be regularly maintained, wooden flooring such as planks is"
+        ],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，图文布局改为单列，图片占满宽度；移动端（≤480px）主标题字体缩小至20px，段落行高调整为1.5",
+      "content_summary": "页面中部内容块，核心展示黑色厨房的最佳地板选项，通过左侧厨房图片与右侧文字说明结合，介绍木材、大理石、混凝土三种地板的特点及维护建议",
+      "special_effects": "图片hover时轻微放大（scale 1.02），文字段落 hover 时背景色变为#f8f8f8",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_11.jpg",
+      "chunk_index": 10
+    },
+    {
+      "module_type": "gallery",
+      "module_name_suggestion": "black-kitchen-cabinet-gallery",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "20px",
+        "gap_vertical": "0",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#000000",
+        "secondary": "#333333",
+        "heading": "#222222",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "40px",
+        "padding_bottom": "40px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "0"
+      },
+      "components": [
+        {
+          "type": "image",
+          "count": 2,
+          "width": "50%",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "展示黑色厨房橱柜设计案例的图片，无边框和阴影，并排排列"
+        }
+      ],
+      "images": [
+        {
+          "type": "gallery",
+          "count": 2,
+          "width": "50%",
+          "height": "auto",
+          "aspect_ratio": "16:9",
+          "position": "并排",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Black Kitchen Cabinet Design Ideas and Tips",
+        "subtitle": "",
+        "paragraphs": [],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，图片改为单列布局，占满宽度；移动端（≤480px）图片宽度100%",
+      "content_summary": "展示黑色厨房橱柜设计想法和技巧的图片画廊，包含两个设计案例图片",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_12.jpg",
+      "chunk_index": 11
+    },
+    {
+      "module_type": "content-block",
+      "module_name_suggestion": "black-kitchen-cabinet-design-ideas",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "left",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#333333",
+        "heading": "#222222",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "heading",
+          "count": 3,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "1个主标题'Black Kitchen Cabinet Design Ideas and Tips'，2个小标题'Pairing Countertops with Black Cabinets'和'Backsplash Ideas'，均为深灰色（#222222），加粗700"
+        },
+        {
+          "type": "paragraph",
+          "count": 2,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "两个段落，分别描述台面与黑色橱柜搭配及 backsplash 建议，文字为灰色（#666666），16px"
+        },
+        {
+          "type": "button",
+          "count": 2,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色背景（#FF8C00），白色文字，分别为'Need 2d/3d Designs'和'Explore more ideas'"
+        }
+      ],
+      "images": [
+        {
+          "type": "gallery",
+          "count": 2,
+          "width": "50%",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "网格排列（左右各一）",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Black Kitchen Cabinet Design Ideas and Tips",
+        "subtitle": "",
+        "paragraphs": [
+          "Countertops are quite important in balancing dark cabinets and preventing a depressing environment. Most effective counters are light-colored, such as whites and pastels. They provide contrast and concurrently light the kitchen. Marble, concrete, or quartz can also be explored; each offers distinctive themes and looks that accentuate the black kitchen cabinets for a cohesive design.",
+          "One should consider the backsplash since it gives character and depth. For this, the classic white subway tiles are the best option since they highlight the area they are applied on. Still, geometric forms and metallic highlights give the black kitchen cabinet design texture and elegance that accentuates."
+        ],
+        "button_texts": [
+          "Need 2d/3d Designs",
+          "Explore more ideas"
+        ],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，内容块改为单列布局，图片占满宽度；移动端（≤480px）按钮文字保持不变，但宽度调整为100%",
+      "content_summary": "页面中部内容块，展示黑色厨房橱柜设计想法与技巧，包含台面搭配和 backsplash 建议，每个建议配有文字说明及行动号召按钮",
+      "special_effects": "按钮hover时背景色加深至#E67300，可能有轻微阴影效果",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_13.jpg",
+      "chunk_index": 12
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "black-cabinets-features",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "left",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#333333",
+        "heading": "#222222",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "40px",
+        "padding_bottom": "30px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 2,
+          "width": "48%",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色背景卡片，包含标题、段落和橙色按钮，左侧配厨房设计图片"
+        },
+        {
+          "type": "button",
+          "count": 2,
+          "width": "150px",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色背景（#FF8C00），白色文字，分别显示'Need 2d/3d Designs'和'Explore more ideas'"
+        }
+      ],
+      "images": [
+        {
+          "type": "thumbnail",
+          "count": 2,
+          "width": "100%",
+          "height": "180px",
+          "aspect_ratio": "16:9",
+          "position": "卡片顶部",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": [
+          "Pairing Countertops with Black Cabinets",
+          "Backsplash Ideas"
+        ],
+        "subtitle": "",
+        "paragraphs": [
+          "Countertops are quite important in balancing dark cabinets and preventing a depressing environment. Most effective counters are light-colored, such as whites and pastels. They provide contrast and concurrently light the kitchen. Marble, concrete, or quartz can also be explored; each offers distinctive themes and looks that accentuate the black kitchen cabinets for a cohesive design.",
+          "One should consider the backsplash since it gives character and depth. For this, the classic white subway tiles are the best option since they highlight the area they are applied on. Still, geometric forms and metallic highlights give the black kitchen cabinet design texture and elegance that accentuates."
+        ],
+        "button_texts": [
+          "Need 2d/3d Designs",
+          "Explore more ideas"
+        ],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Pairing Countertops with Black Cabinets",
+            "description": "Countertops are quite important in balancing dark cabinets and preventing a depressing environment. Most effective counters are light-colored, such as whites and pastels. They provide contrast and concurrently light the kitchen. Marble, concrete, or quartz can also be explored; each offers distinctive themes and looks that accentuate the black kitchen cabinets for a cohesive design.",
+            "link_text": "Need 2d/3d Designs"
+          },
+          {
+            "title": "Backsplash Ideas",
+            "description": "One should consider the backsplash since it gives character and depth. For this, the classic white subway tiles are the best option since they highlight the area they are applied on. Still, geometric forms and metallic highlights give the black kitchen cabinet design texture and elegance that accentuates.",
+            "link_text": "Explore more ideas"
+          }
+        ]
+      },
+      "responsive_hints": "平板设备（≤768px）下，两列布局改为单列，卡片宽度占满容器；移动端（≤480px）按钮文字简化为'2d/3d'和'More Ideas'",
+      "content_summary": "页面中部展示两个关于黑色厨房橱柜设计的内容块，分别介绍台面搭配和 backsplash 建议，每个内容块包含图片、标题、描述及行动号召按钮",
+      "special_effects": "按钮hover时背景色加深至#E67300，卡片hover时轻微阴影效果",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_14.jpg",
+      "chunk_index": 13
+    },
+    {
+      "module_type": "content-block",
+      "module_name_suggestion": "kitchen-cabinet-supplier-selection",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#333333",
+        "heading": "#222222",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "0"
+      },
+      "components": [
+        {
+          "type": "heading",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "主标题'How to Select the Right Supplier for Black Kitchen Cabinets'，深灰色（#222222），加粗700"
+        },
+        {
+          "type": "paragraph",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "描述选择黑色厨房橱柜供应商的注意事项"
+        },
+        {
+          "type": "list",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "包含3个bullet点的列表，列出选择供应商的关键问题"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色背景（#FF8C00），白色文字，'Get a Free Quote'"
+        }
+      ],
+      "images": [
+        {
+          "type": "product",
+          "count": 1,
+          "width": "50%",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "右侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "How to Select the Right Supplier for Black Kitchen Cabinets",
+        "subtitle": "",
+        "paragraphs": [
+          "You should consider the appropriate manufacturer and what they offer while choosing your black kitchen cabinets."
+        ],
+        "button_texts": [
+          "Get a Free Quote"
+        ],
+        "list_items": [
+          {
+            "title": "Are their goods lifetime and quality guaranteed?",
+            "description": ""
+          },
+          {
+            "title": "Do the features of their cabinets stand against those of other suppliers?",
+            "description": ""
+          },
+          {
+            "title": "What designs, patterns, and like elements they offer? Exists a modern black kitchen cabinet? ones in the country-style? Timeless fashion?",
+            "description": ""
+          }
+        ],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，主内容区域改为单列布局，图片占满宽度；移动端（≤480px）按钮文字简化为'Quote'",
+      "content_summary": "页面中部内容块，核心展示选择黑色厨房橱柜供应商的指南，包含关键考虑因素及行动号召按钮",
+      "special_effects": "按钮hover时背景色加深至#E67300",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_15.jpg",
+      "chunk_index": 14
+    },
+    {
+      "module_type": "content-block",
+      "module_name_suggestion": "kitchen-cabinet-manufacturers-content",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "block",
+        "columns": 1,
+        "rows": 1,
+        "gap_horizontal": "0",
+        "gap_vertical": "0",
+        "alignment": "left",
+        "direction": "column"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#333333",
+        "heading": "#222222",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "36px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "text",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "多段文字内容，描述George Group的橱柜设计师团队服务及联系方式"
+        }
+      ],
+      "images": [],
+      "extracted_content": {
+        "main_title": "Top Kitchen Cabinet Manufacturers In China",
+        "subtitle": "",
+        "paragraphs": [
+          "The George Group's cabinet designer team will help you to create a visually arresting, elegant kitchen. Whether your desired style is harmonic two-tone or exquisite black cabinets, our experts will realize your vision with professional workmanship and bespoke solutions.",
+          "Serving clients everywhere, we simplify the process of obtaining an amazing kitchen design without demanding a complete overhaul. Get in touch right away to arrange a consultation and find out how cabinet refacing could enhance the style and efficiency of your kitchen.",
+          "Visit our extensive building materials showroom in Foshan, China, or finish the form below or give a phone +15118629986."
+        ],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下保持单列布局，文字自适应；移动端（≤480px）段落间距调整为20px",
+      "content_summary": "展示George Group作为顶级厨房橱柜制造商的服务优势，包括设计师团队的专业能力、定制解决方案及客户服务流程，并提供展厅地址和联系方式",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_16.jpg",
+      "chunk_index": 15
+    },
+    {
+      "module_type": "faq",
+      "module_name_suggestion": "kitchen-cabinets-faqs",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 1,
+        "rows": 1,
+        "gap_horizontal": "0",
+        "gap_vertical": "20px",
+        "alignment": "left",
+        "direction": "column"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#333333",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "40px",
+        "padding_bottom": "40px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "0"
+      },
+      "components": [
+        {
+          "type": "faq-item",
+          "count": 6,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "每个FAQ项包含加号图标和问题文字，垂直排列，可点击展开（当前为静态显示）"
+        },
+        {
+          "type": "heading",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "‘Get A Free Quote’标题，深灰色（#333333），加粗700"
+        }
+      ],
+      "images": [],
+      "extracted_content": {
+        "main_title": "FAQs",
+        "subtitle": "",
+        "paragraphs": [
+          "* Kindly send us your project details and floor plan. We will quote for you within 8 hours!"
+        ],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，FAQ列表保持单列，文字自动换行；移动端（≤480px）加号图标与文字对齐方式调整为左对齐",
+      "content_summary": "页面中部展示黑色厨房橱柜相关的常见问题列表，包含6个可展开的FAQ项及获取免费报价的说明",
+      "special_effects": "FAQ项的加号图标 hover 时可能变为橙色（#FF8C00），点击后展开答案（当前截图未显示展开状态）",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_17.jpg",
+      "chunk_index": 16
+    },
+    {
+      "module_type": "contact-form",
+      "module_name_suggestion": "kitchen-cabinets-contact-form",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "40px",
+        "gap_vertical": "0",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#666666",
+        "secondary": "#f8f8f8",
+        "heading": "#222222",
+        "text": "#333333",
+        "border": "#e0e0e0"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "25px"
+      },
+      "components": [
+        {
+          "type": "image",
+          "count": 1,
+          "width": "200px",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "左侧Product Manager头像图片，显示'Product Manager'标签"
+        },
+        {
+          "type": "heading",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "主标题'Get A Free Quote'，深灰色（#222222），加粗700"
+        },
+        {
+          "type": "paragraph",
+          "count": 2,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "副标题'* Kindly send us your project details and floor plan. We will quote for you within 8 hours!'和'Want to Get Best Price Kitchen Cabinets? Share floor plan or house photos for 8-hour quote'，深灰色（#333333）"
+        },
+        {
+          "type": "input",
+          "count": 5,
+          "width": "100%",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "表单输入框：Name、Email、Tel/Whatsapp、City、Country-Select，浅灰色背景（#f8f8f8），边框#e0e0e0"
+        },
+        {
+          "type": "checkbox",
+          "count": 10,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "Product Needed*下的复选框：Kitchen cabinet、Bedroom、Bathroom、Windows & Doors、Furniture、Lighting、Soft Furnishing、Tiles and Wood Flooring、Whole House Solution、Other Building Material"
+        },
+        {
+          "type": "textarea",
+          "count": 1,
+          "width": "100%",
+          "height": "120px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "Message文本框，浅灰色背景（#f8f8f8），边框#e0e0e0"
+        },
+        {
+          "type": "button",
+          "count": 2,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "Choose File按钮（默认样式）和Send按钮（灰色背景#666666，白色文字）"
+        }
+      ],
+      "images": [
+        {
+          "type": "avatar",
+          "count": 1,
+          "width": "200px",
+          "height": "auto",
+          "aspect_ratio": "1:1",
+          "position": "左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Get A Free Quote",
+        "subtitle": "* Kindly send us your project details and floor plan. We will quote for you within 8 hours!",
+        "paragraphs": [
+          "Want to Get Best Price Kitchen Cabinets?",
+          "Share floor plan or house photos for 8-hour quote"
+        ],
+        "button_texts": [
+          "Choose File",
+          "Send"
+        ],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，左右布局改为单列，图片居上，表单居下；移动端（≤480px）输入框和复选框改为全宽，间距调整为15px",
+      "content_summary": "页面中部联系表单模块，用于收集用户项目信息以获取免费报价，包含头像、表单说明、多类型输入组件及提交按钮",
+      "special_effects": "Send按钮hover时背景色加深至#555555",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_18.jpg",
+      "chunk_index": 17
+    },
+    {
+      "module_type": "faq",
+      "module_name_suggestion": "kitchen-cabinets-faq",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "columns": 1,
+        "rows": 6,
+        "gap_horizontal": "0",
+        "gap_vertical": "20px",
+        "alignment": "center",
+        "direction": "column"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#4a90e2",
+        "secondary": "#666666",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "40px",
+        "padding_bottom": "40px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "0"
+      },
+      "components": [
+        {
+          "type": "accordion",
+          "count": 6,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "6个可展开的FAQ项，每个项包含蓝色加号图标（#4a90e2）和深灰色问题文字（#666666），无边框，垂直排列"
+        }
+      ],
+      "images": [],
+      "extracted_content": {
+        "main_title": "FAQs",
+        "subtitle": "",
+        "paragraphs": [
+          "Are Black Kitchen Cabinets Trendy?",
+          "Why Do Black Cabinets So Popular?",
+          "Are Black Kitchen Cabinets Good or Bad?",
+          "Benefits of Black Kitchen Cabinets",
+          "The Challenges Black Cabinets in Your Kitchen Present",
+          "How To Clean Black Kitchen Cabinets"
+        ],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下保持单列布局，问题间距调整为15px；移动端（≤480px）加号图标尺寸缩小，问题文字字号调整为14px",
+      "content_summary": "页面中部展示关于黑色厨房橱柜的常见问题列表，帮助用户快速获取相关疑问的解答",
+      "special_effects": "加号图标hover时变为深蓝色（#2e6da4），问题文字hover时变为深灰色（#333333），点击后可展开答案（假设存在展开功能）",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_19.jpg",
+      "chunk_index": 18
+    },
+    {
+      "module_type": "footer",
+      "module_name_suggestion": "footer-section",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 4,
+        "rows": 1,
+        "gap_horizontal": "40px",
+        "gap_vertical": "20px",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#000000",
+        "primary": "#666666",
+        "secondary": "#ffffff",
+        "heading": "#ffffff",
+        "text": "#ffffff",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "18px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "text",
+          "count": 7,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色文字，显示产品类别链接（Kitchen Cabinet、Wardrobe等）"
+        },
+        {
+          "type": "text",
+          "count": 5,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色文字，显示解决方案链接（Hotel Solutions、Resort Solutions等）"
+        },
+        {
+          "type": "text",
+          "count": 7,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色文字，显示客户服务链接（CUSTOMER SERVICES、Measurement Guidance等）"
+        },
+        {
+          "type": "form",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "包含whatsapp输入框、Email输入框和Send按钮的订阅表单"
+        },
+        {
+          "type": "input",
+          "count": 2,
+          "width": "100%",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "白色背景，灰色边框，占位符分别为'whatsapp'和'Email*'"
+        },
+        {
+          "type": "button",
+          "count": 2,
+          "width": "100%",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "灰色背景（#666666），白色文字，显示'Send'"
+        }
+      ],
+      "images": [
+        {
+          "type": "none",
+          "count": 0,
+          "width": "0",
+          "height": "0",
+          "aspect_ratio": "none",
+          "position": "none",
+          "object_fit": "none",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "none"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Products, One-Stop Solutions, Customer Services, Contact Us",
+        "subtitle": "",
+        "paragraphs": [
+          "Kitchen Cabinet",
+          "Wardrobe",
+          "Windows and Doors",
+          "Bathroom",
+          "Wood Flooring",
+          "More Furniture",
+          "Whole-house Design",
+          "Hotel Solutions",
+          "Resort Solutions",
+          "Villa Solutions",
+          "Apartment Solutions",
+          "Office Solutions",
+          "CUSTOMER SERVICES",
+          "Measurement Guidance",
+          "Packaging Info",
+          "Delivery & Shipment",
+          "After Sales",
+          "Production Time",
+          "FAQ",
+          "info@georgeconstructions.com",
+          "+8613302843203",
+          "+8613302843203",
+          "Don't miss our future updates! Get Subscribed Today!"
+        ],
+        "button_texts": [
+          "Send",
+          "Send"
+        ],
+        "list_items": [
+          {
+            "title": "Products",
+            "description": "Kitchen Cabinet, Wardrobe, Windows and Doors, Bathroom, Wood Flooring, More Furniture, Whole-house Design"
+          },
+          {
+            "title": "One-Stop Solutions",
+            "description": "Hotel Solutions, Resort Solutions, Villa Solutions, Apartment Solutions, Office Solutions"
+          },
+          {
+            "title": "Customer Services",
+            "description": "CUSTOMER SERVICES, Measurement Guidance, Packaging Info, Delivery & Shipment, After Sales, Production Time, FAQ"
+          },
+          {
+            "title": "Contact Us",
+            "description": "info@georgeconstructions.com, +8613302843203, +8613302843203, Don't miss our future updates! Get Subscribed Today!"
+          }
+        ],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备（≤768px）下，footer列改为2列布局；移动端（≤480px）下改为单列布局，各模块垂直堆叠",
+      "content_summary": "页面底部footer区域，包含四个功能模块：产品类别、一站式解决方案、客户服务、联系方式，提供导航链接和订阅功能",
+      "special_effects": "按钮hover时背景色加深至#555555，链接hover时显示下划线",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/black-kitchen-cabinets_pixel_20.jpg",
+      "chunk_index": 19
+    }
+  ]
+}

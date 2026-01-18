@@ -1,0 +1,1580 @@
+{
+  "url": "https://georgeconstructions.com/melamine-kitchen-cabinets/",
+  "title": "Melamine Kitchen Cabinets - George",
+  "total_height": 10947,
+  "method": "pixel",
+  "vision_model": "glm-4.6v",
+  "screenshots": [
+    "/Users/x/AutoClone/output/screenshots/melamine-kitchen-cabinets_pixel_1.jpg",
+    "/Users/x/AutoClone/output/screenshots/melamine-kitchen-cabinets_pixel_2.jpg",
+    "/Users/x/AutoClone/output/screenshots/melamine-kitchen-cabinets_pixel_3.jpg",
+    "/Users/x/AutoClone/output/screenshots/melamine-kitchen-cabinets_pixel_4.jpg",
+    "/Users/x/AutoClone/output/screenshots/melamine-kitchen-cabinets_pixel_5.jpg",
+    "/Users/x/AutoClone/output/screenshots/melamine-kitchen-cabinets_pixel_6.jpg",
+    "/Users/x/AutoClone/output/screenshots/melamine-kitchen-cabinets_pixel_7.jpg",
+    "/Users/x/AutoClone/output/screenshots/melamine-kitchen-cabinets_pixel_8.jpg",
+    "/Users/x/AutoClone/output/screenshots/melamine-kitchen-cabinets_pixel_9.jpg",
+    "/Users/x/AutoClone/output/screenshots/melamine-kitchen-cabinets_pixel_10.jpg",
+    "/Users/x/AutoClone/output/screenshots/melamine-kitchen-cabinets_pixel_11.jpg",
+    "/Users/x/AutoClone/output/screenshots/melamine-kitchen-cabinets_pixel_12.jpg",
+    "/Users/x/AutoClone/output/screenshots/melamine-kitchen-cabinets_pixel_13.jpg",
+    "/Users/x/AutoClone/output/screenshots/melamine-kitchen-cabinets_pixel_14.jpg",
+    "/Users/x/AutoClone/output/screenshots/melamine-kitchen-cabinets_pixel_15.jpg"
+  ],
+  "chunks": [
+    {
+      "module_type": "hero",
+      "module_name_suggestion": "kitchen-cabinets-hero",
+      "is_common_module": true,
+      "layout": {
+        "container": "full-width",
+        "type": "flex",
+        "columns": 1,
+        "rows": 1,
+        "gap_horizontal": "0px",
+        "gap_vertical": "0px",
+        "alignment": "center",
+        "direction": "column"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#f5f5f5",
+        "heading": "#ffffff",
+        "text": "#333333",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "48px",
+        "heading_weight": "700",
+        "body_size": "18px",
+        "body_weight": "400",
+        "line_height": "1.5"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "0px",
+        "card_padding": "0px"
+      },
+      "components": [
+        {
+          "type": "navbar",
+          "count": 1,
+          "width": "100%",
+          "height": "80px",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "顶部导航栏，包含logo、菜单项和按钮，背景为白色"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色背景的“Quick Quote”按钮，位于导航栏右侧"
+        }
+      ],
+      "images": [
+        {
+          "type": "hero-banner",
+          "count": 1,
+          "width": "100%",
+          "height": "auto",
+          "aspect_ratio": "16:9",
+          "position": "全屏背景",
+          "object_fit": "cover",
+          "has_overlay": true,
+          "overlay_color": "rgba(0,0,0,0.3)",
+          "placeholder_suggestion": "厨房场景背景图"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "MELAMINE KITCHEN CABINETS",
+        "subtitle": "One-Stop Building Material Solution Supplier",
+        "paragraphs": [],
+        "button_texts": [
+          "Quick Quote"
+        ],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "导航栏在移动端可能折叠为汉堡菜单，hero区域图片自适应屏幕宽度",
+      "content_summary": "页面顶部主视觉横幅，展示厨房橱柜产品，包含导航栏和核心产品信息",
+      "special_effects": "hero背景图带有半透明黑色叠加层，提升文字可读性",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/melamine-kitchen-cabinets_pixel_1.jpg",
+      "chunk_index": 0
+    },
+    {
+      "module_type": "product-grid",
+      "module_name_suggestion": "kitchen-cabinets-product-grid",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 3,
+        "rows": 2,
+        "gap_horizontal": "20px",
+        "gap_vertical": "30px",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#f5f5f5",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 6,
+          "width": "320px",
+          "height": "300px",
+          "border_radius": "8px",
+          "has_shadow": true,
+          "has_border": false,
+          "details": "浅灰色背景卡片，包含厨房橱柜产品图片、标题和描述文字，带轻微阴影效果"
+        }
+      ],
+      "images": [
+        {
+          "type": "product",
+          "count": 6,
+          "width": "320px",
+          "height": "200px",
+          "aspect_ratio": "16:9",
+          "position": "网格排列（2行3列）",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Custom Melamine Cabinets",
+        "card_contents": [
+          {
+            "title": "Wood Grain Melamine Cabinets",
+            "description": "Modern Wood Grain Melamine Kitchen Cabinets Design Melamine cabinets are available in various styles..."
+          },
+          {
+            "title": "White Melamine Kitchen Cabinets",
+            "description": "Are you considering renovating or updating kitchen cabinets? If that's the case, you might be familiar..."
+          },
+          {
+            "title": "Modern Black Melamine Kitchen Cabinets",
+            "description": "Black Melamine Kitchen Cabinet for Sale Both in culinary and the fashion sector, black is a popular choice...."
+          },
+          {
+            "title": "Minimalist Melamine Kitchen Cabinets",
+            "description": "The ideal minimalist Dining room is the George simple melamine cabinet! The simplicity of these melamine..."
+          },
+          {
+            "title": "Melamine Kitchen Cabinets Design",
+            "description": "White Melamine Kitchen Cabinets Design Design of Products The kitchen design flawlessly combines beauty..."
+          },
+          {
+            "title": "Grey Melamine Kitchen Cupboards",
+            "description": "Grey Melamine Kitchen Cabinet Design Melamine kitchen cabinets are a favored option among numerous homeowners..."
+          }
+        ]
+      },
+      "responsive_hints": "平板设备显示2列，移动端显示1列（卡片垂直堆叠）",
+      "content_summary": "该区域主要展示6种不同风格的定制三聚氰胺厨房橱柜产品，包括木纹、白色、黑色、极简、设计款和灰色款式，每个产品卡片包含图片、标题和简要描述",
+      "special_effects": "卡片hover时可能触发阴影加深或文字颜色变化（截图中未显示，但为常见交互效果）",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/melamine-kitchen-cabinets_pixel_2.jpg",
+      "chunk_index": 1
+    },
+    {
+      "module_type": "content-block",
+      "module_name_suggestion": "melamine-info-content-block",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "flex",
+        "direction": "column",
+        "columns": 2,
+        "rows": 3,
+        "gap_horizontal": "20px",
+        "gap_vertical": "40px",
+        "alignment": "left",
+        "justify_content": "flex-start"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#666666",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "36px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "40px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "image",
+          "count": 3,
+          "width": "480px",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "左侧堆叠板材图片（Melamine: What Is It?部分）、右侧目录图片（CTA部分）、左侧灰色柜子图片（What Are Melamine Wood Cabinets部分），均为产品/信息展示图片"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "120px",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色背景、白色文字的'Consult'按钮，位于CTA区域"
+        },
+        {
+          "type": "heading",
+          "count": 2,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "深灰色主标题（Melamine: What Is It?、What Are Melamine Wood Cabinets），粗体显示"
+        },
+        {
+          "type": "text",
+          "count": 6,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "浅灰色正文段落，介绍Melamine的定义、特点及木柜信息"
+        }
+      ],
+      "images": [
+        {
+          "type": "image",
+          "count": 1,
+          "width": "480px",
+          "height": "auto",
+          "aspect_ratio": "4:3",
+          "position": "左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        },
+        {
+          "type": "gallery",
+          "count": 1,
+          "width": "480px",
+          "height": "auto",
+          "aspect_ratio": "auto",
+          "position": "右侧",
+          "object_fit": "contain",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "product-catalog"
+        },
+        {
+          "type": "image",
+          "count": 1,
+          "width": "480px",
+          "height": "auto",
+          "aspect_ratio": "4:3",
+          "position": "左侧",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-cabinet"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Melamine: What Is It?",
+        "subtitle": "",
+        "paragraphs": [
+          "We might as well start with the 'science bit.'",
+          "Essentially, it is a board made of raw particle board with resin-infused paper decorated with a specific grain or color fused to both sides of the board.",
+          "When the resin is subjected to heat and pressure, it securely seals the substrate.",
+          "The final product is a cabinet door made of melamine!",
+          "If you are unsure about the type of cabinetry to choose for your kitchen, think about melamine cabinets as a potential choice. You have the option to choose between readymade or personalized, depending on the amount of time you want to spend designing your kitchen.",
+          "Melamine kitchen cabinets are made with a synthetic material called melamine resin or thermally infused melamine. The melamine core material, typically consisting of particleboard or MDF, is enclosed within layers of paper coating."
+        ],
+        "button_texts": [
+          "Consult"
+        ],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板端调整为1列布局（图片与文字堆叠），移动端保持1列，按钮宽度自适应",
+      "content_summary": "该区域主要介绍Melamine材料的定义、制作工艺及Melamine木柜的特点，包含图文混排内容和下载目录的CTA按钮",
+      "special_effects": "按钮 hover 时可能呈现颜色加深效果（如#E67E00），图片 hover 时可能有轻微缩放动画",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/melamine-kitchen-cabinets_pixel_3.jpg",
+      "chunk_index": 2
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "melamine-kitchen-cabinets-features",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "block",
+        "columns": 1,
+        "rows": 1,
+        "gap_horizontal": "0px",
+        "gap_vertical": "0px",
+        "alignment": "left",
+        "direction": "column"
+      },
+      "colors": {
+        "background": "#f8f8f8",
+        "primary": "#333333",
+        "secondary": "#666666",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "40px",
+        "padding_bottom": "40px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "20px",
+        "card_padding": "0px"
+      },
+      "components": [
+        {
+          "type": "text",
+          "count": 1,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "文本内容块，包含标题和多个段落，描述 melamine 厨房橱柜的特色与优势"
+        }
+      ],
+      "images": [
+        {
+          "type": "background",
+          "count": 0,
+          "width": "0px",
+          "height": "0px",
+          "aspect_ratio": "auto",
+          "position": "无",
+          "object_fit": "none",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "无"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Features & Benefits of Melamine Kitchen Cabinets",
+        "subtitle": "",
+        "paragraphs": [
+          "Melamine cabinets are available in both glossy and matte finishes, allowing you to pick based on whether you prefer a shiny or understated appearance. You can also select from a variety of colors and designs to match your personal style!",
+          "The popularity of melamine cabinets has grown in recent years due to their versatility. It is a highly cost-effective option that is just as durable as other alternatives. Melamine cabinets have a surface that is resistant to spills, scratches, and abrasion, and can withstand high heat and moisture. Melamine kitchen cabinets have strong frames that can support heavy loads effectively. Cleaning and maintaining them is also a quick and easy task.",
+          "In summary, a melamine kitchen cabinet checked off all the boxes."
+        ],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板端和移动端保持单列布局，文本内容自适应宽度",
+      "content_summary": "该区域主要展示 melamine 厨房橱柜的特色（如光泽/哑光 finishes、颜色选择）与优势（成本效益、耐用性、抗污/抗刮/耐高温/耐湿、承重能力强、易清洁维护）",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/melamine-kitchen-cabinets_pixel_4.jpg",
+      "chunk_index": 3
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "melamine-cabinets-features",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 2,
+        "rows": 2,
+        "gap_horizontal": "30px",
+        "gap_vertical": "40px",
+        "alignment": "center",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#f0f0f0",
+        "heading": "#222222",
+        "text": "#333333",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "32px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 4,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": true,
+          "has_border": false,
+          "details": "白色卡片，带轻微阴影，左侧/顶部嵌入图片，右侧/下方展示文字描述，卡片内容包含优势标题与详细说明"
+        }
+      ],
+      "images": [
+        {
+          "type": "thumbnail",
+          "count": 4,
+          "width": "300px",
+          "height": "200px",
+          "aspect_ratio": "3:2",
+          "position": "卡片左侧/顶部",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Pros of Melamine Kitchen Cabinet",
+        "paragraphs": [
+          "If you're looking to install new kitchen cabinets or renovate your kitchen, Melamine is a common choice. Here are a few advantages and disadvantages of melamine kitchen cabinets to help you make a decision on your kitchen material."
+        ],
+        "card_contents": [
+          {
+            "title": "Very cost-effective",
+            "description": "Cost plays a significant role for numerous homeowners who are considering remodeling or constructing new cabinetry. Melamine is a great, budget-friendly choice for cabinetry. It is not just durable and visually pleasing, but also significantly cheaper than solid wood drawers and cabinets. That is the reason why melamine is an excellent option for people seeking a more budget-friendly alternative."
+          },
+          {
+            "title": "Easy maintenance",
+            "description": "Melamine offers a selection of faux wood grains in various shades and solid colors, allowing you to easily find a design that complements your kitchen's aesthetic. Whether you prefer black, white, yellowed, blue, or grey melamine cabinets, melamine can provide the desired look and feel because it is a highly adaptable material."
+          },
+          {
+            "title": "Durability",
+            "description": "Melamine is a strong material that is able to handle the rigors of daily use without damage. Perfect for kitchens, this material is resistant to scratches, stains, and moisture, ensuring your cabinets stay looking new for years."
+          },
+          {
+            "title": "Easy maintenance",
+            "description": "Melamine kitchen cabinets are simple to clean and keep in good condition. They are able to be cleaned with a soft cloth and gentle cleaner, and they resist stains and scratches."
+          }
+        ]
+      },
+      "responsive_hints": "平板端（768px-1024px）保持2列布局，移动端（<768px）调整为1列，卡片间距自适应缩小",
+      "content_summary": "该区域以网格布局展示三聚氰胺厨房橱柜的核心优势，每个优势通过图片+文字卡片形式呈现，突出成本效益、易维护、耐用性等卖点",
+      "special_effects": "卡片 hover 时阴影加深（box-shadow: 0 4px 12px rgba(0,0,0,0.15)），文字颜色从#333333变为#222222",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/melamine-kitchen-cabinets_pixel_5.jpg",
+      "chunk_index": 4
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "custom-melamine-cabinets-ideas",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 2,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0px",
+        "alignment": "center",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#444444",
+        "secondary": "#cccccc",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "50px",
+        "padding_bottom": "50px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "0px",
+        "card_padding": "25px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 2,
+          "width": "570px",
+          "height": "auto",
+          "border_radius": "0px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "深灰色背景卡片，包含标题和段落文字，无阴影和边框"
+        }
+      ],
+      "images": [
+        {
+          "type": "none",
+          "count": 0,
+          "width": "0px",
+          "height": "0px",
+          "aspect_ratio": "auto",
+          "position": "无",
+          "object_fit": "none",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "无"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Custom Melamine kitchen cabinets ideas",
+        "subtitle": "",
+        "paragraphs": [
+          "Melamine kitchen cabinets are a very popular option for modern kitchens because they combine excellent durability and elegance. This is the option for you if you’re searching for reasonably priced cabinets that will last for a long time. There aren’t many places that offer as many options as George does for melamine kitchen cabinets."
+        ],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Styles of Kitchen Cabinets",
+            "description": "We offer a plethora of melamine kitchen cabinet designs for you to choose from. You have the option to choose a classic aesthetic with embellished fixtures or opt for a modern minimalist design suited for city living. If you have a particular design in mind, we can also tailor it to your preferences!",
+            "link_text": ""
+          },
+          {
+            "title": "Colors of Kitchen Cabinets",
+            "description": "Patterned and solid color choices are offered for melamine kitchen cabinets. You have the option of selecting a faux wood grain pattern in various shades or a solid color of your choosing. If you like dark and bold or bright and stark, we’ve got you covered.",
+            "link_text": ""
+          }
+        ]
+      },
+      "responsive_hints": "平板设备显示2列，移动端设备显示1列",
+      "content_summary": "该区域主要展示定制三聚氰胺厨房橱柜的两种核心选项：橱柜风格和颜色选择，强调其设计多样性和个性化定制能力",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/melamine-kitchen-cabinets_pixel_6.jpg",
+      "chunk_index": 5
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "kitchen-cabinets-features",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 2,
+        "rows": 2,
+        "gap_horizontal": "30px",
+        "gap_vertical": "30px",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#f5f5f5",
+        "primary": "#555555",
+        "secondary": "#cccccc",
+        "heading": "#ffffff",
+        "text": "#ffffff",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "50px",
+        "padding_bottom": "50px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 4,
+          "width": "50%",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "深灰色背景卡片，包含标题和段落，无阴影和边框"
+        }
+      ],
+      "images": [
+        {
+          "type": "thumbnail",
+          "count": 4,
+          "width": "100%",
+          "height": "auto",
+          "aspect_ratio": "16:9",
+          "position": "网格排列（2列2行）",
+          "object_fit": "cover",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "gray-bg"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Custom Melamine kitchen cabinets ideas",
+        "subtitle": "Melamine kitchen cabinets are a very popular option for modern kitchens because they combine excellent durability and elegance. This is the option for you if you're searching for reasonably priced cabinets that will last for a long time. There aren't many places that offer as many options as George does for melamine kitchen cabinets.",
+        "paragraphs": [
+          "We offer a plethora of melamine kitchen cabinet designs for you to choose from. You have the option to choose a classic aesthetic with embellished fixtures or opt for a modern minimalist design suited for city living. If you have a particular design in mind, we can also tailor it to your preferences!",
+          "Patterned and solid color choices are offered for melamine kitchen cabinets. You have the option of selecting a faux wood grain pattern in various shades or a solid color of your choosing. If you like dark and bold or bright and stark, we've got you covered.",
+          "U-shaped, L-shaped, island, and more are among your options. Putting together the perfect cabinet layout for your kitchen is something our staff can do. Our melamine kitchen cabinets will help you create a visually appealing and incredibly tidy kitchen.",
+          "Melamine is a popular choice for cabinets due to its ability to solve numerous common kitchen problems. It is durable and demonstrates strong resilience to water, heat, and stains, simplifying maintenance. The shiny appearance of the material is equally appealing."
+        ],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Styles of Kitchen Cabinets",
+            "description": "We offer a plethora of melamine kitchen cabinet designs for you to choose from. You have the option to choose a classic aesthetic with embellished fixtures or opt for a modern minimalist design suited for city living. If you have a particular design in mind, we can also tailor it to your preferences!"
+          },
+          {
+            "title": "Colors of Kitchen Cabinets",
+            "description": "Patterned and solid color choices are offered for melamine kitchen cabinets. You have the option of selecting a faux wood grain pattern in various shades or a solid color of your choosing. If you like dark and bold or bright and stark, we've got you covered."
+          },
+          {
+            "title": "Custom Kitchen Cabinet Layout",
+            "description": "U-shaped, L-shaped, island, and more are among your options. Putting together the perfect cabinet layout for your kitchen is something our staff can do. Our melamine kitchen cabinets will help you create a visually appealing and incredibly tidy kitchen."
+          },
+          {
+            "title": "Materials for Contemporary Kitchen Cabinets",
+            "description": "Melamine is a popular choice for cabinets due to its ability to solve numerous common kitchen problems. It is durable and demonstrates strong resilience to water, heat, and stains, simplifying maintenance. The shiny appearance of the material is equally appealing."
+          }
+        ]
+      },
+      "responsive_hints": "平板端2列，移动端1列",
+      "content_summary": "该区域主要展示定制三聚氰胺厨房橱柜的四个核心特色：橱柜风格、颜色选择、定制布局和当代材料，每个特色以卡片形式呈现，包含标题和详细描述",
+      "special_effects": "无特殊动画效果，卡片布局简洁，重点突出文字内容",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/melamine-kitchen-cabinets_pixel_7.jpg",
+      "chunk_index": 6
+    },
+    {
+      "module_type": "content-block",
+      "module_name_suggestion": "kitchen-color-trends",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 2,
+        "rows": 2,
+        "gap_horizontal": "30px",
+        "gap_vertical": "30px",
+        "alignment": "center",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#666666",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "40px",
+        "padding_bottom": "40px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 4,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "浅灰色背景卡片，包含标题和描述文字，排列为2列2行网格"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "120px",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色背景按钮，白色文字，位于标题下方"
+        }
+      ],
+      "images": [
+        {
+          "type": "background",
+          "count": 0,
+          "width": "0",
+          "height": "0",
+          "aspect_ratio": "auto",
+          "position": "none",
+          "object_fit": "none",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "none"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Kitchen Color Trends",
+        "subtitle": "如果正在更新当前的家或翻新刚买的房子以更好地适应未来的需求，我们整理了一些现代橱柜颜色趋势，给你一些想法。这些颜色趋势中的很多都表明，房间正在被更有意识地规划，有效地将风格与功能结合起来。",
+        "paragraphs": [],
+        "button_texts": [
+          "Consult"
+        ],
+        "card_contents": [
+          {
+            "title": "Cool, Comfortable Blues",
+            "description": "Blues complement the neutral palette nicely, making them a calming choice for modern kitchens and bathrooms. Soft, pastel blues and subtle aquamarines reminiscent of the sky beautifully accentuate cabinets featuring natural wood elements, establishing a space that is cozy and calming."
+          },
+          {
+            "title": "Whites and Off-Whites",
+            "description": "White cabinets symbolize a longing for a clean living space and provide the opportunity for adaptable design to remain relevant. Homeowners are opting for white or off-white cabinets to add a positive pop of color amidst the deeper neutrals in modern homes."
+          },
+          {
+            "title": "Color Blocking",
+            "description": "Vibrant blocks of rich, traditional colors will bring a feeling of opulence to our lives. Shiny black and frosty white;"
+          },
+          {
+            "title": "Two-Tone Cabinets",
+            "description": "Two-color kitchen cabinets remain a sought-after trend for those seeking to infuse their kitchen with a unique and personalized touch. This pattern often includes using"
+          }
+        ]
+      },
+      "responsive_hints": "平板设备显示2列，移动端设备显示1列",
+      "content_summary": "该区域主要展示厨房颜色趋势，包括四种不同的颜色风格（冷蓝色、白色/米白色、色彩块、双色橱柜），每种风格配有详细描述，帮助用户了解现代厨房颜色的流行趋势",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/melamine-kitchen-cabinets_pixel_8.jpg",
+      "chunk_index": 7
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "kitchen-color-trends",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 2,
+        "rows": 2,
+        "gap_horizontal": "30px",
+        "gap_vertical": "30px",
+        "alignment": "left",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#f8f8f8",
+        "primary": "#FF8C00",
+        "secondary": "#ffffff",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "36px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 4,
+          "width": "50%",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色卡片，无阴影，显示颜色趋势标题和描述"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "120px",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色按钮，白色文字，位于主标题下方"
+        }
+      ],
+      "images": [
+        {
+          "type": "none",
+          "count": 0,
+          "width": "0",
+          "height": "0",
+          "aspect_ratio": "none",
+          "position": "none",
+          "object_fit": "none",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "none"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "Kitchen Color Trends",
+        "subtitle": "If you're updating your current home or remodeling a recently bought one to better suit your future requirements, we've put together some modern cabinet color trends to give you ideas. A lot of these color trends indicate a move towards rooms being planned with more intention, combining style with functionality effectively.",
+        "paragraphs": [
+          "Blues complement the neutral palette nicely, making them a calming choice for modern kitchens and bathrooms. Soft, pastel blues and subtle aquamarines reminiscent of the sky beautifully accentuate cabinets featuring natural wood elements, establishing a space that is cozy and calming.",
+          "White cabinets symbolize a longing for a clean living space and provide the opportunity for adaptable design to remain relevant. Homeowners are opting for white or off-white cabinets to add a positive pop of color amidst the deeper neutrals in modern homes.",
+          "Vibrant blocks of rich, traditional colors will bring a feeling of opulence to our lives. Shiny black and frosty white; classic navy and rich chesterfield green; smooth camel and bold red. One method to achieve a luxurious appearance is by highlighting differing cabinetry colors through color blocking.",
+          "Two-color kitchen cabinets remain a sought-after trend for those seeking to infuse their kitchen with a unique and personalized touch. This pattern often includes using different colors for upper and lower cabinets, like combining dark lower cabinets with light upper cabinets. Using a vibrant accent color can also be employed on a kitchen island, while maintaining the perimeter cabinets in a more neutral tone."
+        ],
+        "button_texts": [
+          "Consult"
+        ],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Cool, Comfortable Blues",
+            "description": "Blues complement the neutral palette nicely, making them a calming choice for modern kitchens and bathrooms. Soft, pastel blues and subtle aquamarines reminiscent of the sky beautifully accentuate cabinets featuring natural wood elements, establishing a space that is cozy and calming.",
+            "link_text": ""
+          },
+          {
+            "title": "Whites and Off-Whites",
+            "description": "White cabinets symbolize a longing for a clean living space and provide the opportunity for adaptable design to remain relevant. Homeowners are opting for white or off-white cabinets to add a positive pop of color amidst the deeper neutrals in modern homes.",
+            "link_text": ""
+          },
+          {
+            "title": "Color Blocking",
+            "description": "Vibrant blocks of rich, traditional colors will bring a feeling of opulence to our lives. Shiny black and frosty white; classic navy and rich chesterfield green; smooth camel and bold red. One method to achieve a luxurious appearance is by highlighting differing cabinetry colors through color blocking.",
+            "link_text": ""
+          },
+          {
+            "title": "Two-Tone Cabinets",
+            "description": "Two-color kitchen cabinets remain a sought-after trend for those seeking to infuse their kitchen with a unique and personalized touch. This pattern often includes using different colors for upper and lower cabinets, like combining dark lower cabinets with light upper cabinets. Using a vibrant accent color can also be employed on a kitchen island, while maintaining the perimeter cabinets in a more neutral tone.",
+            "link_text": ""
+          }
+        ]
+      },
+      "responsive_hints": "平板设备显示2列，移动端设备显示1列",
+      "content_summary": "该区域主要展示现代厨房橱柜的颜色趋势，包括四种不同的颜色风格：舒适蓝、白与米白、色彩块和双色橱柜",
+      "special_effects": "按钮 hover 时可能显示橙色加深效果",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/melamine-kitchen-cabinets_pixel_9.jpg",
+      "chunk_index": 8
+    },
+    {
+      "module_type": "features-service",
+      "module_name_suggestion": "customizing-melamine-cabinets-features",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 2,
+        "rows": 3,
+        "gap_horizontal": "20px",
+        "gap_vertical": "30px",
+        "alignment": "left",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#f0f0f0",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "40px",
+        "padding_bottom": "40px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 6,
+          "width": "50%",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色卡片，显示定制melamine厨房橱柜的各个特色（颜色、台面、柜体结构、照明、硬件、门）的标题和描述"
+        }
+      ],
+      "images": [],
+      "extracted_content": {
+        "main_title": "Customizing Melamine Kitchen Cabinets",
+        "paragraphs": [
+          "There are many different color choices for melamine kitchen cabinets. You can choose a hue that complements the kitchen wall paint. Choosing the right color combination can assist you in transforming your dream kitchen into a concrete manifestation, whether it's traditional, modern, or innovative.",
+          "The inner structure of the cabinets is referred to as the carcass. Particleboard elements like MCF, MDF, plywood, or solid wood veneer are popularly employed for the structure of melamine kitchen cabinets. You can select one based on your individual preferences and expected lifespan.",
+          "Cabinet hardware includes handles, knobs, locks, hinges, backplates, and latches, all of which are essential for the operation of cabinets. Various options for knobs and pulls are offered in a variety",
+          "Countertops will be regularly utilized for preparing food, handling kitchen appliances, and performing other daily tasks. Melamine countertops are easy to care for because of their smooth, non-porous surface. If they are scratched, however, you should be careful.",
+          "Integrating lighting into your kitchen layout can improve both the practicality and visual appeal of your area. Consider adding under-cabinet lighting to illuminate your countertops, or incorporating interior cabinet lighting for showcasing glass-front cabinets.",
+          "The door handles of kitchen cabinets are constructed with a melamine decorative layer on the exterior, a particleboard foundation layer, and a melamine rear layer. Having durable hinges is essential for effortlessly opening and closing"
+        ],
+        "button_texts": [],
+        "card_contents": [
+          {
+            "title": "Color",
+            "description": "There are many different color choices for melamine kitchen cabinets. You can choose a hue that complements the kitchen wall paint. Choosing the right color combination can assist you in transforming your dream kitchen into a concrete manifestation, whether it's traditional, modern, or innovative."
+          },
+          {
+            "title": "Countertops",
+            "description": "Countertops will be regularly utilized for preparing food, handling kitchen appliances, and performing other daily tasks. Melamine countertops are easy to care for because of their smooth, non-porous surface. If they are scratched, however, you should be careful."
+          },
+          {
+            "title": "Carcass Composition",
+            "description": "The inner structure of the cabinets is referred to as the carcass. Particleboard elements like MCF, MDF, plywood, or solid wood veneer are popularly employed for the structure of melamine kitchen cabinets. You can select one based on your individual preferences and expected lifespan."
+          },
+          {
+            "title": "Lighting",
+            "description": "Integrating lighting into your kitchen layout can improve both the practicality and visual appeal of your area. Consider adding under-cabinet lighting to illuminate your countertops, or incorporating interior cabinet lighting for showcasing glass-front cabinets."
+          },
+          {
+            "title": "Hardware",
+            "description": "Cabinet hardware includes handles, knobs, locks, hinges, backplates, and latches, all of which are essential for the operation of cabinets. Various options for knobs and pulls are offered in a variety"
+          },
+          {
+            "title": "Door",
+            "description": "The door handles of kitchen cabinets are constructed with a melamine decorative layer on the exterior, a particleboard foundation layer, and a melamine rear layer. Having durable hinges is essential for effortlessly opening and closing"
+          }
+        ]
+      },
+      "responsive_hints": "平板设备显示2列，移动端设备显示1列",
+      "content_summary": "该区域主要展示定制melamine厨房橱柜的六大特色方面，包括颜色选择、台面材质、柜体结构、照明设计、硬件配件及门体构造，为用户提供定制橱柜的详细选项说明",
+      "special_effects": "无明确特殊效果，卡片布局简洁，注重内容可读性",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/melamine-kitchen-cabinets_pixel_10.jpg",
+      "chunk_index": 9
+    },
+    {
+      "module_type": "content-block",
+      "module_name_suggestion": "kitchen-cabinets-customization-options",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 2,
+        "rows": 3,
+        "gap_horizontal": "30px",
+        "gap_vertical": "30px",
+        "alignment": "left",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#ffffff",
+        "primary": "#FF8C00",
+        "secondary": "#f8f8f8",
+        "heading": "#222222",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "600",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "50px",
+        "padding_bottom": "50px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "0",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 6,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "白色背景卡片，包含标题和段落，无阴影和边框"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "橙色背景按钮，白色文字，位于模块上方"
+        }
+      ],
+      "images": [
+        {
+          "type": "none",
+          "count": 0,
+          "width": "0",
+          "height": "0",
+          "aspect_ratio": "none",
+          "position": "none",
+          "object_fit": "none",
+          "has_overlay": false,
+          "overlay_color": "none",
+          "placeholder_suggestion": "none"
+        }
+      ],
+      "extracted_content": {
+        "main_title": "",
+        "subtitle": "",
+        "paragraphs": [
+          "There are many different color choices for melamine kitchen cabinets. You can choose a hue that complements the kitchen wall paint. Choosing the right color combination can assist you in transforming your dream kitchen into a concrete manifestation, whether it's traditional, modern, or innovative.",
+          "Countertops will be regularly utilized for preparing food, handling kitchen appliances, and performing other daily tasks. Melamine countertops are easy to care for because of their smooth, non-porous surface. If they are scratched, however, you should be careful.",
+          "The inner structure of the cabinets is referred to as the carcass. Particleboard elements like MCF, MDF, plywood, or solid wood veneer are popularly employed for the structure of melamine kitchen cabinets. You can select one based on your individual preferences and expected lifespan.",
+          "Integrating lighting into your kitchen layout can improve both the practicality and visual appeal of your area. Consider adding under-cabinet lighting to illuminate your countertops, or incorporating interior cabinet lighting for showcasing glass-front cabinets.",
+          "Cabinet hardware includes handles, knobs, locks, hinges, backplates, and latches, all of which are essential for the operation of cabinets. Various options for knobs and pulls are offered in a variety of materials, shapes, and dimensions.",
+          "The door handles of kitchen cabinets are constructed with a melamine decorative layer on the exterior, a particleboard foundation layer, and a melamine rear layer. Having durable hinges is essential for effortlessly opening and closing melamine cabinet doors."
+        ],
+        "button_texts": [
+          "Consult"
+        ],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Color",
+            "description": "There are many different color choices for melamine kitchen cabinets. You can choose a hue that complements the kitchen wall paint. Choosing the right color combination can assist you in transforming your dream kitchen into a concrete manifestation, whether it's traditional, modern, or innovative.",
+            "link_text": ""
+          },
+          {
+            "title": "Countertops",
+            "description": "Countertops will be regularly utilized for preparing food, handling kitchen appliances, and performing other daily tasks. Melamine countertops are easy to care for because of their smooth, non-porous surface. If they are scratched, however, you should be careful.",
+            "link_text": ""
+          },
+          {
+            "title": "Carcass Composition",
+            "description": "The inner structure of the cabinets is referred to as the carcass. Particleboard elements like MCF, MDF, plywood, or solid wood veneer are popularly employed for the structure of melamine kitchen cabinets. You can select one based on your individual preferences and expected lifespan.",
+            "link_text": ""
+          },
+          {
+            "title": "Lighting",
+            "description": "Integrating lighting into your kitchen layout can improve both the practicality and visual appeal of your area. Consider adding under-cabinet lighting to illuminate your countertops, or incorporating interior cabinet lighting for showcasing glass-front cabinets.",
+            "link_text": ""
+          },
+          {
+            "title": "Hardware",
+            "description": "Cabinet hardware includes handles, knobs, locks, hinges, backplates, and latches, all of which are essential for the operation of cabinets. Various options for knobs and pulls are offered in a variety of materials, shapes, and dimensions.",
+            "link_text": ""
+          },
+          {
+            "title": "Door",
+            "description": "The door handles of kitchen cabinets are constructed with a melamine decorative layer on the exterior, a particleboard foundation layer, and a melamine rear layer. Having durable hinges is essential for effortlessly opening and closing melamine cabinet doors.",
+            "link_text": ""
+          }
+        ]
+      },
+      "responsive_hints": "平板设备显示2列，移动端显示1列",
+      "content_summary": "该区域主要展示定制厨房橱柜的六大选项：颜色、台面、柜体结构、照明、五金件和门，每个选项包含详细说明",
+      "special_effects": "无",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/melamine-kitchen-cabinets_pixel_11.jpg",
+      "chunk_index": 10
+    },
+    {
+      "module_type": "content-block",
+      "module_name_suggestion": "kitchen-cabinets-tips",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 4,
+        "rows": 1,
+        "gap_horizontal": "20px",
+        "gap_vertical": "30px",
+        "alignment": "center",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#f8f8f8",
+        "primary": "#FF8C00",
+        "secondary": "#666666",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 4,
+          "width": "100%",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": true,
+          "has_border": false,
+          "details": "白色卡片，带轻微阴影，用于展示技巧内容"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "auto",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": true,
+          "has_border": false,
+          "details": "橙色背景按钮，白色文字，居中显示"
+        }
+      ],
+      "images": [],
+      "extracted_content": {
+        "main_title": "4 Tips for Choosing the Melamine Kitchen Cabinets",
+        "subtitle": "Consider the following ideas when choosing melamine kitchen cabinets for your area:",
+        "paragraphs": [],
+        "button_texts": [
+          "Consult"
+        ],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备下调整为2列布局，移动端设备下调整为1列布局",
+      "content_summary": "该区域主要展示选择三聚氰胺厨房橱柜的4个关键技巧，包括前期研究、需求分析、预算考虑及专业咨询建议",
+      "special_effects": "按钮 hover 时背景色加深，卡片 hover 时阴影效果增强",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/melamine-kitchen-cabinets_pixel_12.jpg",
+      "chunk_index": 11
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "melamine-cabinets-tips",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 4,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "0",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#f5f5f5",
+        "primary": "#FF8C00",
+        "secondary": "#ffffff",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "28px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "60px",
+        "padding_bottom": "60px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 4,
+          "width": "100%",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": true,
+          "has_border": false,
+          "details": "白色卡片，带轻微阴影，包含标题和段落内容"
+        }
+      ],
+      "images": [],
+      "extracted_content": {
+        "main_title": "4 Tips for Choosing the Melamine Kitchen Cabinets",
+        "subtitle": "Consider the following ideas when choosing melamine kitchen cabinets for your area:",
+        "paragraphs": [],
+        "button_texts": [
+          "Consult"
+        ],
+        "list_items": [],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备显示2列，移动端设备显示1列",
+      "content_summary": "该区域主要展示选择三聚氰胺厨房橱柜的4个核心建议，通过卡片形式分点呈现",
+      "special_effects": "按钮hover时颜色加深，卡片hover时阴影增强",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/melamine-kitchen-cabinets_pixel_13.jpg",
+      "chunk_index": 12
+    },
+    {
+      "module_type": "features",
+      "module_name_suggestion": "kitchen-cabinets-features",
+      "is_common_module": true,
+      "layout": {
+        "container": "container-1200",
+        "type": "grid",
+        "columns": 4,
+        "rows": 1,
+        "gap_horizontal": "20px",
+        "gap_vertical": "30px",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#f8f8f8",
+        "primary": "#FF8C00",
+        "secondary": "#666666",
+        "heading": "#333333",
+        "text": "#666666",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "20px"
+      },
+      "components": [
+        {
+          "type": "card",
+          "count": 4,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "8px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "浅灰色背景卡片，包含标题和段落，无阴影和边框"
+        }
+      ],
+      "images": [],
+      "extracted_content": {
+        "main_title": "Best Custom Melamine Kitchen Cabinets From China",
+        "subtitle": "",
+        "paragraphs": [
+          "Before purchasing melamine kitchen cabinets, conduct research to compare various brands and prices. This will assist you in discovering the optimal set for your requirements.",
+          "Think about how you want to use your kitchen and note the elements that are important to you. You will need cabinets with plenty of storage space if you have a large collection of pots and pans.",
+          "After you have a clear idea of your desired features, go to showrooms to view various melamine kitchen cabinets in real life. This will provide you with a sense of the various finishes and features that are on offer. Just to let you know, we invite potential clients to come to our factory and explore a variety of wooden materials and finishes firsthand.",
+          "If you are unsure about what to choose, seek assistance from a kitchen designer or contractor. They are able to assist you in narrowing down your options and locating the ideal melamine kitchen cabinets for your requirements.",
+          "You have the option to visit Foshan. Foshan, a key hub for furniture production in China, is home to numerous cabinet manufacturing businesses, stores, and showrooms. Every international visitor to Foshan is bound to be amazed by the furniture city that stretches for ten miles."
+        ],
+        "button_texts": [],
+        "list_items": [],
+        "card_contents": [
+          {
+            "title": "Do Your Research:",
+            "description": "Before purchasing melamine kitchen cabinets, conduct research to compare various brands and prices. This will assist you in discovering the optimal set for your requirements."
+          },
+          {
+            "title": "Consider your needs:",
+            "description": "Think about how you want to use your kitchen and note the elements that are important to you. You will need cabinets with plenty of storage space if you have a large collection of pots and pans."
+          },
+          {
+            "title": "Consider Your Budget:",
+            "description": "After you have a clear idea of your desired features, go to showrooms to view various melamine kitchen cabinets in real life. This will provide you with a sense of the various finishes and features that are on offer. Just to let you know, we invite potential clients to come to our factory and explore a variety of wooden materials and finishes firsthand."
+          },
+          {
+            "title": "Consult With A Professional:",
+            "description": "If you are unsure about what to choose, seek assistance from a kitchen designer or contractor. They are able to assist you in narrowing down your options and locating the ideal melamine kitchen cabinets for your requirements."
+          }
+        ]
+      },
+      "responsive_hints": "平板设备下调整为2列布局，移动端设备下调整为1列布局",
+      "content_summary": "该区域主要展示购买美耐板厨房橱柜的四个关键要点（研究、需求分析、预算考虑、专业咨询）及公司简介",
+      "special_effects": "无明显的动态效果，采用静态展示",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/melamine-kitchen-cabinets_pixel_14.jpg",
+      "chunk_index": 13
+    },
+    {
+      "module_type": "footer",
+      "module_name_suggestion": "footer-sections",
+      "is_common_module": true,
+      "layout": {
+        "container": "full-width",
+        "type": "grid",
+        "columns": 4,
+        "rows": 1,
+        "gap_horizontal": "30px",
+        "gap_vertical": "40px",
+        "alignment": "space-between",
+        "direction": "row"
+      },
+      "colors": {
+        "background": "#000000",
+        "primary": "#FF8C00",
+        "secondary": "#333333",
+        "heading": "#FFFFFF",
+        "text": "#CCCCCC",
+        "border": "none"
+      },
+      "typography": {
+        "heading_size": "24px",
+        "heading_weight": "700",
+        "body_size": "16px",
+        "body_weight": "400",
+        "line_height": "1.6"
+      },
+      "spacing": {
+        "padding_top": "80px",
+        "padding_bottom": "80px",
+        "padding_left": "15px",
+        "padding_right": "15px",
+        "element_margin": "30px",
+        "card_padding": "0px"
+      },
+      "components": [
+        {
+          "type": "text",
+          "count": 22,
+          "width": "auto",
+          "height": "auto",
+          "border_radius": "0",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "footer各分栏的列表项文本，包括产品、解决方案、客户服务、联系信息的文字内容"
+        },
+        {
+          "type": "input",
+          "count": 2,
+          "width": "200px",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": true,
+          "details": "Contact Us部分的whatsapp和Email输入框，用于订阅更新"
+        },
+        {
+          "type": "button",
+          "count": 1,
+          "width": "120px",
+          "height": "40px",
+          "border_radius": "4px",
+          "has_shadow": false,
+          "has_border": false,
+          "details": "Contact Us部分的Send按钮，用于提交订阅表单"
+        }
+      ],
+      "images": [],
+      "extracted_content": {
+        "main_title": "",
+        "subtitle": "",
+        "paragraphs": [],
+        "button_texts": [
+          "Consult",
+          "Send"
+        ],
+        "list_items": [
+          {
+            "title": "Kitchen Cabinet",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Wardrobe",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Windows and Doors",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Bathroom",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Wood Flooring",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "More Furniture",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Whole-house Design",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Hotel Solutions",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Resort Solutions",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Villa Solutions",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Apartment Solutions",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Office Solutions",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Measurement Guidance",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Packaging Info",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Delivery & Shipment",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "After Sales",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "Production Time",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "FAQ",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "info@georgeconstructions.com",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "+8613302843203",
+            "description": "",
+            "link_text": ""
+          },
+          {
+            "title": "+8613302843203",
+            "description": "",
+            "link_text": ""
+          }
+        ],
+        "card_contents": []
+      },
+      "responsive_hints": "平板设备下footer分栏调整为2列，移动端设备下调整为1列堆叠布局",
+      "content_summary": "页面底部footer区域，包含四个主要分栏：产品分类（Products）、一站式解决方案（One-Stop Solutions）、客户服务（Customer Services）、联系我们（Contact Us），提供产品列表、解决方案类型、客户服务信息和联系表单",
+      "special_effects": "列表项 hover 时可能改变文字颜色或背景，输入框 focus 时可能有边框高亮效果",
+      "screenshot": "/Users/x/AutoClone/output/screenshots/melamine-kitchen-cabinets_pixel_15.jpg",
+      "chunk_index": 14
+    }
+  ]
+}
